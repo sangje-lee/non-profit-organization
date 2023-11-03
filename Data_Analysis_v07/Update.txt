@@ -1,0 +1,8 @@
+Update
+
+- Range changed from 2016-2017, 2018-2019, 2020-2021 to
+2010-2012 (disgard later on), 2013-2015, 2016-2018, 2019-2021.
+
+- Dataset is divided into four datasets instead of division on two datasets and then divides.
+(Division still proceed in this step)
+
