@@ -1,0 +1,2 @@
+- Data_categorized_updated is the file that are spliting into four datasets from the one removed na values.
+- Data_categorized is the jupiter notebook file that are spliting into two datasets (Before 2015, After 2016) and then (only 2016 above) splited into another two datasets.
