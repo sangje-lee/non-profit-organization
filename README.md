@@ -81,8 +81,23 @@ self.ProCode - province to analysis (in numeric code)
 self.YearOutput - year that was analyized (more for panda-profiling)
 OutputResult(self) - Display the result that was analyzed.
 OutputPandaProfiling(self) - Do Panda Analysis in specific provines
+
+For custom output for provinces
+categorized_province = input('Enter your province name:') - Analysis of custom provinces, full province name required. Otherwise, error sign will rise.
+list_indicator (0-6)
+list_indicator = ["Average annual hours worked",
+             "Average annual wages and salaries",
+             "Average hourly wage",
+             "Average weekly hours worked",
+             "Hours Worked", 
+             "Number of jobs", 
+             "Wages and Salaries"]
+categorized_indicator = input('Enter your indicator number:') - Analysis of custom indicators, numerics sign required, if not prompted, it will raise error.
+
 # Contents in this pages
+<ul>
 Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.
 36100651-eng.zip - Contain original dataset employment of non-profit organizations.
 data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.
 data_analysis.pdf - contain output of technical report.
+</ul>
