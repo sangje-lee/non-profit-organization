@@ -1,12 +1,15 @@
 # non-profit-organization
 
 # Process of this analysis
-Export csv file into the big dataset.
-Filtered some columns/attributes and removed null values that are founded.
-Division into different datasets based on the Indicators (There's should be seven datasets)
-Division into four different datasets based on the year. Contains three years worth of data (2010-2012, 2013-2015, 2016-2018, 2019-2021)
-Division into four different characteristics into four dataasets.
-Division based on the GEO, provinces.
+<ul>
+  <li>Export csv file into the big dataset.</li>
+  <li>Filtered some columns/attributes and removed null values that are founded.</li>
+  <li>Division into different datasets based on the Indicators (There's should be seven datasets)</li>
+  <li>Division into four different datasets based on the year. Contains three years worth of data (2010-2012, 2013-2015, 2016-2018, 2019-2021)</li>
+  <li>Division into four different characteristics into four dataasets.</li>
+  <li>Division based on the GEO, provinces.</li>  
+</ul>
+
 
 # Variable names involve during the analysis
 
