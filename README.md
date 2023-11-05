@@ -96,8 +96,8 @@ categorized_indicator = input('Enter your indicator number:') - Analysis of cust
 
 # Contents in this pages
 <ul>
-Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.
-36100651-eng.zip - Contain original dataset employment of non-profit organizations.
-data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.
-data_analysis.pdf - contain output of technical report.
+<li>Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.</li>
+<li>36100651-eng.zip - Contain original dataset employment of non-profit organizations.</li>
+<li>data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.</li>
+<li>data_analysis.pdf - contain output of technical report.</li>
 </ul>
