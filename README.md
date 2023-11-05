@@ -10,49 +10,61 @@ Division based on the GEO, provinces.
 
 # Variable names involve during the analysis
 
-df - Whole dataset without any filtering or division
-df_sorted - Whole dataset with any filtering like removing non-important attributes.
-df_sorted_na - Whole dataset with removal of the null values inside the dataset.
+<ul>
+<li>df - Whole dataset without any filtering or division
+<li>df_sorted - Whole dataset with any filtering like removing non-important attributes.
+<li>df_sorted_na - Whole dataset with removal of the null values inside the dataset.
+</ul>
 
 Division of into new dataset based on Indicator
-df_AvgAnnHrsWrk     - Average annual hours worked
-df_AvgAnnWages      - Average annual wages and salaries
-df_AvgHrsWages      - Average hourly wage
-df_AvgWeekHrsWrked  - Average weekly hours worked
-df_Hrs_Wrked        - Hours Worked
-df_NumOfJob         - Number of jobs
-df_WagesAndSalaries - Wages and Salaries
+<ul>
+<li>df_AvgAnnHrsWrk     - Average annual hours worked
+<li>df_AvgAnnWages      - Average annual wages and salaries
+<li>df_AvgHrsWages      - Average hourly wage
+<li>df_AvgWeekHrsWrked  - Average weekly hours worked
+<li>df_Hrs_Wrked        - Hours Worked
+<li>df_NumOfJob         - Number of jobs
+<li>df_WagesAndSalaries - Wages and Salaries
+</ul>
 
 Division of into new datasset based on the GEO/year
-df_AvgAnnHrsWrk_2010 -     - Average annual hours worked in 2010
-df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013
-df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016
-df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019
+<ul>
+<li>df_AvgAnnHrsWrk_2010 -     - Average annual hours worked in 2010
+<li>df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013
+<li>df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016
+<li>df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019
 - Not being used anymore
 df_AvgAnnHrsWrk_below_2016 - Average annual hours worked below 2016
 df_AvgAnnHrsWrk_above_2017 - Average annual hours worked above 2017
+</ul>
 
 Division of into new dataset based on the group of Characteristics
-df_WagesAndSalaries_201x_ByAge          - Wages and Salaries in 201x By Age
-df_WagesAndSalaries_201x_ByGender       - Wages and Salaries in 201x By Gender Group
-df_WagesAndSalaries_201x_ByEducation    - Wages and Salaries in 201x By Education level
-df_WagesAndSalaries_201x_ByImmigrant    - Wages and Salaries in 201x By Immigrant level
-df_WagesAndSalaries_201x_ByIndigenous   - Wages and Salaries in 201x By Indigenous status
+<ul>
+<li>df_WagesAndSalaries_201x_ByAge          - Wages and Salaries in 201x By Age
+<li>df_WagesAndSalaries_201x_ByGender       - Wages and Salaries in 201x By Gender Group
+<li>df_WagesAndSalaries_201x_ByEducation    - Wages and Salaries in 201x By Education level
+<li>df_WagesAndSalaries_201x_ByImmigrant    - Wages and Salaries in 201x By Immigrant level
+<li>df_WagesAndSalaries_201x_ByIndigenous   - Wages and Salaries in 201x By Indigenous status
+</ul>
 
 Division of into new dataset based on the provinces
+<ul>
 df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 2010 by age group grouped by provinces
 df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 2010 by gender grouped by provinces
 df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 2010 by education level grouped by provinces
 df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  -- Average annual hours worked in 2010 by immigrant status  grouped by provinces
 df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 2010 by indigenous status grouped by provinces
+</ul>
 
 ProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge, pd, np, pp) - Create new object using ProvinceAnalysis using datasets and other necessary part.
+<ul>
 self.df = Dataset, the dataset that import
 self.provinces = array of provinces
 self.indicators = array of indicators
 self.characteristics = array of characteristics 
 self.year = array of years being analysis
 self.dfProvinces = array of analysis based of division by provinces, do analysis from the df Dataset
+</ul>
 
 Province [0-13]:
 ['Alberta', 'BC', 'GEO = Canada' , 'Manitoba' , 'New Brunswick', 'Newfoundland', 'Northwest Territories' , 'Nova Scotia' , 'Nunavut', 'Ontario' , 'PEI', 'Quebec', 'Saskatchewan', 'Yukon']
