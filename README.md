@@ -55,33 +55,40 @@ Division of into new dataset based on the group of Characteristics
 
 Division of into new dataset based on the provinces
 <ul>
-  <li>df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 2010 by age group grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 2010 by gender grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 2010 by education level grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  - Average annual hours worked in 2010 by immigrant status  grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 2010 by indigenous status grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 201x by age group grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 201x by gender grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 201x by education level grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  - Average annual hours worked in 201x by immigrant status  grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 201x by indigenous status grouped by provinces</li>
 </ul>
 
 ProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge, pd, np, pp) - Create new object using ProvinceAnalysis using datasets and other necessary part.
+Variables:
 <ul>
-<li>self.df = Dataset, the dataset that import</li>
-<li>self.provinces = array of provinces</li>
-<li>self.indicators = array of indicators</li>
-<li>self.characteristics = array of characteristics </li>
-<li>self.year = array of years being analysis</li>
-<li>self.dfProvinces = array of analysis based of division by provinces, do analysis from the df Dataset</li>
+  <li>self.df = Dataset, the dataset that import</li>
+  <li>self.provinces = array of provinces</li>
+  <li>self.indicators = array of indicators</li>
+  <li>self.characteristics = array of characteristics </li>
+  <li>self.year = array of years being analysis</li>
+  <li>self.dfProvinces = array of analysis based of division by provinces, do analysis from the df Dataset</li>
+</ul>
+Methods:
+<ul>
+  <li>outputAnalysis(province_id) - Output detail analysis including sum, mean, and skewness.</li>
+  <li>outputAnalysisSimple(province_id) - Summarized the output details.</li>
+  <li>outputList(province_id, num) - Output first "num" amount of dataset.</li>
+  <li>outputPandaProfiling(province_id) - Do Panda profiling for specific provinces in specific year.</li>
 </ul>
 
-Province [0-13]:
-['Alberta', 'BC', 'GEO = Canada' , 'Manitoba' , 'New Brunswick', 'Newfoundland', 'Northwest Territories' , 'Nova Scotia' , 'Nunavut', 'Ontario' , 'PEI', 'Quebec', 'Saskatchewan', 'Yukon']
-outputAnalysis(province_id) - Output detail analysis including sum, mean, and skewness.
-outputAnalysisSimple(province_id) - Summarized the output details.
-outputList(province_id, num) - Output first "num" amount of dataset.
-outputPandaProfiling(province_id) - Do Panda profiling for specific provinces in specific year.
+Province Code [0-13]:
+['Alberta', 'BC', 'GEO = Canada' , 'Manitoba' , 'New Brunswick', 'Newfoundland', 'Northwest Territories' , 'Nova Scotia' , 'Nunavut', 'Ontario' , 'PEI', 'Quebec', 'Saskatchewan', 'Yukon'] <br />
 
 OutputProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge_Provinces, ProCode, "201x", pd, np, pp) - Create new object using ProvinceAnalysis using dataset and other necessary part.
-ProCode is code for the provinces mentions above.
-"201x" here is the year of the analysis.
+<ul>
+  <li>ProCode is code for the provinces mentions above.</li>
+  <li>"201x" here is the year of the analysis.</li>
+</ul>
+
 self.df_output - dataset that are analyzing
 self.ProCode - province to analysis (in numeric code)
 self.YearOutput - year that was analyized (more for panda-profiling)
