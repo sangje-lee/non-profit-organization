@@ -32,7 +32,7 @@ Division of into new dataset based on Indicator
 
 Division of into new datasset based on the GEO/year
 <ul>
-  <li>df_AvgAnnHrsWrk_2010 -     - Average annual hours worked in 2010</li>
+  <li>df_AvgAnnHrsWrk_2010       - Average annual hours worked in 2010</li>
   <li>df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013</li>
   <li>df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016</li>
   <li>df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019</li>
@@ -96,22 +96,26 @@ OutputProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge_Provinces, ProCode, "201x", pd
   <li>OutputPandaProfiling(self) - Do Panda Analysis in specific provinces</li>
 </ul>
 
-For custom output for provinces
-categorized_province = input('Enter your province name:') - Analysis of custom provinces, full province name required. Otherwise, error sign will rise.
-list_indicator (0-6)
-list_indicator = ["Average annual hours worked",
-             "Average annual wages and salaries",
-             "Average hourly wage",
-             "Average weekly hours worked",
-             "Hours Worked", 
-             "Number of jobs", 
-             "Wages and Salaries"]
-categorized_indicator = input('Enter your indicator number:') - Analysis of custom indicators, numerics sign required, if not prompted, it will raise error.
+<h3>For custom output for provinces</h3>
+<p> For first input (variable categorized_province), </p>
+<p> Input the province to analysis, full province name required. Otherwise, error sign will rise. </p>
+<p> For second input,</p>
+<p> From the numeric code below from 0 - 6 (variable list_indicator), </p>
+<ul>
+  <li>"0. Average annual hours worked"</li>
+  <li>"1. Average annual wages and salaries"</li>
+  <li>"2. Average hourly wage"</li>
+  <li>"3. Average weekly hours worked"</li>
+  <li>"4. Hours Worked"</li> 
+  <li>"5. Number of jobs"</li> 
+  <li>"6. Wages and Salaries"</li>
+</ul>
+<p>Input the indicators required, numerics sign required, if not prompted, it will raise error.</p>
 
 # Contents in this pages
 <ul>
-<li>Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.</li>
-<li>36100651-eng.zip - Contain original dataset employment of non-profit organizations.</li>
-<li>data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.</li>
-<li>data_analysis.pdf - contain output of technical report.</li>
+  <li>Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.</li>
+  <li>36100651-eng.zip - Contain original dataset employment of non-profit organizations.</li>
+  <li>data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.</li>
+  <li>data_analysis.pdf - contain output of technical report.</li>
 </ul>
