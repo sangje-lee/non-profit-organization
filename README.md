@@ -116,6 +116,10 @@ OutputProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge_Provinces, ProCode, "201x", pd
 <ul>
   <li>Data_Anlaysis_x - Contain last modified work. Last one is Data_Analysis_v07.</li>
   <li>36100651-eng.zip - Contain original dataset employment of non-profit organizations.</li>
-  <li>data_analysis.ipynb/data_analysis.py - contain technical report in Jupiter Report / Python file.</li>
-  <li>data_analysis.pdf - contain output of technical report.</li>
+  <li>36100651.csv - Contain original dataset employment of non-profit organizations in csv file.</li>
+  <li>EDA_Report_v00.pdf - Inital EDA Report before spliting dataset</li>
+  <li>data_analysis_categorized_technical_report.ipynb - Contain techncial report in Jupiter Notebook</li>
+  <li>data_analysis_categorized_technical_report.py - contain technical report in Python file.</li>
+  <li>data_analysis_categorized_technical_report.html - contain technical report in html file.</li>
+  <li>data_analysis_categorized_technical_report.pdf - contain technical report in pdf file.</li>
 </ul>
