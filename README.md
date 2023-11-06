@@ -14,59 +14,62 @@
 # Variable names involve during the analysis
 
 <ul>
-<li>df - Whole dataset without any filtering or division</li>
-<li>df_sorted - Whole dataset with any filtering like removing non-important attributes.</li>
-<li>df_sorted_na - Whole dataset with removal of the null values inside the dataset.</li>
+  <li>df - Whole dataset without any filtering or division</li>
+  <li>df_sorted - Whole dataset with any filtering like removing non-important attributes.</li>
+  <li>df_sorted_na - Whole dataset with removal of the null values inside the dataset.</li>
 </ul>
 
 Division of into new dataset based on Indicator
 <ul>
-<li>df_AvgAnnHrsWrk     - Average annual hours worked</li>
-<li>df_AvgAnnWages      - Average annual wages and salaries</li>
-<li>df_AvgHrsWages      - Average hourly wage</li>
-<li>df_AvgWeekHrsWrked  - Average weekly hours worked</li>
-<li>df_Hrs_Wrked        - Hours Worked</li>
-<li>df_NumOfJob         - Number of jobs</li>
-<li>df_WagesAndSalaries - Wages and Salaries</li>
+  <li>df_AvgAnnHrsWrk     - Average annual hours worked</li>
+  <li>df_AvgAnnWages      - Average annual wages and salaries</li>
+  <li>df_AvgHrsWages      - Average hourly wage</li>
+  <li>df_AvgWeekHrsWrked  - Average weekly hours worked</li>
+  <li>df_Hrs_Wrked        - Hours Worked</li>
+  <li>df_NumOfJob         - Number of jobs</li>
+  <li>df_WagesAndSalaries - Wages and Salaries</li>
 </ul>
 
 Division of into new datasset based on the GEO/year
 <ul>
-<li>df_AvgAnnHrsWrk_2010 -     - Average annual hours worked in 2010</li>
-<li>df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013</li>
-<li>df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016</li>
-<li>df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019</li>
-- Not being used anymore
-df_AvgAnnHrsWrk_below_2016 - Average annual hours worked below 2016</li>
-df_AvgAnnHrsWrk_above_2017 - Average annual hours worked above 2017</li>
+  <li>df_AvgAnnHrsWrk_2010 -     - Average annual hours worked in 2010</li>
+  <li>df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013</li>
+  <li>df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016</li>
+  <li>df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019</li>
+</ul>
+Not being used anymore
+<ul>
+  <li>df_AvgAnnHrsWrk_below_2016 - Average annual hours worked below 2016</li>
+  <li>df_AvgAnnHrsWrk_above_2017 - Average annual hours worked above 2017</li>
 </ul>
 
+# Variable names involve during the analysis
 Division of into new dataset based on the group of Characteristics
 <ul>
-<li>df_WagesAndSalaries_201x_ByAge          - Wages and Salaries in 201x By Age</li>
-<li>df_WagesAndSalaries_201x_ByGender       - Wages and Salaries in 201x By Gender Group</li>
-<li>df_WagesAndSalaries_201x_ByEducation    - Wages and Salaries in 201x By Education level</li>
-<li>df_WagesAndSalaries_201x_ByImmigrant    - Wages and Salaries in 201x By Immigrant level</li>
-<li>df_WagesAndSalaries_201x_ByIndigenous   - Wages and Salaries in 201x By Indigenous status</li>
+  <li>df_WagesAndSalaries_201x_ByAge          - Wages and Salaries in 201x By Age</li>
+  <li>df_WagesAndSalaries_201x_ByGender       - Wages and Salaries in 201x By Gender Group</li>
+  <li>df_WagesAndSalaries_201x_ByEducation    - Wages and Salaries in 201x By Education level</li>
+  <li>df_WagesAndSalaries_201x_ByImmigrant    - Wages and Salaries in 201x By Immigrant level</li>
+  <li>df_WagesAndSalaries_201x_ByIndigenous   - Wages and Salaries in 201x By Indigenous status</li>
 </ul>
 
 Division of into new dataset based on the provinces
 <ul>
-<li>df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 2010 by age group grouped by provinces</li>
-<li>df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 2010 by gender grouped by provinces</li>
-<li>df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 2010 by education level grouped by provinces</li>
-<li>df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  - Average annual hours worked in 2010 by immigrant status  grouped by provinces</li>
-<li>df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 2010 by indigenous status grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 2010 by age group grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 2010 by gender grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 2010 by education level grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  - Average annual hours worked in 2010 by immigrant status  grouped by provinces</li>
+  <li>df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 2010 by indigenous status grouped by provinces</li>
 </ul>
 
 ProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge, pd, np, pp) - Create new object using ProvinceAnalysis using datasets and other necessary part.
 <ul>
-self.df = Dataset, the dataset that import
-self.provinces = array of provinces
-self.indicators = array of indicators
-self.characteristics = array of characteristics 
-self.year = array of years being analysis
-self.dfProvinces = array of analysis based of division by provinces, do analysis from the df Dataset
+<li>self.df = Dataset, the dataset that import</li>
+<li>self.provinces = array of provinces</li>
+<li>self.indicators = array of indicators</li>
+<li>self.characteristics = array of characteristics </li>
+<li>self.year = array of years being analysis</li>
+<li>self.dfProvinces = array of analysis based of division by provinces, do analysis from the df Dataset</li>
 </ul>
 
 Province [0-13]:
