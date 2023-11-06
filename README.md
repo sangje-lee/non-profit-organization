@@ -63,7 +63,7 @@ Division of into new dataset based on the provinces
 </ul>
 
 ProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge, pd, np, pp) - Create new object using ProvinceAnalysis using datasets and other necessary part.
-Variables:
+<br />Variables:
 <ul>
   <li>self.df = Dataset, the dataset that import</li>
   <li>self.provinces = array of provinces</li>
@@ -88,12 +88,13 @@ OutputProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge_Provinces, ProCode, "201x", pd
   <li>ProCode is code for the provinces mentions above.</li>
   <li>"201x" here is the year of the analysis.</li>
 </ul>
-
-self.df_output - dataset that are analyzing
-self.ProCode - province to analysis (in numeric code)
-self.YearOutput - year that was analyized (more for panda-profiling)
-OutputResult(self) - Display the result that was analyzed.
-OutputPandaProfiling(self) - Do Panda Analysis in specific provines
+<ul>
+  <li>self.df_output - dataset that are analyzing</li>
+  <li>self.ProCode - province to analysis (in numeric code)</li>
+  <li>self.YearOutput - year that was analyized (more for panda-profiling)</li>
+  <li>OutputResult(self) - Display the result that was analyzed.</li>
+  <li>OutputPandaProfiling(self) - Do Panda Analysis in specific provinces</li>
+</ul>
 
 For custom output for provinces
 categorized_province = input('Enter your province name:') - Analysis of custom provinces, full province name required. Otherwise, error sign will rise.
