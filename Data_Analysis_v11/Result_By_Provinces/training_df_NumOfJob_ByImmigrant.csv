@@ -1,0 +1,793 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2013,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,540480.0
+2013,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1714659.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,169127.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,585234.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,128206.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,443179.0
+2013,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,40922.0
+2013,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,142055.0
+2013,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,371351.0
+2013,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1129424.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2226.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,37701.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,226.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,7785.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,193.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,6107.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1678.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2000.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,29915.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,837.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,10676.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,194.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2755.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,158.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,2087.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,36.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,667.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,644.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,7921.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6367.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,65206.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1294.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18164.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1055.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,14675.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,238.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3489.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5073.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,47042.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2812.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,45536.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,593.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,12441.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,459.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,9556.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,134.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2885.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2219.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,33096.0
+2013,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,96965.0
+2013,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,491788.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,28478.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,157894.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,22013.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,119127.0
+2013,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6466.0
+2013,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,38767.0
+2013,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,68486.0
+2013,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,333894.0
+2013,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,228274.0
+2013,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,518238.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,82921.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,203836.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,61991.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,152729.0
+2013,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,20930.0
+2013,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,51107.0
+2013,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,145353.0
+2013,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,314402.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,24832.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,83650.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,5686.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,28010.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,4850.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,23550.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,836.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4461.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,19146.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55639.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,12005.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,71489.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,2317.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18841.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1949.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15016.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,369.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3825.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,9687.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,52648.0
+2013,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,72665.0
+2013,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,184996.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,17650.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,58935.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,13385.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,43165.0
+2013,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4266.0
+2013,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,15770.0
+2013,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,55014.0
+2013,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,126061.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,92802.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,199183.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,29499.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,73672.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,21916.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,54649.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7583.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,19023.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,63304.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,125511.0
+2013,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,226.0
+2013,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1660.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,115.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,911.0
+2013,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,110.0
+2013,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,750.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,406.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3363.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,116.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1182.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,96.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,989.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,20.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,193.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,290.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2180.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,63.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1173.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,38.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,808.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,25.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,365.0
+2014,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,552297.0
+2014,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1732226.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,172293.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,591519.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,131066.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,448764.0
+2014,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,41223.0
+2014,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,142758.0
+2014,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,380005.0
+2014,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1140705.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2271.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,38145.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,219.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,7547.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,184.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,5876.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,35.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1671.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2052.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,30598.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,835.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,10773.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,194.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2749.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,158.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,2067.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,36.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,682.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,641.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,8024.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6638.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,67520.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1323.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18470.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1091.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15089.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,232.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3381.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5315.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,49050.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2860.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,45522.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,611.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,12607.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,476.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,9714.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,134.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2893.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2250.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,32915.0
+2014,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,98992.0
+2014,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,492009.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,28969.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,156922.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,22573.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,119307.0
+2014,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6395.0
+2014,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,37616.0
+2014,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,70023.0
+2014,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,335087.0
+2014,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,232730.0
+2014,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,527812.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,84449.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,208953.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,63290.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,156440.0
+2014,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,21159.0
+2014,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,52513.0
+2014,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,148281.0
+2014,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,318859.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,25553.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,84391.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,5729.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,27925.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,4868.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,23247.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,861.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4678.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,19824.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,56466.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,12727.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,72176.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,2462.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18810.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,2097.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15148.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,364.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3663.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,10265.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,53365.0
+2014,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,75119.0
+2014,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,186656.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,18304.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,60101.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,14003.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,44277.0
+2014,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4301.0
+2014,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,15824.0
+2014,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,56815.0
+2014,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,126555.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,93861.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,200914.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,29756.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,74469.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,22082.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,55013.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7674.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,19457.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,64105.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,126445.0
+2014,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,235.0
+2014,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1754.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,119.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,975.0
+2014,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,116.0
+2014,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,779.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,416.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3447.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,122.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1255.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,102.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1063.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,20.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,192.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,294.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2191.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,60.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1107.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,36.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,736.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,24.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,371.0
+2015,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,569900.0
+2015,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1754860.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,180569.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,607664.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,135987.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,457243.0
+2015,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,44584.0
+2015,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,150422.0
+2015,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,389331.0
+2015,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1147194.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2337.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,37670.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,229.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,7747.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,191.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,5915.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,38.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1832.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2108.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,29922.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,869.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,10916.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,190.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2641.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,151.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1982.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,39.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,658.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,679.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,8276.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6897.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,68507.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1357.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18781.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1105.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15067.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,253.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3715.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5539.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,49726.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2930.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,45592.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,610.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,12377.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,478.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,9514.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,132.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2864.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2320.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,33215.0
+2015,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,100760.0
+2015,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,491659.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,29974.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,158659.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,23080.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,119535.0
+2015,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6895.0
+2015,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,39124.0
+2015,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,70786.0
+2015,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,332999.0
+2015,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,239511.0
+2015,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,538663.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,88131.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,216423.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,65413.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,160926.0
+2015,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,22717.0
+2015,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55497.0
+2015,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,151381.0
+2015,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,322239.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,26393.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,85244.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,6148.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,28879.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,5231.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,24025.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,917.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4854.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,20245.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,56365.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,13816.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,74978.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,2595.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19374.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,2209.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15647.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,386.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3727.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,11221.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55604.0
+2015,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,78317.0
+2015,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,189490.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,19124.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,61387.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,14596.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,45111.0
+2015,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4528.0
+2015,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,16277.0
+2015,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,59193.0
+2015,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,128102.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,97312.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,205524.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,31925.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,78382.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,23281.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,56878.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8644.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,21503.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,65387.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,127143.0
+2015,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,241.0
+2015,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1743.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,118.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,976.0
+2015,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,123.0
+2015,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,767.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,455.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3790.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,128.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1307.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,107.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1108.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,22.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,199.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,327.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2483.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,62.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1084.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,40.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,731.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,22.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,353.0
+2016,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,592234.0
+2016,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1776859.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,190343.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,620876.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,142982.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,468237.0
+2016,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,47360.0
+2016,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,152639.0
+2016,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,401890.0
+2016,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1155985.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2393.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,38068.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,248.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,7984.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,203.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,6067.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,45.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1917.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2145.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,30085.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,936.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,11104.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,211.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2734.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,164.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1999.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,47.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,734.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,724.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,8371.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7259.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,69384.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1479.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19579.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1181.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15482.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,298.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4097.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5780.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,49805.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,3145.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,47125.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,694.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,12980.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,531.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,9953.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,163.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3027.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2451.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,34144.0
+2016,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,105021.0
+2016,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,491040.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,31655.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,160106.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,24169.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,120504.0
+2016,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7486.0
+2016,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,39602.0
+2016,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,73366.0
+2016,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,330934.0
+2016,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,248474.0
+2016,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,549321.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,92963.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,221963.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,69027.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,166356.0
+2016,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,23935.0
+2016,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55607.0
+2016,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,155511.0
+2016,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,327359.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,27251.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,85709.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,6523.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,29372.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,5534.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,24487.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,989.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4885.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,20728.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,56337.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,14341.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,75162.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,2806.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,20112.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,2380.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,16229.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,426.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3883.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,11535.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55050.0
+2016,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,80987.0
+2016,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,191576.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,19713.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,61415.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,14976.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,44950.0
+2016,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4737.0
+2016,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,16465.0
+2016,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,61274.0
+2016,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,130161.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,101599.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,211535.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,33733.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,81511.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,24538.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,59484.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,9195.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,22027.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,67866.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,130024.0
+2016,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,263.0
+2016,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1811.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,136.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1033.0
+2016,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,127.0
+2016,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,778.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,501.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3951.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,141.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1361.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,117.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1148.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,24.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,213.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,360.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2590.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,64.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1073.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,41.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,726.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,23.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,347.0
+2017,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,606032.0
+2017,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1773666.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,197346.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,626134.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,148182.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,475300.0
+2017,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,49165.0
+2017,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,150834.0
+2017,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,408686.0
+2017,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1147534.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2365.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,37293.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,270.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,8043.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,224.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,6218.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,47.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1825.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2095.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,29250.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,992.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,11136.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,235.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2863.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,180.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,2107.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,55.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,757.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,758.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,8272.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7650.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,69910.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1548.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19272.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1248.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15403.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,301.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3868.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6102.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,50638.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,3280.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,47166.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,767.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,13434.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,588.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,10331.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,179.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3103.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2512.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,33733.0
+2017,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,107042.0
+2017,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,483454.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,32967.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,161444.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,24945.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,121389.0
+2017,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8022.0
+2017,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,40055.0
+2017,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,74075.0
+2017,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,322010.0
+2017,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,254961.0
+2017,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,553621.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,96220.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,224477.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,71377.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,169572.0
+2017,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,24842.0
+2017,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,54905.0
+2017,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,158741.0
+2017,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,329144.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,28109.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,85710.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,6920.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,29559.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,5892.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,24826.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,1028.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4734.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,21189.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,56151.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,14892.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,74952.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,2971.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,20223.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,2514.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,16342.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,458.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3881.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,11920.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,54730.0
+2017,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,82700.0
+2017,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,191601.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,20238.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,61299.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,15558.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,45715.0
+2017,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4679.0
+2017,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,15583.0
+2017,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,62463.0
+2017,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,130302.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,103169.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,211922.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,34873.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,82359.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,25355.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,60607.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,9517.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,21752.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,68297.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,129563.0
+2017,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,280.0
+2017,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1827.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,148.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1029.0
+2017,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,132.0
+2017,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,798.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,522.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3947.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,144.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1355.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,125.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1193.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,19.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,162.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,378.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2592.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,70.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1127.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,45.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,777.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,24.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,351.0
+2018,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,626191.0
+2018,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1796966.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,204312.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,635235.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,153973.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,483575.0
+2018,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,50338.0
+2018,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,151661.0
+2018,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,421878.0
+2018,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1161732.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2440.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,38455.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,292.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,8183.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,239.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,6331.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,53.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1852.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2148.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,30272.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,1052.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,11202.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,254.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,2875.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,195.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,2132.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,59.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,743.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,798.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,8327.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8063.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,71392.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1647.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19603.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1326.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15687.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,320.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3916.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6416.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,51789.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,3418.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,47175.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,815.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,13618.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,624.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,10492.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,192.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3125.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,2603.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,33557.0
+2018,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,112945.0
+2018,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,491627.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,34593.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,163470.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,26252.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,123108.0
+2018,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8341.0
+2018,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,40362.0
+2018,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,78352.0
+2018,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,328158.0
+2018,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,259942.0
+2018,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,558158.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,98889.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,228330.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,73725.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,173767.0
+2018,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,25164.0
+2018,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,54564.0
+2018,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,161052.0
+2018,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,329828.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,28872.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,85758.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,7240.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,30080.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,6149.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,25165.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,1091.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4915.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,21632.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55678.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,15650.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,75886.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,3176.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,20605.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,2673.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,16625.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,503.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3979.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,12474.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55281.0
+2018,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,86120.0
+2018,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,194831.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,21478.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,62533.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,16565.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,46557.0
+2018,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4913.0
+2018,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,15976.0
+2018,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,64642.0
+2018,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,132298.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,106779.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,215625.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,35574.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,82810.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,25910.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,60935.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,9664.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,21875.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,71205.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,132815.0
+2018,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,289.0
+2018,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1792.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,156.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,996.0
+2018,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,134.0
+2018,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,796.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,549.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3950.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,152.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,1367.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,131.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,1207.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,21.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,161.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,397.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,2583.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,72.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,1115.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,46.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,765.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,25.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,350.0

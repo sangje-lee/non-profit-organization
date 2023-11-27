@@ -1,0 +1,397 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.6
+2019,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.49
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,26.19
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.27
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.92
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,26.03
+2019,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.77
+2019,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.91
+2019,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.64
+2019,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.32
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.97
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.01
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.95
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.37
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,19.96
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,21.95
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.77
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.7
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,41.63
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.1
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.81
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,17.12
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,19.57
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,16.93
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,19.24
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,17.61
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,20.48
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.09
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.35
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.93
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.28
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,22.05
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.6
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,21.23
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,23.96
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.63
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.09
+2019,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.6
+2019,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.71
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.73
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,20.59
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,19.25
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,19.59
+2019,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,21.42
+2019,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,23.95
+2019,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,41.84
+2019,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.29
+2019,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.9
+2019,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.78
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.48
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.13
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.64
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.33
+2019,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,25.8
+2019,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.28
+2019,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.93
+2019,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.51
+2019,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.2
+2019,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.9
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,27.76
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,29.24
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,26.16
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,27.62
+2019,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.05
+2019,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.06
+2019,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.16
+2019,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.13
+2019,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,27.95
+2019,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.02
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.03
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.41
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.4
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.31
+2019,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.7
+2019,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.71
+2019,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.15
+2019,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.96
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.13
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.72
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.22
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.15
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.91
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,22.55
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.8
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.43
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.99
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.94
+2019,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.88
+2019,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.39
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,26.1
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,28.6
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,25.23
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,27.31
+2019,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.84
+2019,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.17
+2019,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.77
+2019,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.18
+2019,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.26
+2019,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.38
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,26.26
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.88
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,25.22
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,26.74
+2019,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.85
+2019,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.8
+2019,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.17
+2019,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.16
+2019,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.72
+2019,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,39.85
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,29.89
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,31.7
+2019,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,40.91
+2019,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,48.72
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,39.98
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,41.79
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.57
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.2
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.82
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.8
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.1
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.62
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,47.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,49.39
+2019,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,46.19
+2019,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,46.38
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,41.22
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,44.03
+2019,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,54.94
+2019,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,51.61
+2020,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.6
+2020,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.66
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,28.92
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,30.26
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,27.59
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,29.01
+2020,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.64
+2020,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.96
+2020,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.96
+2020,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.74
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,39.77
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.25
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.76
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.6
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.69
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.27
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.17
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,41.75
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.5
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.67
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.92
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.02
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,21.54
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,19.01
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,21.38
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,19.04
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,22.06
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.69
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.55
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.62
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.66
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.98
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.74
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.36
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.05
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.35
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.25
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.35
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.26
+2020,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.75
+2020,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.9
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.33
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.12
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.07
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,22.31
+2020,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,23.21
+2020,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.69
+2020,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,43.27
+2020,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.48
+2020,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.42
+2020,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.45
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.15
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,28.42
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.14
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,27.56
+2020,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.1
+2020,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.87
+2020,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.53
+2020,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.08
+2020,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.17
+2020,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,31.44
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,33.16
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,29.87
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,31.53
+2020,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.47
+2020,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.9
+2020,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.63
+2020,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.66
+2020,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.18
+2020,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.51
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.3
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.13
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.67
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.08
+2020,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,25.69
+2020,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.84
+2020,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.59
+2020,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.71
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.54
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.49
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.5
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.49
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.39
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.16
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.01
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.7
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.89
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.21
+2020,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.26
+2020,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.16
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,28.02
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,31.73
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,26.77
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,30.15
+2020,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.94
+2020,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.98
+2020,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.82
+2020,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,38.02
+2020,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.42
+2020,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.69
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,28.57
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,30.55
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,27.61
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,29.51
+2020,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.07
+2020,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.38
+2020,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.88
+2020,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.89
+2020,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.76
+2020,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,41.56
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,31.7
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,33.88
+2020,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,46.26
+2020,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,49.87
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,40.65
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,42.19
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,27.8
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,30.14
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,27.57
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,29.08
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.57
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.68
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,45.61
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,47.58
+2020,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,51.78
+2020,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,50.25
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,49.58
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,49.15
+2020,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,56.12
+2020,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,52.66
+2021,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.11
+2021,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.19
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,28.63
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,29.77
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,27.17
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,28.38
+2021,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.59
+2021,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.82
+2021,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.46
+2021,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.35
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.27
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.03
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.74
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.22
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.68
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.91
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.77
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.39
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,40.29
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.4
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.72
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.72
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.06
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,21.64
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,18.79
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,21.12
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,20.18
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,23.5
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.79
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.27
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.16
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.79
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.8
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.34
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.12
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.58
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.36
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.1
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.46
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.07
+2021,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,37.13
+2021,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.09
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.96
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,21.78
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.6
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,20.88
+2021,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.12
+2021,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,24.62
+2021,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,41.85
+2021,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.04
+2021,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.3
+2021,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.19
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.41
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,28.43
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.15
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,27.28
+2021,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.01
+2021,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.68
+2021,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.34
+2021,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.76
+2021,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.81
+2021,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.57
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,30.91
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,32.56
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,29.23
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,30.84
+2021,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.12
+2021,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.42
+2021,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,38.41
+2021,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,37.38
+2021,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.96
+2021,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.27
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.13
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.91
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.63
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.07
+2021,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.76
+2021,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.57
+2021,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.39
+2021,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.46
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.8
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.25
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.03
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,22.65
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.37
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,21.58
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.66
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.33
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.96
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.92
+2021,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.97
+2021,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.86
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,26.91
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,30.5
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,25.83
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,29.2
+2021,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.19
+2021,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.83
+2021,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.53
+2021,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.73
+2021,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.73
+2021,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.11
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,29.1
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,30.83
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,27.99
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,29.64
+2021,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.86
+2021,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.89
+2021,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.76
+2021,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.94
+2021,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,37.25
+2021,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,40.24
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,31.04
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,33.78
+2021,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,43.86
+2021,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,47.38
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,43.34
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,44.9
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,29.67
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,32.1
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,29.53
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,31.11
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.43
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,38.41
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,48.98
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,50.94
+2021,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,49.69
+2021,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,47.99
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,45.71
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,45.37
+2021,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,60.18
+2021,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,55.32

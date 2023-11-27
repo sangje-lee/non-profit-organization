@@ -1,0 +1,421 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56604.0
+2019,2016A000011124,Canada,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48072.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,48489.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,38095.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,44267.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,36555.0
+2019,2016A000011124,Canada,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57815.0
+2019,2016A000011124,Canada,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44080.0
+2019,2016A000011124,Canada,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61889.0
+2019,2016A000011124,Canada,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52889.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56832.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51344.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,44767.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,35613.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39843.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,34404.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56640.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,40491.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61345.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54890.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,50170.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,43230.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,33797.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,28630.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,32342.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,28080.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,36870.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,30513.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,59160.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47715.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48964.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44587.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,39325.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,33537.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,36768.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,32646.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,46025.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,37779.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,53361.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48169.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,54482.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48935.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,40263.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,30537.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,37562.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,29060.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,47401.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,37295.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62514.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55043.0
+2019,2016A000224,Quebec,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52323.0
+2019,2016A000224,Quebec,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45910.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,43212.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,35822.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39251.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,34703.0
+2019,2016A000224,Quebec,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,51320.0
+2019,2016A000224,Quebec,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,39985.0
+2019,2016A000224,Quebec,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57328.0
+2019,2016A000224,Quebec,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,50447.0
+2019,2016A000235,Ontario,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58995.0
+2019,2016A000235,Ontario,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51007.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,51996.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41553.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,47011.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,39459.0
+2019,2016A000235,Ontario,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62858.0
+2019,2016A000235,Ontario,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49638.0
+2019,2016A000235,Ontario,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64419.0
+2019,2016A000235,Ontario,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,56946.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52181.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,43508.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42023.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,32704.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39053.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,31675.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52624.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,39624.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58264.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48350.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55838.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47094.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,41914.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,31393.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,40304.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,30942.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,46662.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,33650.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63125.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51982.0
+2019,2016A000248,Alberta,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62477.0
+2019,2016A000248,Alberta,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48712.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53727.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,38418.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,49633.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,36875.0
+2019,2016A000248,Alberta,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63073.0
+2019,2016A000248,Alberta,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44203.0
+2019,2016A000248,Alberta,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67696.0
+2019,2016A000248,Alberta,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52537.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57019.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46426.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,49597.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,37179.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,45695.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,36088.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57220.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,40840.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62567.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51180.0
+2019,2016A000260,Yukon,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52629.0
+2019,2016A000260,Yukon,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,57429.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47073.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,42151.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,44141.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40685.0
+2019,2016A000260,Yukon,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66143.0
+2019,2016A000260,Yukon,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,59033.0
+2019,2016A000260,Yukon,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60742.0
+2019,2016A000260,Yukon,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,74094.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64766.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,62664.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42636.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36222.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,38833.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,34441.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,65372.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54396.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,83669.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,74536.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,82129.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,67551.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,78249.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,63287.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,79050.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,63056.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,73946.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,65846.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,92832.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,75519.0
+2020,2016A000011124,Canada,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,59950.0
+2020,2016A000011124,Canada,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,50956.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,52691.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41988.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,48423.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40210.0
+2020,2016A000011124,Canada,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62456.0
+2020,2016A000011124,Canada,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48849.0
+2020,2016A000011124,Canada,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64080.0
+2020,2016A000011124,Canada,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54792.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58580.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53099.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47147.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,39014.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42915.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,37833.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58591.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,43822.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62198.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55864.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,53774.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46037.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,37444.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,31888.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,36430.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,31298.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,39827.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,34431.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61269.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49933.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52454.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47996.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42081.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36363.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39711.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35224.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48794.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41717.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56852.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51604.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55954.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49667.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42135.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,33179.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,40066.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,31785.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,47476.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,38929.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62816.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54432.0
+2020,2016A000224,Quebec,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56131.0
+2020,2016A000224,Quebec,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49001.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47003.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,39275.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,43077.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,38009.0
+2020,2016A000224,Quebec,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55493.0
+2020,2016A000224,Quebec,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44191.0
+2020,2016A000224,Quebec,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60521.0
+2020,2016A000224,Quebec,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52876.0
+2020,2016A000235,Ontario,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62798.0
+2020,2016A000235,Ontario,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54309.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57431.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,46131.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,51946.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,43630.0
+2020,2016A000235,Ontario,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,69656.0
+2020,2016A000235,Ontario,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55688.0
+2020,2016A000235,Ontario,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66426.0
+2020,2016A000235,Ontario,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,58848.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55922.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46988.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,44521.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36027.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42036.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35005.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,53168.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41926.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62402.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51457.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58086.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49216.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,44699.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,34478.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,43358.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,34047.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48557.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,36582.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64388.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53393.0
+2020,2016A000248,Alberta,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64381.0
+2020,2016A000248,Alberta,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,50465.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57567.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41404.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53644.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,39529.0
+2020,2016A000248,Alberta,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66122.0
+2020,2016A000248,Alberta,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48029.0
+2020,2016A000248,Alberta,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67912.0
+2020,2016A000248,Alberta,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53545.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60304.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49495.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53375.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41521.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,50048.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40376.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60548.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45348.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64658.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52963.0
+2020,2016A000260,Yukon,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,59534.0
+2020,2016A000260,Yukon,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,57018.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,48251.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,45784.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,45281.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,43971.0
+2020,2016A000260,Yukon,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,70628.0
+2020,2016A000260,Yukon,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,67051.0
+2020,2016A000260,Yukon,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,73023.0
+2020,2016A000260,Yukon,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,68850.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,68396.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,65997.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,45265.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41680.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42247.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,39956.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63152.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55845.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,86620.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,75836.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,86131.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,73247.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,83044.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,70505.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,82580.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,69350.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,84511.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,84622.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,94743.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,78833.0
+2021,2016A000011124,Canada,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60516.0
+2021,2016A000011124,Canada,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51524.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53072.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,42309.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,48651.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40515.0
+2021,2016A000011124,Canada,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62741.0
+2021,2016A000011124,Canada,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48919.0
+2021,2016A000011124,Canada,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64904.0
+2021,2016A000011124,Canada,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55603.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58223.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52500.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47398.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,38279.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,43466.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,37033.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57359.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,43069.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61790.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55444.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55016.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47577.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,37961.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,32427.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,36592.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,31680.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,41595.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,35879.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63050.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51915.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52839.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49072.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42012.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36572.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39601.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35517.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48748.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41518.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57597.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53069.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,54830.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48907.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,41322.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,32180.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39511.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,30827.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,45830.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,37549.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61771.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53964.0
+2021,2016A000224,Quebec,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56668.0
+2021,2016A000224,Quebec,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49686.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47370.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,39283.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42970.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,37777.0
+2021,2016A000224,Quebec,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56691.0
+2021,2016A000224,Quebec,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44939.0
+2021,2016A000224,Quebec,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61372.0
+2021,2016A000224,Quebec,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54012.0
+2021,2016A000235,Ontario,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63921.0
+2021,2016A000235,Ontario,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55133.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,58668.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,47139.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53178.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,44694.0
+2021,2016A000235,Ontario,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,70067.0
+2021,2016A000235,Ontario,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55947.0
+2021,2016A000235,Ontario,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67473.0
+2021,2016A000235,Ontario,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,59616.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56375.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47512.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,45230.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36581.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42988.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35769.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52797.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41156.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62704.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51936.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56546.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48718.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,40205.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,31384.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,37564.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,30353.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,49283.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,37131.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,65378.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54254.0
+2021,2016A000248,Alberta,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64789.0
+2021,2016A000248,Alberta,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51171.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57375.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41983.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53953.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40578.0
+2021,2016A000248,Alberta,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64509.0
+2021,2016A000248,Alberta,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46553.0
+2021,2016A000248,Alberta,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,68774.0
+2021,2016A000248,Alberta,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54325.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60740.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49674.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53791.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41640.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,50330.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40486.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60712.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45290.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,65515.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53507.0
+2021,2016A000260,Yukon,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58330.0
+2021,2016A000260,Yukon,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,56797.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47365.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,46762.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,44003.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,44700.0
+2021,2016A000260,Yukon,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,74644.0
+2021,2016A000260,Yukon,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,71365.0
+2021,2016A000260,Yukon,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,72051.0
+2021,2016A000260,Yukon,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,67819.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66178.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,64372.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,46224.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,43228.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,43156.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,41587.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64872.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,57436.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,81446.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,72665.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,84273.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,72309.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,80641.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,68776.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,79648.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,67302.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,90021.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,86432.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,95273.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,81048.0

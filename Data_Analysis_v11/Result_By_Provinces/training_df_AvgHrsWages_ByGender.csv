@@ -1,0 +1,841 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2013,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.26
+2013,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.28
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.95
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.53
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.58
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.13
+2013,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.74
+2013,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.02
+2013,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.82
+2013,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.78
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.26
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.9
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,22.52
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,17.87
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,19.86
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,17.1
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.52
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.57
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.33
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.82
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.69
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.16
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,16.81
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,16.65
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,15.78
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,16.47
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,19.35
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,17.29
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.99
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.1
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.29
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.75
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,20.9
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,18.51
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,20.18
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.35
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,22.77
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,19.34
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.97
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.12
+2013,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.18
+2013,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.38
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,19.97
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,16.2
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,19.13
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,15.83
+2013,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,22.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,17.65
+2013,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.73
+2013,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.28
+2013,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.54
+2013,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.45
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.09
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.08
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.24
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.0
+2013,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,25.67
+2013,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.38
+2013,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.55
+2013,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.71
+2013,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.51
+2013,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.37
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,27.32
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.53
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.1
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.1
+2013,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.76
+2013,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.06
+2013,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.78
+2013,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.63
+2013,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.53
+2013,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.28
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,22.96
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.25
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.52
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.86
+2013,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.71
+2013,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.96
+2013,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.23
+2013,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.19
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.43
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.46
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.02
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.67
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.85
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.38
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.04
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.13
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.4
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.47
+2013,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.75
+2013,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.01
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.9
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.11
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.94
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.94
+2013,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.95
+2013,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.14
+2013,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.9
+2013,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.02
+2013,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.4
+2013,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.95
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.02
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.65
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.88
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.5
+2013,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.14
+2013,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.18
+2013,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.33
+2013,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.38
+2013,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.72
+2013,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.34
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.03
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.39
+2013,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.84
+2013,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.78
+2013,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,42.36
+2013,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.38
+2013,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.58
+2013,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,43.43
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,43.6
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,40.78
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.31
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.49
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.75
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.26
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.03
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.73
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,54.17
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,46.5
+2013,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,43.26
+2013,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.87
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,41.07
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,32.04
+2013,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,43.5
+2013,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,32.07
+2013,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.97
+2013,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.76
+2013,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,48.98
+2013,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,39.77
+2014,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.13
+2014,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.77
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.17
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.21
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.72
+2014,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.03
+2014,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.88
+2014,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.7
+2014,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.56
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.07
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.52
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.67
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,18.89
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.01
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.09
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.69
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.42
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.92
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.24
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.52
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.37
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,16.97
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,16.81
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,15.98
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,16.75
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,19.37
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,17.01
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.3
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.35
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.91
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.63
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,21.78
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.47
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,20.92
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.26
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,24.19
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,20.65
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.71
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.54
+2014,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.93
+2014,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.74
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,20.26
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,16.43
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,19.1
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,15.92
+2014,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,23.26
+2014,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,18.43
+2014,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.99
+2014,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.14
+2014,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.73
+2014,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.24
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.79
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.74
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.92
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.71
+2014,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.51
+2014,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.84
+2014,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.04
+2014,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.55
+2014,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.35
+2014,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.19
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.2
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.23
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.64
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.66
+2014,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.36
+2014,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.28
+2014,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.5
+2014,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.56
+2014,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.11
+2014,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.36
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.79
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.85
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.45
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.55
+2014,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.95
+2014,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.86
+2014,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.52
+2014,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.02
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.12
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.24
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.33
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.95
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.65
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.45
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.25
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.62
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.43
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.4
+2014,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.84
+2014,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.77
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.54
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.92
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.36
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.6
+2014,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.2
+2014,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.56
+2014,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.64
+2014,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.82
+2014,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.04
+2014,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.65
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.32
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.93
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.12
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.86
+2014,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.54
+2014,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.2
+2014,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.27
+2014,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.32
+2014,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.1
+2014,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.29
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.42
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.8
+2014,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.94
+2014,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,26.4
+2014,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.78
+2014,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.38
+2014,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.97
+2014,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,43.7
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,44.36
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,43.19
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.68
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.59
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.15
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.47
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.46
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.46
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,57.11
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,50.2
+2014,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,46.86
+2014,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,37.47
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,44.89
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,34.9
+2014,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,48.32
+2014,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,35.18
+2014,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.07
+2014,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.99
+2014,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,51.36
+2014,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,41.66
+2015,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.73
+2015,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.63
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,27.2
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.57
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.58
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.09
+2015,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.41
+2015,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.28
+2015,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.5
+2015,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.35
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.66
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.56
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.94
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.25
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.04
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.38
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.87
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.78
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.81
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.53
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.83
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.04
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,17.31
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,17.14
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,16.34
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,17.19
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,19.54
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,16.97
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.95
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.08
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.08
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.9
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,21.67
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.45
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,20.59
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.2
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,24.41
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,20.7
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.12
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.96
+2015,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.39
+2015,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.67
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,20.56
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,16.82
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,19.49
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,16.31
+2015,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,23.24
+2015,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,18.87
+2015,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.51
+2015,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.86
+2015,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.26
+2015,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.96
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.14
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.92
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.41
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.93
+2015,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.47
+2015,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.9
+2015,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.75
+2015,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.53
+2015,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.07
+2015,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.84
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.02
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.95
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.3
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.36
+2015,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.31
+2015,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.95
+2015,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.19
+2015,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.19
+2015,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.85
+2015,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.2
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.01
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.51
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.5
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.04
+2015,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.84
+2015,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.73
+2015,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.31
+2015,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.44
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.32
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.19
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.81
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.21
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.31
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.77
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.11
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.6
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.96
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.53
+2015,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.99
+2015,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.9
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.52
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.31
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.65
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.23
+2015,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.38
+2015,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.03
+2015,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.65
+2015,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.28
+2015,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.76
+2015,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.57
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.58
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.17
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.11
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.87
+2015,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.21
+2015,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.15
+2015,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.76
+2015,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.15
+2015,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.87
+2015,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,36.1
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.26
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.96
+2015,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.15
+2015,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,26.44
+2015,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.52
+2015,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.43
+2015,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.61
+2015,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,45.42
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,42.45
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,41.62
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.39
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.27
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.23
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.48
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.16
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.68
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,51.8
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,47.49
+2015,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,47.82
+2015,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,37.31
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,44.31
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,32.6
+2015,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,46.65
+2015,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,32.66
+2015,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.47
+2015,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.98
+2015,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,56.15
+2015,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,46.03
+2016,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.88
+2016,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.76
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,27.57
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.5
+2016,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.71
+2016,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.81
+2016,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.43
+2016,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.35
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.18
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.98
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.57
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.19
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.59
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.33
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.34
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.65
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.93
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.84
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.84
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.08
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,18.4
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,17.76
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,17.48
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,17.66
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,20.16
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,18.1
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.16
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.97
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.53
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.39
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,22.25
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.69
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.22
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,19.35
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,24.79
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.29
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.95
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.15
+2016,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.71
+2016,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.81
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,21.08
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,17.64
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,20.05
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,17.22
+2016,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,23.5
+2016,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,19.2
+2016,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.71
+2016,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.89
+2016,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.18
+2016,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.91
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.35
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.23
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.31
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.08
+2016,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.31
+2016,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.79
+2016,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.47
+2016,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.33
+2016,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.21
+2016,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.8
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.47
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.16
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.69
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.48
+2016,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.89
+2016,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.54
+2016,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.01
+2016,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.07
+2016,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.8
+2016,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.3
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.61
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.56
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.17
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.1
+2016,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.32
+2016,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.55
+2016,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.54
+2016,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.59
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.62
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.67
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.9
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.53
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.85
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.26
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,27.98
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.88
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.44
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.18
+2016,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.8
+2016,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.94
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.88
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.16
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.55
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.35
+2016,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.6
+2016,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.92
+2016,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.76
+2016,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.92
+2016,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.54
+2016,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.16
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,27.13
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.92
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.91
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.69
+2016,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.29
+2016,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.66
+2016,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.76
+2016,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.71
+2016,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.14
+2016,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,37.85
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.01
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,27.56
+2016,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.78
+2016,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,27.04
+2016,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.57
+2016,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.35
+2016,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.06
+2016,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,49.3
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,42.52
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,41.22
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.54
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.5
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.36
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.66
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.38
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.42
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,52.53
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,47.39
+2016,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,47.91
+2016,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,38.35
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,44.27
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,33.2
+2016,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,46.57
+2016,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,33.39
+2016,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.14
+2016,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.36
+2016,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,56.57
+2016,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,48.37
+2017,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.75
+2017,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.48
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.45
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.73
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.82
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.18
+2017,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.79
+2017,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.69
+2017,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.33
+2017,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.12
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.19
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.32
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.06
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.12
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.34
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.31
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.6
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.49
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.79
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.08
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.21
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.22
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,19.36
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,18.35
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,18.64
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.34
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,20.78
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,18.36
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.72
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.36
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.63
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.55
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.1
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.53
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.96
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.1
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.61
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.17
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.44
+2017,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.17
+2017,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.21
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,21.7
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,18.13
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,20.7
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,17.65
+2017,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,24.14
+2017,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,19.95
+2017,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.22
+2017,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.36
+2017,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.34
+2017,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.76
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.33
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,22.89
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.07
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,22.63
+2017,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.71
+2017,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.83
+2017,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.78
+2017,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.35
+2017,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.67
+2017,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.08
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.1
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.88
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.14
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.16
+2017,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.01
+2017,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.4
+2017,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.38
+2017,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.14
+2017,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.89
+2017,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.05
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,24.38
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.86
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.91
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.36
+2017,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.39
+2017,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.16
+2017,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.89
+2017,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.63
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.11
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.54
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.86
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.62
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.05
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.42
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.35
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.61
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.38
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.99
+2017,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.83
+2017,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.1
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,31.47
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.61
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.63
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.85
+2017,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.38
+2017,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.22
+2017,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.06
+2017,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.38
+2017,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.87
+2017,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.23
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.7
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.01
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.47
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.76
+2017,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.89
+2017,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.81
+2017,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.93
+2017,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.82
+2017,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.95
+2017,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,38.23
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.42
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,28.1
+2017,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.3
+2017,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,27.65
+2017,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.35
+2017,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.01
+2017,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.36
+2017,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,49.16
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,42.33
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,40.99
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.97
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.31
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.64
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.58
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.73
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.08
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,52.54
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,46.72
+2017,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,47.6
+2017,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,39.12
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,43.82
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,33.85
+2017,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,46.54
+2017,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,34.05
+2017,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.15
+2017,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.72
+2017,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,57.05
+2017,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,49.88
+2018,2016A000011124,Canada,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.27
+2018,2016A000011124,Canada,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.98
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.03
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.36
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.22
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.69
+2018,2016A000011124,Canada,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.82
+2018,2016A000011124,Canada,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.82
+2018,2016A000011124,Canada,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.74
+2018,2016A000011124,Canada,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.59
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.81
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.67
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.65
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.86
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,23.57
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.36
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.99
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.88
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.83
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.55
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.27
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.78
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,18.82
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,18.13
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,18.21
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.14
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,20.11
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,18.12
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.42
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.23
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.57
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.55
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.31
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,20.54
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.28
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.05
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,25.93
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.9
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.42
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.77
+2018,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.37
+2018,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.01
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,22.97
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,19.19
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,21.9
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,18.5
+2018,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,25.58
+2018,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,21.77
+2018,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.24
+2018,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.05
+2018,2016A000224,Quebec,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.03
+2018,2016A000224,Quebec,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.57
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.88
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.75
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,25.42
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.41
+2018,2016A000224,Quebec,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.68
+2018,2016A000224,Quebec,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,24.96
+2018,2016A000224,Quebec,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.53
+2018,2016A000224,Quebec,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.12
+2018,2016A000235,Ontario,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.85
+2018,2016A000235,Ontario,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.85
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,31.65
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.85
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.58
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.92
+2018,2016A000235,Ontario,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.79
+2018,2016A000235,Ontario,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.21
+2018,2016A000235,Ontario,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.12
+2018,2016A000235,Ontario,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.84
+2018,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.05
+2018,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.77
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,26.02
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.91
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.6
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,21.29
+2018,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.8
+2018,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.98
+2018,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.54
+2018,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.22
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.7
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.29
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.1
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.39
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.77
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,22.75
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.08
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.54
+2018,2016A000248,Alberta,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.75
+2018,2016A000248,Alberta,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.7
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.62
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.17
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,27.36
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.41
+2018,2016A000248,Alberta,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.96
+2018,2016A000248,Alberta,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.76
+2018,2016A000248,Alberta,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.58
+2018,2016A000248,Alberta,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.05
+2018,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.51
+2018,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.22
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.58
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.18
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.99
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.76
+2018,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.64
+2018,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.5
+2018,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.31
+2018,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.7
+2018,2016A000260,Yukon,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.66
+2018,2016A000260,Yukon,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,40.3
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.34
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,30.44
+2018,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.18
+2018,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,29.92
+2018,2016A000260,Yukon,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.0
+2018,2016A000260,Yukon,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.69
+2018,2016A000260,Yukon,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.88
+2018,2016A000260,Yukon,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,50.72
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,43.32
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,42.47
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,29.57
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.63
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.52
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.9
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.38
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.38
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,53.94
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,48.51
+2018,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,48.73
+2018,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,41.79
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,46.54
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,38.21
+2018,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,48.31
+2018,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,38.24
+2018,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,38.76
+2018,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,37.92
+2018,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,54.17
+2018,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,48.81

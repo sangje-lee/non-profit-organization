@@ -1,0 +1,841 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2013,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2013,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2013,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2013,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,25.0
+2013,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,25.0
+2013,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,37.0
+2013,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2013,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2013,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2013,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2013,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2014,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2014,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,26.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,24.0
+2014,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,24.0
+2014,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2014,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,38.0
+2014,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,26.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,28.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,25.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2014,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2014,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2014,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,35.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,35.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2015,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2015,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,26.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,24.0
+2015,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,24.0
+2015,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,37.0
+2015,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,27.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,28.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,26.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,27.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,25.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2015,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2015,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2016,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,26.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,25.0
+2016,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,24.0
+2016,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,36.0
+2016,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,27.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,26.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2016,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2016,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,26.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,26.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,25.0
+2017,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,25.0
+2017,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2017,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,28.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,35.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2017,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2017,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2017,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000011124,Canada,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000011124,Canada,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000011124,Canada,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000011124,Canada,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000011124,Canada,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000011124,Canada,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000224,Quebec,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2018,2016A000224,Quebec,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000224,Quebec,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000224,Quebec,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000235,Ontario,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000235,Ontario,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000235,Ontario,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000235,Ontario,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000235,Ontario,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000235,Ontario,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000248,Alberta,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000248,Alberta,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000248,Alberta,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000248,Alberta,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000248,Alberta,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000248,Alberta,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000260,Yukon,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0
+2018,2016A000260,Yukon,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,26.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,25.0
+2018,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,25.0
+2018,2016A000260,Yukon,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000260,Yukon,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000260,Yukon,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000260,Yukon,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,27.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,28.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,27.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,27.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,27.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0
+2018,2016A000262,Nunavut,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000262,Nunavut,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0

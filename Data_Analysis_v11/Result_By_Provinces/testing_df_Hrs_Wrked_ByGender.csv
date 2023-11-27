@@ -1,0 +1,421 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,1188407.0
+2019,2016A000011124,Canada,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,2667184.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,475492.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,847428.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,319271.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,664540.0
+2019,2016A000011124,Canada,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,156223.0
+2019,2016A000011124,Canada,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,182888.0
+2019,2016A000011124,Canada,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,712913.0
+2019,2016A000011124,Canada,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,1819757.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,20666.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,49122.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,5774.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,8872.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,4034.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,7032.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,1741.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,1841.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,14892.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,40250.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,5155.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,14963.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,1851.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,3349.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,1253.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,2568.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,599.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,781.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,3304.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,11613.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,37982.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,94277.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,12081.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,22604.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8648.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,18589.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3432.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,4014.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,25902.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,71674.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,25433.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,60878.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,9364.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,14736.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,6692.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,11907.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,2672.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,2829.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,16069.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,46142.0
+2019,2016A000224,Quebec,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,280428.0
+2019,2016A000224,Quebec,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,652643.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,100358.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,196781.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,64715.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,152230.0
+2019,2016A000224,Quebec,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,35643.0
+2019,2016A000224,Quebec,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,44551.0
+2019,2016A000224,Quebec,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,180070.0
+2019,2016A000224,Quebec,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,455862.0
+2019,2016A000235,Ontario,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,416382.0
+2019,2016A000235,Ontario,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,891240.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,185130.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,338242.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,123620.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,264993.0
+2019,2016A000235,Ontario,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,61509.0
+2019,2016A000235,Ontario,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,73249.0
+2019,2016A000235,Ontario,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,231252.0
+2019,2016A000235,Ontario,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,552999.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,53795.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,125209.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,19967.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,36802.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,15401.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,31906.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,4565.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,4896.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,33829.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,88407.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,40548.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,102951.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,14211.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,23348.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,10590.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,19391.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3621.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3957.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,26337.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,79603.0
+2019,2016A000248,Alberta,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,138253.0
+2019,2016A000248,Alberta,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,319224.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,52465.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,84890.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,35832.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,65766.0
+2019,2016A000248,Alberta,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,16633.0
+2019,2016A000248,Alberta,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,19123.0
+2019,2016A000248,Alberta,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,85788.0
+2019,2016A000248,Alberta,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,234335.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,165798.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,348656.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,72180.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,114631.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,46725.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,87292.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,25456.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,27339.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,93617.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,234024.0
+2019,2016A000260,Yukon,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,990.0
+2019,2016A000260,Yukon,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,1999.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,565.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1010.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,480.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,914.0
+2019,2016A000260,Yukon,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,85.0
+2019,2016A000260,Yukon,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,97.0
+2019,2016A000260,Yukon,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,424.0
+2019,2016A000260,Yukon,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,989.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,2164.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,4920.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,967.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1426.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,802.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,1279.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,166.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,147.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,1196.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,3494.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,813.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,1102.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,579.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,737.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,479.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,673.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,101.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,64.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,233.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,365.0
+2020,2016A000011124,Canada,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,1142300.0
+2020,2016A000011124,Canada,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,2600899.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,416482.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,757042.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,282779.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,591254.0
+2020,2016A000011124,Canada,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,133705.0
+2020,2016A000011124,Canada,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,165784.0
+2020,2016A000011124,Canada,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,725817.0
+2020,2016A000011124,Canada,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,1843862.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,19479.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,48266.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,4609.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,7355.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,3355.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,5857.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,1255.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,1498.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,14869.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,40912.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,4874.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,14874.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,1553.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,3111.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,1080.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,2476.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,473.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,634.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,3321.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,11763.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,37534.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,93507.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,10776.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,20495.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,7858.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,16665.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,2918.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3830.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,26758.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,73013.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,24311.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,60180.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,8130.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,12673.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,5810.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,10018.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,2321.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,2655.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,16181.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,47508.0
+2020,2016A000224,Quebec,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,270972.0
+2020,2016A000224,Quebec,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,642329.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,90171.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,182215.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,59584.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,142460.0
+2020,2016A000224,Quebec,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,30587.0
+2020,2016A000224,Quebec,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,39755.0
+2020,2016A000224,Quebec,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,180801.0
+2020,2016A000224,Quebec,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,460114.0
+2020,2016A000235,Ontario,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,399265.0
+2020,2016A000235,Ontario,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,862875.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,159645.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,294774.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,106291.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,228513.0
+2020,2016A000235,Ontario,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,53354.0
+2020,2016A000235,Ontario,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,66260.0
+2020,2016A000235,Ontario,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,239621.0
+2020,2016A000235,Ontario,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,568101.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,52022.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,119084.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,18982.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,33532.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,14704.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,28526.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,4277.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,5006.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,33041.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,85552.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,39786.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,101462.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,12734.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,21453.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,9340.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,17654.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3394.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3799.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,27052.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,80010.0
+2020,2016A000248,Alberta,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,127461.0
+2020,2016A000248,Alberta,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,302212.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,43295.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,74983.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,29322.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,57770.0
+2020,2016A000248,Alberta,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,13973.0
+2020,2016A000248,Alberta,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,17212.0
+2020,2016A000248,Alberta,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,84166.0
+2020,2016A000248,Alberta,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,227229.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,162574.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,347884.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,64568.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,103372.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,43728.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,78551.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,20840.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,24821.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,98005.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,244512.0
+2020,2016A000260,Yukon,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,998.0
+2020,2016A000260,Yukon,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,2010.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,541.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1014.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,468.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,919.0
+2020,2016A000260,Yukon,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,74.0
+2020,2016A000260,Yukon,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,95.0
+2020,2016A000260,Yukon,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,456.0
+2020,2016A000260,Yukon,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,996.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,2210.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,5108.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,907.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1322.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,746.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,1166.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,161.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,155.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,1303.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,3787.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,814.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,1108.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,571.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,743.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,493.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,679.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,78.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,64.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,243.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,365.0
+2021,2016A000011124,Canada,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,1223817.0
+2021,2016A000011124,Canada,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,2809860.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,455134.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,836247.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,305463.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,650275.0
+2021,2016A000011124,Canada,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,149671.0
+2021,2016A000011124,Canada,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,185975.0
+2021,2016A000011124,Canada,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,768680.0
+2021,2016A000011124,Canada,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,1973612.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,20875.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,52008.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,5092.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,8469.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,3627.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,6699.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,1466.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,1769.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,15782.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,43539.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,5315.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,16490.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,1687.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,3477.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,1209.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,2835.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,478.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,642.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,3627.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,13013.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,37990.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,96149.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,11634.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,22482.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8419.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,18399.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3215.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,4083.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,26355.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,73667.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,26583.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,65305.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,9125.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,14715.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,6504.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,11617.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,2621.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3098.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,17458.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,50590.0
+2021,2016A000224,Quebec,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,291458.0
+2021,2016A000224,Quebec,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,692272.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,98522.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,198775.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,64630.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,154932.0
+2021,2016A000224,Quebec,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33892.0
+2021,2016A000224,Quebec,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,43843.0
+2021,2016A000224,Quebec,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,192936.0
+2021,2016A000224,Quebec,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,493497.0
+2021,2016A000235,Ontario,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,428111.0
+2021,2016A000235,Ontario,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,937067.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,173213.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,326263.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,113328.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,251468.0
+2021,2016A000235,Ontario,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,59886.0
+2021,2016A000235,Ontario,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,74795.0
+2021,2016A000235,Ontario,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,254897.0
+2021,2016A000235,Ontario,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,610804.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,55106.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,127254.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,20206.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,35899.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,15531.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,30383.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,4674.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,5516.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,34900.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,91355.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,43809.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,111681.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,15480.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,25735.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,11988.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,21754.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3492.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3982.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,28329.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,85946.0
+2021,2016A000248,Alberta,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,139842.0
+2021,2016A000248,Alberta,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,330716.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,48943.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,82240.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,32915.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,62470.0
+2021,2016A000248,Alberta,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,16029.0
+2021,2016A000248,Alberta,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,19771.0
+2021,2016A000248,Alberta,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,90899.0
+2021,2016A000248,Alberta,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,248476.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,170517.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,372474.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,69008.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,114831.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,45414.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,86692.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,23594.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,28139.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,101509.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,257643.0
+2021,2016A000260,Yukon,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,1067.0
+2021,2016A000260,Yukon,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,2139.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,586.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1091.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,510.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,991.0
+2021,2016A000260,Yukon,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,75.0
+2021,2016A000260,Yukon,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,100.0
+2021,2016A000260,Yukon,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,481.0
+2021,2016A000260,Yukon,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,1048.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,2219.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,5043.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,947.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,1349.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,784.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,1191.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,162.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,159.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,1273.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,3694.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,925.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,1262.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,691.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,921.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,604.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,844.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,87.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,78.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,234.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,340.0

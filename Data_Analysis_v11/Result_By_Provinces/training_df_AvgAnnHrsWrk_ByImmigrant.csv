@@ -1,0 +1,793 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2013,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1582.0
+2013,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1562.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1584.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1558.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1556.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1537.0
+2013,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1672.0
+2013,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1625.0
+2013,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1581.0
+2013,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1564.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1709.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1703.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1881.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1711.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1891.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1709.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1818.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1720.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1690.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1701.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1493.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1558.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1392.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1556.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1405.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1540.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1333.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1606.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1522.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1559.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1622.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1600.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1616.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1597.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1598.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1574.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1702.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1696.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1624.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1601.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1713.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1681.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1690.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1635.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1664.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1617.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1776.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1696.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1719.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1698.0
+2013,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1472.0
+2013,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1495.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1457.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1489.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1422.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1462.0
+2013,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1576.0
+2013,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2013,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1479.0
+2013,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1498.0
+2013,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1594.0
+2013,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1580.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1620.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1594.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1590.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1575.0
+2013,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1707.0
+2013,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1651.0
+2013,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1580.0
+2013,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1571.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1577.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1550.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1545.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1523.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1539.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1507.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1578.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1606.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1587.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1564.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1565.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1570.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1537.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1517.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1518.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1490.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1634.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1622.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1572.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1589.0
+2013,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1683.0
+2013,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1638.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1679.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1641.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1668.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1625.0
+2013,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1714.0
+2013,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1684.0
+2013,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1684.0
+2013,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1636.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1582.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1546.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1556.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1533.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1526.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1513.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1641.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1589.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1594.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1554.0
+2013,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1535.0
+2013,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1483.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1565.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1401.0
+2013,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1518.0
+2013,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1580.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1970.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1503.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,2086.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1392.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,2000.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1349.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2500.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1611.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1924.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1563.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1873.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1586.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1737.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2080.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1649.0
+2014,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1575.0
+2014,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1554.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1580.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1554.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1554.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1536.0
+2014,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1661.0
+2014,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1613.0
+2014,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2014,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1555.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1677.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1675.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1845.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1680.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1864.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1676.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1743.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1692.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1658.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1674.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1544.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1584.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1423.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1591.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1430.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1573.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1389.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1647.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1580.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1582.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1679.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1625.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1589.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1578.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1576.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1562.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1651.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1649.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1702.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1642.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1699.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1638.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1700.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1634.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1689.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1626.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1754.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1664.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1697.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1639.0
+2014,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1457.0
+2014,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1484.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1456.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1487.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1423.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1462.0
+2014,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2014,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2014,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1457.0
+2014,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1482.0
+2014,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1589.0
+2014,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1576.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1611.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1583.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1586.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1568.0
+2014,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1688.0
+2014,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1626.0
+2014,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1576.0
+2014,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1572.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1622.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1588.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1566.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1540.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1557.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1524.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1612.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1620.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1638.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1612.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1555.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1556.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1552.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1545.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1537.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1626.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1612.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1554.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1575.0
+2014,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1662.0
+2014,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1608.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1661.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1622.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1652.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1607.0
+2014,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1691.0
+2014,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1665.0
+2014,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1663.0
+2014,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1602.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1570.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1537.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1559.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1539.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1528.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1518.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1648.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1597.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1575.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1536.0
+2014,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1523.0
+2014,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1471.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1538.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1379.0
+2014,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1509.0
+2014,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1588.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1885.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1428.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,2123.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1339.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,2049.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1294.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2500.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1589.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1786.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1481.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1817.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1560.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1722.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1550.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2000.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1580.0
+2015,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1578.0
+2015,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1578.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1558.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1545.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1533.0
+2015,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1678.0
+2015,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1633.0
+2015,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1578.0
+2015,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1638.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1688.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1843.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1707.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1843.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1700.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1842.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1727.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1616.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1683.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1497.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1576.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1479.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1631.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1490.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1607.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1436.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1704.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1502.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1558.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1682.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1627.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1626.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1622.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1607.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1604.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1696.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1694.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1697.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1628.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1750.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1661.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1748.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1673.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1736.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1659.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1788.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1717.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1750.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1656.0
+2015,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1458.0
+2015,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1479.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1448.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1483.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1406.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1447.0
+2015,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1588.0
+2015,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1592.0
+2015,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1462.0
+2015,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1477.0
+2015,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1598.0
+2015,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1586.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1601.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1579.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1563.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1553.0
+2015,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1713.0
+2015,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1653.0
+2015,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1595.0
+2015,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1591.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1634.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1603.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1622.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1585.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1624.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1577.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1612.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1624.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1638.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1612.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1522.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1548.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1545.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1543.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1530.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1523.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1635.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1626.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1516.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1549.0
+2015,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1627.0
+2015,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1584.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1656.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1623.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1639.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1605.0
+2015,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1711.0
+2015,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1675.0
+2015,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1617.0
+2015,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1566.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1594.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1561.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1572.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1549.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1544.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1531.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1649.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1598.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1605.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2015,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1490.0
+2015,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1469.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1551.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1387.0
+2015,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1423.0
+2015,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1572.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1923.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1440.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,2156.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1322.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,2065.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1275.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2500.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1583.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1835.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1501.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1774.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1529.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1725.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1527.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1864.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1533.0
+2016,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1580.0
+2016,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1559.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1564.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1541.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1531.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1516.0
+2016,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1665.0
+2016,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1621.0
+2016,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1588.0
+2016,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1687.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1694.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1802.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1679.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1813.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1670.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1756.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1710.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1675.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1698.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1529.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1605.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1450.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1625.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1451.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1597.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1426.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1702.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1555.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1598.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1727.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1663.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1576.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1574.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1561.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1634.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1637.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1765.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1699.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1705.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1657.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1696.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1661.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1678.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1629.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1755.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1764.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1707.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1656.0
+2016,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1484.0
+2016,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1498.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1452.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1483.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1414.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1452.0
+2016,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1575.0
+2016,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1577.0
+2016,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1498.0
+2016,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1506.0
+2016,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1599.0
+2016,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1586.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1596.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1573.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1558.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1547.0
+2016,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1706.0
+2016,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1651.0
+2016,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1601.0
+2016,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1595.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1593.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1564.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1574.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1547.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1569.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1531.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1607.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1624.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1599.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1573.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1529.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1531.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1533.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1518.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1516.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1496.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1629.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1610.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1528.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1535.0
+2016,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1635.0
+2016,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1581.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1604.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1593.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1541.0
+2016,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1639.0
+2016,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1600.0
+2016,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1646.0
+2016,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1592.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1574.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1538.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1553.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1525.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1517.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1495.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1649.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1606.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1584.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1547.0
+2016,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1464.0
+2016,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1447.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1529.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1381.0
+2016,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1394.0
+2016,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1535.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1910.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1459.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,2113.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1359.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,2043.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1321.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2458.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1559.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1833.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1511.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1812.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1566.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1805.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1577.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1826.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1545.0
+2017,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1568.0
+2017,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1549.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1532.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1518.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1505.0
+2017,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1653.0
+2017,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1620.0
+2017,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1577.0
+2017,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1558.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1700.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1712.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1715.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1663.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1705.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1645.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1723.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1724.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1698.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1726.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1486.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1353.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1549.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1356.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1523.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1364.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1622.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1525.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1576.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1640.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1599.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1552.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1560.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1531.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1538.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1631.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1647.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1662.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1614.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1690.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1654.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1669.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1634.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1656.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1610.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1709.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1714.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1697.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1662.0
+2017,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1475.0
+2017,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1494.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1436.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1469.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1400.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1438.0
+2017,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1561.0
+2017,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1493.0
+2017,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1507.0
+2017,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1599.0
+2017,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1585.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1593.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1577.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1557.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1550.0
+2017,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1697.0
+2017,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1660.0
+2017,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1602.0
+2017,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1590.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1580.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1554.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1566.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1537.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1610.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1640.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1582.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1550.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1523.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1516.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1485.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1470.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1471.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1452.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1557.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1547.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1532.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1533.0
+2017,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1606.0
+2017,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1555.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1589.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1569.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1524.0
+2017,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1656.0
+2017,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1630.0
+2017,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1611.0
+2017,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1557.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1517.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1520.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1498.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1478.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1462.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1634.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1598.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1567.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1529.0
+2017,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1493.0
+2017,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1457.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1561.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1384.0
+2017,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1417.0
+2017,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1551.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1904.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1468.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,2056.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1371.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,2000.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1337.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2421.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1623.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1844.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1518.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1743.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1541.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1756.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1546.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1792.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1527.0
+2018,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1586.0
+2018,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1564.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1560.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1546.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1529.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1520.0
+2018,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1656.0
+2018,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1627.0
+2018,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1598.0
+2018,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1575.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1684.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1685.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1692.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1655.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1690.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1640.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1698.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1707.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1682.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1693.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1509.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1591.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1402.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1628.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1395.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1602.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1424.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1703.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1543.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1578.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1646.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1626.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1582.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1590.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1562.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1669.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1678.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1662.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1639.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1661.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1661.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1621.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1599.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1612.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1575.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1641.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1681.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1673.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1686.0
+2018,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1490.0
+2018,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1501.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1450.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1479.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1411.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1449.0
+2018,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2018,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1572.0
+2018,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1508.0
+2018,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1511.0
+2018,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1603.0
+2018,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1591.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1577.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1540.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1542.0
+2018,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1685.0
+2018,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1657.0
+2018,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1619.0
+2018,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1606.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1531.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1521.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1490.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1517.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1480.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1538.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1544.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1590.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1553.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1561.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1553.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1541.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1528.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1528.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1508.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1610.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1608.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1566.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1563.0
+2018,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1643.0
+2018,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1603.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1651.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1621.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1642.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1607.0
+2018,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1679.0
+2018,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1660.0
+2018,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1640.0
+2018,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1595.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1597.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1563.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1573.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1553.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1543.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1526.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1656.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1628.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1609.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1569.0
+2018,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1478.0
+2018,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1438.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1564.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1372.0
+2018,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1366.0
+2018,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1518.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1818.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1442.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1993.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1369.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1947.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1337.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,2286.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1602.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1751.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1480.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1778.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1562.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1804.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1562.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1800.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1563.0
