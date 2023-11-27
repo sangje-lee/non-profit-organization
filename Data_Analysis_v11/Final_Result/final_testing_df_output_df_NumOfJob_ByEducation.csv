@@ -1,0 +1,226 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Education_group
+2019,2016A000248,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,62647.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12205.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,145321.0,True,False,False,False,False,3
+2019,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,27204.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,4400.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,37200.0,True,False,False,False,False,3
+2019,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,19560.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3051.0,True,False,False,False,False,2
+2019,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,29296.0,True,False,False,False,False,3
+2019,2016A000248,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,7644.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1349.0,True,False,False,False,False,2
+2019,2016A000248,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,7904.0,True,False,False,False,False,3
+2019,2016A000248,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,35444.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7805.0,True,False,False,False,False,2
+2019,2016A000248,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,108120.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,56432.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,11082.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,142177.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,22745.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,3719.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,34243.0,True,False,False,False,False,3
+2020,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,16014.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,2557.0,True,False,False,False,False,2
+2020,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,26654.0,True,False,False,False,False,3
+2020,2016A000248,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,6731.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1162.0,True,False,False,False,False,2
+2020,2016A000248,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,7589.0,True,False,False,False,False,3
+2020,2016A000248,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,33687.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7363.0,True,False,False,False,False,2
+2020,2016A000248,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,107933.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,58906.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,11550.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,148192.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,24026.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,3926.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,36332.0,True,False,False,False,False,3
+2021,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,16535.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,2636.0,True,False,False,False,False,2
+2021,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,27892.0,True,False,False,False,False,3
+2021,2016A000248,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,7491.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1291.0,True,False,False,False,False,2
+2021,2016A000248,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,8440.0,True,False,False,False,False,3
+2021,2016A000248,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,34880.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7624.0,True,False,False,False,False,2
+2021,2016A000248,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,111860.0,True,False,False,False,False,3
+2019,2016A000259,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,67887.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13268.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,177482.0,False,True,False,False,False,3
+2019,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,34176.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,5607.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,57742.0,False,True,False,False,False,3
+2019,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,22991.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3590.0,False,True,False,False,False,2
+2019,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,44184.0,False,True,False,False,False,3
+2019,2016A000259,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,11185.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2017.0,False,True,False,False,False,2
+2019,2016A000259,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,13557.0,False,True,False,False,False,3
+2019,2016A000259,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,33711.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7661.0,False,True,False,False,False,2
+2019,2016A000259,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,119740.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,64860.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12311.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,182168.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,29398.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,4588.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,53636.0,False,True,False,False,False,3
+2020,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,20088.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3043.0,False,True,False,False,False,2
+2020,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,41199.0,False,True,False,False,False,3
+2020,2016A000259,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,9310.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1545.0,False,True,False,False,False,2
+2020,2016A000259,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,12437.0,False,True,False,False,False,3
+2020,2016A000259,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,35461.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7723.0,False,True,False,False,False,2
+2020,2016A000259,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,128532.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,69629.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13123.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,185837.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,33006.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,5139.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,58495.0,False,True,False,False,False,3
+2021,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,22217.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3396.0,False,True,False,False,False,2
+2021,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,44064.0,False,True,False,False,False,3
+2021,2016A000259,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10789.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1743.0,False,True,False,False,False,2
+2021,2016A000259,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,14431.0,False,True,False,False,False,3
+2021,2016A000259,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,36623.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7984.0,False,True,False,False,False,2
+2021,2016A000259,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,127342.0,False,True,False,False,False,3
+2019,2016A000212,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,16273.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4159.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38259.0,False,False,True,False,False,3
+2019,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5668.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1147.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,9056.0,False,False,True,False,False,3
+2019,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,4175.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,875.0,False,False,True,False,False,2
+2019,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7331.0,False,False,True,False,False,3
+2019,2016A000212,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1492.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,272.0,False,False,True,False,False,2
+2019,2016A000212,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1725.0,False,False,True,False,False,3
+2019,2016A000212,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10605.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3011.0,False,False,True,False,False,2
+2019,2016A000212,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,29204.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,15341.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3822.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38188.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5140.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1000.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,8724.0,False,False,True,False,False,3
+2020,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,3852.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,783.0,False,False,True,False,False,2
+2020,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7032.0,False,False,True,False,False,3
+2020,2016A000212,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1289.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,217.0,False,False,True,False,False,2
+2020,2016A000212,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1692.0,False,False,True,False,False,3
+2020,2016A000212,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10201.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2823.0,False,False,True,False,False,2
+2020,2016A000212,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,29464.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,16617.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4047.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,39303.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5553.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1091.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,9301.0,False,False,True,False,False,3
+2021,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,4164.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,855.0,False,False,True,False,False,2
+2021,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7468.0,False,False,True,False,False,3
+2021,2016A000212,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1389.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,237.0,False,False,True,False,False,2
+2021,2016A000212,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1833.0,False,False,True,False,False,3
+2021,2016A000212,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,11064.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2956.0,False,False,True,False,False,2
+2021,2016A000212,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,30001.0,False,False,True,False,False,3
+2019,2016A000235,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,160257.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,23822.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,422933.0,False,False,False,True,False,3
+2019,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,81828.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,10886.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,154281.0,False,False,False,True,False,3
+2019,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,58235.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,7885.0,False,False,False,True,False,2
+2019,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,118151.0,False,False,False,True,False,3
+2019,2016A000235,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,23593.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3001.0,False,False,False,True,False,2
+2019,2016A000235,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,36130.0,False,False,False,True,False,3
+2019,2016A000235,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,78429.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12937.0,False,False,False,True,False,2
+2019,2016A000235,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,268652.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,144964.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,21499.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,418696.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,68381.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,9111.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,142600.0,False,False,False,True,False,3
+2020,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,49377.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,6664.0,False,False,False,True,False,2
+2020,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,108473.0,False,False,False,True,False,3
+2020,2016A000235,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,19005.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2447.0,False,False,False,True,False,2
+2020,2016A000235,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,34127.0,False,False,False,True,False,3
+2020,2016A000235,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,76583.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12389.0,False,False,False,True,False,2
+2020,2016A000235,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,276096.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,153673.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,22689.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,440185.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,72488.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,9743.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,150554.0,False,False,False,True,False,3
+2021,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,51615.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,7041.0,False,False,False,True,False,2
+2021,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,112454.0,False,False,False,True,False,3
+2021,2016A000235,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,20873.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2702.0,False,False,False,True,False,2
+2021,2016A000235,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38100.0,False,False,False,True,False,3
+2021,2016A000235,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,81185.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12946.0,False,False,False,True,False,2
+2021,2016A000235,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,289631.0,False,False,False,True,False,3
+2019,2016A000224,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,115769.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,95338.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,262017.0,False,False,False,False,True,3
+2019,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,47554.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,22315.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,81608.0,False,False,False,False,True,3
+2019,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,34618.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,16632.0,False,False,False,False,True,2
+2019,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,61081.0,False,False,False,False,True,3
+2019,2016A000224,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,12936.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5683.0,False,False,False,False,True,2
+2019,2016A000224,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,20527.0,False,False,False,False,True,3
+2019,2016A000224,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,68215.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,73023.0,False,False,False,False,True,2
+2019,2016A000224,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,180409.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,110035.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,95102.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,265053.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,41234.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,19746.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,76589.0,False,False,False,False,True,3
+2020,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,30412.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,14997.0,False,False,False,False,True,2
+2020,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,57795.0,False,False,False,False,True,3
+2020,2016A000224,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10822.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4749.0,False,False,False,False,True,2
+2020,2016A000224,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,18794.0,False,False,False,False,True,3
+2020,2016A000224,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,68801.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,75356.0,False,False,False,False,True,2
+2020,2016A000224,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,188464.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,118000.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,99207.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,279101.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,45382.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,21518.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,83323.0,False,False,False,False,True,3
+2021,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,33367.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,16271.0,False,False,False,False,True,2
+2021,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,62234.0,False,False,False,False,True,3
+2021,2016A000224,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,12015.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5246.0,False,False,False,False,True,2
+2021,2016A000224,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,21089.0,False,False,False,False,True,3
+2021,2016A000224,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,72618.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,77689.0,False,False,False,False,True,2
+2021,2016A000224,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,195778.0,False,False,False,False,True,3

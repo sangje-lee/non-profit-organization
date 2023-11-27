@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2019,2016A000248,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1674.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1523.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1700.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1495.0,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1670.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1467.0,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1770.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1599.0,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1658.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1533.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1640.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1506.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1633.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1473.0,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1613.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1456.0,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1676.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1533.0,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1644.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1517.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1721.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1581.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1723.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1539.0,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1715.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1528.0,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1741.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1574.0,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1720.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1596.0,True,False,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1603.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1507.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1631.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1459.0,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1596.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1442.0,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1699.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1516.0,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1582.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1532.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1592.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1497.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1639.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1467.0,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1624.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1448.0,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1670.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1531.0,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1563.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1509.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1624.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1532.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1614.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1463.0,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1593.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1454.0,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1655.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1491.0,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1631.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1565.0,False,True,False,False,False,0
+2019,2016A000212,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1650.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1617.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1674.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1583.0,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1656.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1576.0,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1722.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1615.0,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1639.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1628.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1686.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1634.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1626.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1512.0,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1604.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1491.0,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1687.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1615.0,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1712.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1671.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1629.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1609.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1634.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1552.0,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1606.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1542.0,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1714.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1601.0,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1627.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1627.0,False,False,True,False,False,0
+2019,2016A000235,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1588.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1568.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1617.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1543.0,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1575.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1521.0,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1708.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1624.0,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1566.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1584.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1596.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1573.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1583.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1505.0,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1526.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1472.0,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1708.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1632.0,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1605.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1610.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1631.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1620.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1636.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1570.0,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1586.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1546.0,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1740.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1657.0,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1628.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1648.0,False,False,False,True,False,0
+2019,2016A000224,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1529.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1506.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1543.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1464.0,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1481.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1437.0,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1670.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1565.0,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1521.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1525.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1513.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1483.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1550.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1477.0,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1498.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1452.0,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1663.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1574.0,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1495.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1486.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Male employees,Average annual hours worked,Hours,units,1540.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Female employees,Average annual hours worked,Hours,units,1512.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual hours worked,Hours,units,1550.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual hours worked,Hours,units,1479.0,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual hours worked,Hours,units,1497.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual hours worked,Hours,units,1459.0,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Male employees,Average annual hours worked,Hours,units,1663.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Female employees,Average annual hours worked,Hours,units,1551.0,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Male employees,Average annual hours worked,Hours,units,1535.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Female employees,Average annual hours worked,Hours,units,1526.0,False,False,False,False,True,0

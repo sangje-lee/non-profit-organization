@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2013,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48024.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49582.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,39342.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41547.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,36076.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,37664.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49580.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,52176.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50810.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,53338.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48542.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,50204.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40593.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42906.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37157.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,38742.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51781.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,54555.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51103.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,53671.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49557.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51240.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40944.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43337.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37779.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,39518.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51148.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,53920.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,52340.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,55028.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49428.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51200.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40249.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42599.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37855.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,39622.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,47818.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,50727.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,52381.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,55258.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50207.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,52172.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40377.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43250.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,38266.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,40301.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,47405.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51904.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53391.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,56370.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50458.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,52811.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40074.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43761.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37943.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,40984.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,47260.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51852.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53908.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,57089.0,True,False,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,45461.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43669.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,35028.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,36368.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,33134.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,34946.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,40503.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40454.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50322.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47955.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,46179.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,44445.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,35521.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,36921.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,33640.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,35510.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,40935.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40910.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51126.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,48877.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,46497.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45020.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,36082.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,37686.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,33874.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,35928.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,42027.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42340.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51582.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49540.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,46938.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45351.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,36781.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,38074.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,34768.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,36201.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,42151.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43133.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,51987.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49912.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,47885.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46529.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,37802.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,39313.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,35717.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,37162.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,43361.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45305.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53032.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51116.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48915.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47848.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,39080.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40924.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,36898.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,38667.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,44928.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47208.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53829.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,52165.0,False,True,False,False,False,1
+2013,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49362.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41733.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30099.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,30994.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29261.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,29871.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,33941.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,35717.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,54275.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45879.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49324.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42196.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30639.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,32098.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29820.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,31000.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,34491.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,36996.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53975.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45998.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49252.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42695.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30883.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,32950.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,30008.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,31614.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,34577.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,38362.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53761.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46376.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48848.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42853.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30791.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,32544.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29739.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,31168.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,34960.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,37743.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53469.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46905.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48129.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43018.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,32016.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,33533.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,30803.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,31896.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,36937.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40061.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,52216.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46628.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49748.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45344.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,32975.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,34260.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,31713.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,32593.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,38309.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40941.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,54054.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49539.0,False,False,True,False,False,1
+2013,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,47780.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46731.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,38152.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,39266.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,35933.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,37489.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,44723.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,44576.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,53272.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51571.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49002.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47873.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,39078.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,40176.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,36625.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,38165.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,46414.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46167.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,54655.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,52917.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50341.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49238.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40131.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41251.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37297.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,38809.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48292.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,48332.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,56285.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,54603.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50375.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49277.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,40353.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41552.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,37385.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,38975.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48912.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49262.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,56367.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,54515.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,50832.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49782.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,41306.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42755.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,38333.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,40003.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49852.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51256.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,56606.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,54573.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,52378.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,51373.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,42605.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,44312.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,39244.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,41236.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,52454.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,54106.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,58379.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,56262.0,False,False,False,True,False,1
+2013,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,39563.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41105.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,29738.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,33374.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,28138.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,32202.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,35180.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,36977.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,43649.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,44760.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,40444.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,42129.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30477.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,34397.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,28999.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,33261.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,35698.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,37999.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,44567.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,45751.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,41304.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43020.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30673.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,34667.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29135.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,33367.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,35817.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,38637.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,45806.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47000.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,41800.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43550.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,30914.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,35142.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29228.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,33636.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,36360.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,39726.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,46496.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,47617.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,43014.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,44812.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,31476.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,35962.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,29704.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,34216.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,36986.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,41255.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,48149.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,49249.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,44393.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,46216.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual wages and salaries,Dollars,units,32639.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual wages and salaries,Dollars,units,37403.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual wages and salaries,Dollars,units,30666.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual wages and salaries,Dollars,units,35478.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,38849.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,43274.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Immigrant employees,Average annual wages and salaries,Dollars,units,49583.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual wages and salaries,Dollars,units,50606.0,False,False,False,False,True,1

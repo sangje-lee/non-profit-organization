@@ -1,0 +1,226 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec
+2019,2016A000248,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.67,True,False,False,False,False
+2019,2016A000248,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.15,True,False,False,False,False
+2019,2016A000248,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.18,True,False,False,False,False
+2019,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.66,True,False,False,False,False
+2019,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.94,True,False,False,False,False
+2019,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.74,True,False,False,False,False
+2019,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.6,True,False,False,False,False
+2019,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.72,True,False,False,False,False
+2019,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.35,True,False,False,False,False
+2019,2016A000248,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.99,True,False,False,False,False
+2019,2016A000248,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,35.26,True,False,False,False,False
+2019,2016A000248,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.58,True,False,False,False,False
+2019,2016A000248,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.42,True,False,False,False,False
+2019,2016A000248,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.27,True,False,False,False,False
+2019,2016A000248,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.89,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.47,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,33.15,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.48,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.28,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,34.36,True,False,False,False,False
+2020,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,33.6,True,False,False,False,False
+2020,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,25.09,True,False,False,False,False
+2020,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,31.7,True,False,False,False,False
+2020,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.83,True,False,False,False,False
+2020,2016A000248,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.81,True,False,False,False,False
+2020,2016A000248,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,39.55,True,False,False,False,False
+2020,2016A000248,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.59,True,False,False,False,False
+2020,2016A000248,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.59,True,False,False,False,False
+2020,2016A000248,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.54,True,False,False,False,False
+2020,2016A000248,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.39,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.33,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.69,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.18,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,25.17,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,33.1,True,False,False,False,False
+2021,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.27,True,False,False,False,False
+2021,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.26,True,False,False,False,False
+2021,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,30.87,True,False,False,False,False
+2021,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,30.7,True,False,False,False,False
+2021,2016A000248,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.02,True,False,False,False,False
+2021,2016A000248,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,37.23,True,False,False,False,False
+2021,2016A000248,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,37.39,True,False,False,False,False
+2021,2016A000248,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.43,True,False,False,False,False
+2021,2016A000248,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.97,True,False,False,False,False
+2021,2016A000248,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.16,True,False,False,False,False
+2019,2016A000259,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.47,False,True,False,False,False
+2019,2016A000259,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.72,False,True,False,False,False
+2019,2016A000259,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.42,False,True,False,False,False
+2019,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.9,False,True,False,False,False
+2019,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,27.85,False,True,False,False,False
+2019,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.04,False,True,False,False,False
+2019,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.3,False,True,False,False,False
+2019,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,24.78,False,True,False,False,False
+2019,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.13,False,True,False,False,False
+2019,2016A000259,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.76,False,True,False,False,False
+2019,2016A000259,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.36,False,True,False,False,False
+2019,2016A000259,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,32.87,False,True,False,False,False
+2019,2016A000259,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.05,False,True,False,False,False
+2019,2016A000259,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.37,False,True,False,False,False
+2019,2016A000259,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.57,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.4,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.69,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.64,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.26,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,29.86,False,True,False,False,False
+2020,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.5,False,True,False,False,False
+2020,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.98,False,True,False,False,False
+2020,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,27.35,False,True,False,False,False
+2020,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.55,False,True,False,False,False
+2020,2016A000259,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.78,False,True,False,False,False
+2020,2016A000259,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.08,False,True,False,False,False
+2020,2016A000259,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.5,False,True,False,False,False
+2020,2016A000259,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.51,False,True,False,False,False
+2020,2016A000259,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.2,False,True,False,False,False
+2020,2016A000259,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.31,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.18,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.15,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,37.99,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.38,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,29.85,False,True,False,False,False
+2021,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,33.13,False,True,False,False,False
+2021,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.96,False,True,False,False,False
+2021,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,27.15,False,True,False,False,False
+2021,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,32.05,False,True,False,False,False
+2021,2016A000259,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,29.08,False,True,False,False,False
+2021,2016A000259,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.36,False,True,False,False,False
+2021,2016A000259,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.32,False,True,False,False,False
+2021,2016A000259,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.01,False,True,False,False,False
+2021,2016A000259,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.34,False,True,False,False,False
+2021,2016A000259,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.2,False,True,False,False,False
+2019,2016A000212,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.84,False,False,True,False,False
+2019,2016A000212,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.44,False,False,True,False,False
+2019,2016A000212,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,33.26,False,False,True,False,False
+2019,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.64,False,False,True,False,False
+2019,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,21.57,False,False,True,False,False
+2019,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,25.05,False,False,True,False,False
+2019,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,16.56,False,False,True,False,False
+2019,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,19.98,False,False,True,False,False
+2019,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.19,False,False,True,False,False
+2019,2016A000212,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.35,False,False,True,False,False
+2019,2016A000212,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.17,False,False,True,False,False
+2019,2016A000212,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,28.59,False,False,True,False,False
+2019,2016A000212,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.95,False,False,True,False,False
+2019,2016A000212,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.14,False,False,True,False,False
+2019,2016A000212,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.93,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.36,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.08,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,34.81,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.59,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.87,False,False,True,False,False
+2020,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,28.05,False,False,True,False,False
+2020,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.75,False,False,True,False,False
+2020,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.47,False,False,True,False,False
+2020,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,27.27,False,False,True,False,False
+2020,2016A000212,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.8,False,False,True,False,False
+2020,2016A000212,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.47,False,False,True,False,False
+2020,2016A000212,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.06,False,False,True,False,False
+2020,2016A000212,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.15,False,False,True,False,False
+2020,2016A000212,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.47,False,False,True,False,False
+2020,2016A000212,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.75,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.58,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.69,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.72,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.16,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.3,False,False,True,False,False
+2021,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,27.86,False,False,True,False,False
+2021,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.35,False,False,True,False,False
+2021,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.88,False,False,True,False,False
+2021,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,26.98,False,False,True,False,False
+2021,2016A000212,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.33,False,False,True,False,False
+2021,2016A000212,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.02,False,False,True,False,False
+2021,2016A000212,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.26,False,False,True,False,False
+2021,2016A000212,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.73,False,False,True,False,False
+2021,2016A000212,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.53,False,False,True,False,False
+2021,2016A000212,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.5,False,False,True,False,False
+2019,2016A000235,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.81,False,False,False,True,False
+2019,2016A000235,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.16,False,False,False,True,False
+2019,2016A000235,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.89,False,False,False,True,False
+2019,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.26,False,False,False,True,False
+2019,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,27.39,False,False,False,True,False
+2019,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.99,False,False,False,True,False
+2019,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.82,False,False,False,True,False
+2019,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,25.37,False,False,False,True,False
+2019,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,30.99,False,False,False,True,False
+2019,2016A000235,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.33,False,False,False,True,False
+2019,2016A000235,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.02,False,False,False,True,False
+2019,2016A000235,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.14,False,False,False,True,False
+2019,2016A000235,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.44,False,False,False,True,False
+2019,2016A000235,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.81,False,False,False,True,False
+2019,2016A000235,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.39,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.88,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.26,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.72,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.45,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.88,False,False,False,True,False
+2020,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,37.18,False,False,False,True,False
+2020,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,25.11,False,False,False,True,False
+2020,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.99,False,False,False,True,False
+2020,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,35.17,False,False,False,True,False
+2020,2016A000235,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,29.37,False,False,False,True,False
+2020,2016A000235,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,35.29,False,False,False,True,False
+2020,2016A000235,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.95,False,False,False,True,False
+2020,2016A000235,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.25,False,False,False,True,False
+2020,2016A000235,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.81,False,False,False,True,False
+2020,2016A000235,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.51,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.46,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.89,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.39,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.04,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.25,False,False,False,True,False
+2021,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,36.54,False,False,False,True,False
+2021,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.72,False,False,False,True,False
+2021,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.34,False,False,False,True,False
+2021,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,34.38,False,False,False,True,False
+2021,2016A000235,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.83,False,False,False,True,False
+2021,2016A000235,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.61,False,False,False,True,False
+2021,2016A000235,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.5,False,False,False,True,False
+2021,2016A000235,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.85,False,False,False,True,False
+2021,2016A000235,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.62,False,False,False,True,False
+2021,2016A000235,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.39,False,False,False,True,False
+2019,2016A000224,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.62,False,False,False,False,True
+2019,2016A000224,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.52,False,False,False,False,True
+2019,2016A000224,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.58,False,False,False,False,True
+2019,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,20.95,False,False,False,False,True
+2019,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,21.56,False,False,False,False,True
+2019,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,29.97,False,False,False,False,True
+2019,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.15,False,False,False,False,True
+2019,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,20.75,False,False,False,False,True
+2019,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.07,False,False,False,False,True
+2019,2016A000224,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.8,False,False,False,False,True
+2019,2016A000224,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.56,False,False,False,False,True
+2019,2016A000224,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,32.4,False,False,False,False,True
+2019,2016A000224,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.74,False,False,False,False,True
+2019,2016A000224,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.38,False,False,False,False,True
+2019,2016A000224,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.58,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.73,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.83,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.57,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,22.64,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.27,False,False,False,False,True
+2020,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.47,False,False,False,False,True
+2020,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.82,False,False,False,False,True
+2020,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.51,False,False,False,False,True
+2020,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.5,False,False,False,False,True
+2020,2016A000224,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.71,False,False,False,False,True
+2020,2016A000224,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.29,False,False,False,False,True
+2020,2016A000224,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.16,False,False,False,False,True
+2020,2016A000224,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.95,False,False,False,False,True
+2020,2016A000224,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.75,False,False,False,False,True
+2020,2016A000224,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,45.47,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.58,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.67,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.22,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,22.57,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.28,False,False,False,False,True
+2021,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.65,False,False,False,False,True
+2021,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.54,False,False,False,False,True
+2021,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.32,False,False,False,False,True
+2021,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.29,False,False,False,False,True
+2021,2016A000224,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.12,False,False,False,False,True
+2021,2016A000224,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.82,False,False,False,False,True
+2021,2016A000224,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.37,False,False,False,False,True
+2021,2016A000224,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.8,False,False,False,False,True
+2021,2016A000224,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.56,False,False,False,False,True
+2021,2016A000224,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.96,False,False,False,False,True

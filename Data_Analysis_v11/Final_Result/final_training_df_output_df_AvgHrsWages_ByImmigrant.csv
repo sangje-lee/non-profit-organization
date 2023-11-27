@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2013,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.53,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.27,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.42,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.32,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.62,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.18,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.93,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.98,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.16,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.6,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.2,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.21,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.44,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.45,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.5,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.11,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.61,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.76,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.73,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.51,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.46,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.34,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.72,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.7,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.04,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.63,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.89,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.19,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.36,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.15,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.22,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.39,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.1,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.36,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.77,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.71,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.18,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.7,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.83,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.7,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.27,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.55,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.41,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.88,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.39,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,26.44,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.63,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.84,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.14,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,36.2,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.71,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.94,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.28,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.1,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.5,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.15,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.24,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.86,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.79,True,False,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.74,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.25,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.51,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.73,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.71,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.09,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.68,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.46,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.58,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.87,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.42,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.91,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.78,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.99,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.02,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.39,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.83,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.61,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.46,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.81,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.17,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.84,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.95,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.33,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.94,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.47,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,25.49,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.49,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.15,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.58,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.83,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.48,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.68,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.97,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.91,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.22,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,25.56,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.85,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.83,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.27,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.87,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.67,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.87,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.25,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.17,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.43,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.54,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.35,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.85,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.42,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.63,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.62,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.84,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.35,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.92,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.34,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,27.12,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.45,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.25,False,True,False,False,False,1
+2013,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.43,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.09,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,18.63,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,19.4,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,18.31,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,18.98,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,19.95,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,21.05,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.42,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.66,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.37,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.97,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.28,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,20.34,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,18.93,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,19.84,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,20.89,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,22.44,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.71,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.01,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.27,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.25,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,20.32,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,18.67,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,19.71,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,20.39,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,22.64,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.68,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.48,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.29,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.76,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,19.54,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,20.68,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,19.05,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,20.02,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,21.39,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,23.06,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.29,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.62,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.35,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.91,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.63,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,21.49,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.12,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,20.73,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.64,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,24.32,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.42,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.9,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.23,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.89,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.85,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,21.54,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.3,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,20.78,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.96,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,24.39,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.52,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.22,False,False,True,False,False,1
+2013,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.97,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.57,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,23.56,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.63,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,22.6,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.8,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.2,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,33.72,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.83,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.84,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.38,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,24.25,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.39,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.1,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.34,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,27.49,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.4,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,34.67,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.67,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.51,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.05,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.06,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.13,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,23.87,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.99,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.2,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.24,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.28,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.33,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.5,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.07,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.29,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,26.41,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.19,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.67,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.84,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.2,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.18,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.8,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.41,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,25.93,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,27.11,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,24.62,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,25.81,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.38,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.87,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,35.34,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,34.32,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.68,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.29,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,27.02,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,28.24,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,25.49,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,26.75,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.14,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.66,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,36.07,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,35.04,False,False,False,True,False,1
+2013,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,26.87,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.49,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.41,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,22.42,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,19.79,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,22.02,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.33,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,23.56,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.52,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.88,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,27.76,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,28.39,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,20.93,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.13,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.37,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,22.76,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.69,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,24.22,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,30.58,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.87,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.33,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.08,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.18,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.38,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.72,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.06,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,22.56,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,24.27,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.34,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.81,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,28.16,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.06,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.29,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,23.7,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,20.67,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.17,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,23.08,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,25.19,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,31.04,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,31.62,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.15,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,29.99,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,21.91,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,24.49,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.22,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,23.79,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,23.85,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,26.43,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.25,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,32.68,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,29.79,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,30.8,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average hourly wage,Dollars,units,22.51,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average hourly wage,Dollars,units,25.29,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average hourly wage,Dollars,units,21.74,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average hourly wage,Dollars,units,24.49,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,24.69,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,27.52,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Immigrant employees,Average hourly wage,Dollars,units,32.88,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Non-immigrant employees,Average hourly wage,Dollars,units,33.48,False,False,False,False,True,1

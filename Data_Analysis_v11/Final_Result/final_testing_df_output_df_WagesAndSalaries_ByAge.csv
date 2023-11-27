@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2019,2016A000248,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,514.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3026.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3904.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3935.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,3190.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,801.0,True,False,False,False,False,70
+2019,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,179.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,750.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,961.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,942.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,791.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,216.0,True,False,False,False,False,70
+2019,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,129.0,True,False,False,False,False,20
+2019,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,530.0,True,False,False,False,False,30
+2019,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,673.0,True,False,False,False,False,40
+2019,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,663.0,True,False,False,False,False,50
+2019,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,562.0,True,False,False,False,False,60
+2019,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,160.0,True,False,False,False,False,70
+2019,2016A000248,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,50.0,True,False,False,False,False,20
+2019,2016A000248,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,219.0,True,False,False,False,False,30
+2019,2016A000248,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,288.0,True,False,False,False,False,40
+2019,2016A000248,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,279.0,True,False,False,False,False,50
+2019,2016A000248,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,229.0,True,False,False,False,False,60
+2019,2016A000248,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,56.0,True,False,False,False,False,70
+2019,2016A000248,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,334.0,True,False,False,False,False,20
+2019,2016A000248,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2276.0,True,False,False,False,False,30
+2019,2016A000248,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,2943.0,True,False,False,False,False,40
+2019,2016A000248,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,2993.0,True,False,False,False,False,50
+2019,2016A000248,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2399.0,True,False,False,False,False,60
+2019,2016A000248,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,585.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,467.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2954.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3929.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3885.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,3110.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,788.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,155.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,699.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,930.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,899.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,741.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,211.0,True,False,False,False,False,70
+2020,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,109.0,True,False,False,False,False,20
+2020,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,491.0,True,False,False,False,False,30
+2020,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,643.0,True,False,False,False,False,40
+2020,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,627.0,True,False,False,False,False,50
+2020,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,520.0,True,False,False,False,False,60
+2020,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,154.0,True,False,False,False,False,70
+2020,2016A000248,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,46.0,True,False,False,False,False,20
+2020,2016A000248,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,209.0,True,False,False,False,False,30
+2020,2016A000248,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,287.0,True,False,False,False,False,40
+2020,2016A000248,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,272.0,True,False,False,False,False,50
+2020,2016A000248,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,220.0,True,False,False,False,False,60
+2020,2016A000248,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,57.0,True,False,False,False,False,70
+2020,2016A000248,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,312.0,True,False,False,False,False,20
+2020,2016A000248,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2254.0,True,False,False,False,False,30
+2020,2016A000248,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,2999.0,True,False,False,False,False,40
+2020,2016A000248,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,2986.0,True,False,False,False,False,50
+2020,2016A000248,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2370.0,True,False,False,False,False,60
+2020,2016A000248,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,578.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,489.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3126.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,4158.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,4089.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,3278.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,829.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,164.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,747.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,993.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,958.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,789.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,222.0,True,False,False,False,False,70
+2021,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,115.0,True,False,False,False,False,20
+2021,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,522.0,True,False,False,False,False,30
+2021,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,683.0,True,False,False,False,False,40
+2021,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,664.0,True,False,False,False,False,50
+2021,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,551.0,True,False,False,False,False,60
+2021,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,160.0,True,False,False,False,False,70
+2021,2016A000248,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,49.0,True,False,False,False,False,20
+2021,2016A000248,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,226.0,True,False,False,False,False,30
+2021,2016A000248,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,310.0,True,False,False,False,False,40
+2021,2016A000248,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,294.0,True,False,False,False,False,50
+2021,2016A000248,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,238.0,True,False,False,False,False,60
+2021,2016A000248,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,62.0,True,False,False,False,False,70
+2021,2016A000248,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,325.0,True,False,False,False,False,20
+2021,2016A000248,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2378.0,True,False,False,False,False,30
+2021,2016A000248,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3165.0,True,False,False,False,False,40
+2021,2016A000248,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3131.0,True,False,False,False,False,50
+2021,2016A000248,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2489.0,True,False,False,False,False,60
+2021,2016A000248,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,606.0,True,False,False,False,False,70
+2019,2016A000259,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,498.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3024.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3968.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,4380.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,3774.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,994.0,False,True,False,False,False,70
+2019,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,188.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,917.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,1199.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,1319.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1159.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,334.0,False,True,False,False,False,70
+2019,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,126.0,False,True,False,False,False,20
+2019,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,625.0,False,True,False,False,False,30
+2019,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,822.0,False,True,False,False,False,40
+2019,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,910.0,False,True,False,False,False,50
+2019,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,798.0,False,True,False,False,False,60
+2019,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,241.0,False,True,False,False,False,70
+2019,2016A000259,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,62.0,False,True,False,False,False,20
+2019,2016A000259,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,292.0,False,True,False,False,False,30
+2019,2016A000259,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,377.0,False,True,False,False,False,40
+2019,2016A000259,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,409.0,False,True,False,False,False,50
+2019,2016A000259,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,361.0,False,True,False,False,False,60
+2019,2016A000259,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,94.0,False,True,False,False,False,70
+2019,2016A000259,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,310.0,False,True,False,False,False,20
+2019,2016A000259,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2108.0,False,True,False,False,False,30
+2019,2016A000259,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,2769.0,False,True,False,False,False,40
+2019,2016A000259,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3061.0,False,True,False,False,False,50
+2019,2016A000259,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2615.0,False,True,False,False,False,60
+2019,2016A000259,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,659.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,516.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3289.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,4271.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,4590.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,3942.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1054.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,185.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,918.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,1192.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,1281.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1127.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,326.0,False,True,False,False,False,70
+2020,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,125.0,False,True,False,False,False,20
+2020,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,638.0,False,True,False,False,False,30
+2020,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,835.0,False,True,False,False,False,40
+2020,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,907.0,False,True,False,False,False,50
+2020,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,794.0,False,True,False,False,False,60
+2020,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,238.0,False,True,False,False,False,70
+2020,2016A000259,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,60.0,False,True,False,False,False,20
+2020,2016A000259,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,280.0,False,True,False,False,False,30
+2020,2016A000259,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,357.0,False,True,False,False,False,40
+2020,2016A000259,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,374.0,False,True,False,False,False,50
+2020,2016A000259,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,333.0,False,True,False,False,False,60
+2020,2016A000259,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,88.0,False,True,False,False,False,70
+2020,2016A000259,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,332.0,False,True,False,False,False,20
+2020,2016A000259,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2371.0,False,True,False,False,False,30
+2020,2016A000259,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3080.0,False,True,False,False,False,40
+2020,2016A000259,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3309.0,False,True,False,False,False,50
+2020,2016A000259,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2816.0,False,True,False,False,False,60
+2020,2016A000259,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,728.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,566.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3435.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,4446.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,4773.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,4117.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1116.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,214.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,1017.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,1314.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,1408.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1244.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,372.0,False,True,False,False,False,70
+2021,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,141.0,False,True,False,False,False,20
+2021,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,694.0,False,True,False,False,False,30
+2021,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,904.0,False,True,False,False,False,40
+2021,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,980.0,False,True,False,False,False,50
+2021,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,861.0,False,True,False,False,False,60
+2021,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,268.0,False,True,False,False,False,70
+2021,2016A000259,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,73.0,False,True,False,False,False,20
+2021,2016A000259,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,323.0,False,True,False,False,False,30
+2021,2016A000259,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,410.0,False,True,False,False,False,40
+2021,2016A000259,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,428.0,False,True,False,False,False,50
+2021,2016A000259,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,383.0,False,True,False,False,False,60
+2021,2016A000259,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,103.0,False,True,False,False,False,70
+2021,2016A000259,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,351.0,False,True,False,False,False,20
+2021,2016A000259,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,2418.0,False,True,False,False,False,30
+2021,2016A000259,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,3132.0,False,True,False,False,False,40
+2021,2016A000259,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,3365.0,False,True,False,False,False,50
+2021,2016A000259,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,2873.0,False,True,False,False,False,60
+2021,2016A000259,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,744.0,False,True,False,False,False,70
+2019,2016A000212,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,147.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,716.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,808.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1036.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,835.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,186.0,False,False,True,False,False,70
+2019,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,33.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,136.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,170.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,211.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,170.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,43.0,False,False,True,False,False,70
+2019,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,24.0,False,False,True,False,False,20
+2019,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,104.0,False,False,True,False,False,30
+2019,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,129.0,False,False,True,False,False,40
+2019,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,159.0,False,False,True,False,False,50
+2019,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,127.0,False,False,True,False,False,60
+2019,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,33.0,False,False,True,False,False,70
+2019,2016A000212,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,8.0,False,False,True,False,False,20
+2019,2016A000212,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,32.0,False,False,True,False,False,30
+2019,2016A000212,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,41.0,False,False,True,False,False,40
+2019,2016A000212,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,51.0,False,False,True,False,False,50
+2019,2016A000212,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,43.0,False,False,True,False,False,60
+2019,2016A000212,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,9.0,False,False,True,False,False,70
+2019,2016A000212,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,114.0,False,False,True,False,False,20
+2019,2016A000212,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,579.0,False,False,True,False,False,30
+2019,2016A000212,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,638.0,False,False,True,False,False,40
+2019,2016A000212,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,825.0,False,False,True,False,False,50
+2019,2016A000212,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,665.0,False,False,True,False,False,60
+2019,2016A000212,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,143.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,144.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,779.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,855.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1074.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,872.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,191.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,32.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,142.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,172.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,213.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,171.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,43.0,False,False,True,False,False,70
+2020,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,24.0,False,False,True,False,False,20
+2020,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,108.0,False,False,True,False,False,30
+2020,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,131.0,False,False,True,False,False,40
+2020,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,163.0,False,False,True,False,False,50
+2020,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,129.0,False,False,True,False,False,60
+2020,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,34.0,False,False,True,False,False,70
+2020,2016A000212,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,8.0,False,False,True,False,False,20
+2020,2016A000212,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,33.0,False,False,True,False,False,30
+2020,2016A000212,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,41.0,False,False,True,False,False,40
+2020,2016A000212,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,50.0,False,False,True,False,False,50
+2020,2016A000212,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,42.0,False,False,True,False,False,60
+2020,2016A000212,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,9.0,False,False,True,False,False,70
+2020,2016A000212,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,112.0,False,False,True,False,False,20
+2020,2016A000212,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,637.0,False,False,True,False,False,30
+2020,2016A000212,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,682.0,False,False,True,False,False,40
+2020,2016A000212,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,862.0,False,False,True,False,False,50
+2020,2016A000212,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,701.0,False,False,True,False,False,60
+2020,2016A000212,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,148.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,158.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,830.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,906.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1135.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,928.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,207.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,34.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,152.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,185.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,228.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,183.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,46.0,False,False,True,False,False,70
+2021,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,26.0,False,False,True,False,False,20
+2021,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,116.0,False,False,True,False,False,30
+2021,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,140.0,False,False,True,False,False,40
+2021,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,174.0,False,False,True,False,False,50
+2021,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,138.0,False,False,True,False,False,60
+2021,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,37.0,False,False,True,False,False,70
+2021,2016A000212,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,8.0,False,False,True,False,False,20
+2021,2016A000212,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,36.0,False,False,True,False,False,30
+2021,2016A000212,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,44.0,False,False,True,False,False,40
+2021,2016A000212,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,54.0,False,False,True,False,False,50
+2021,2016A000212,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,45.0,False,False,True,False,False,60
+2021,2016A000212,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,10.0,False,False,True,False,False,70
+2021,2016A000212,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,124.0,False,False,True,False,False,20
+2021,2016A000212,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,679.0,False,False,True,False,False,30
+2021,2016A000212,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,721.0,False,False,True,False,False,40
+2021,2016A000212,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,907.0,False,False,True,False,False,50
+2021,2016A000212,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,745.0,False,False,True,False,False,60
+2021,2016A000212,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,161.0,False,False,True,False,False,70
+2019,2016A000235,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1527.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,8319.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,10351.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,11978.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,9885.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,2394.0,False,False,False,True,False,70
+2019,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,560.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,2730.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,3487.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,4096.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,3330.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,861.0,False,False,False,True,False,70
+2019,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,389.0,False,False,False,True,False,20
+2019,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,1905.0,False,False,False,True,False,30
+2019,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,2446.0,False,False,False,True,False,40
+2019,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,2863.0,False,False,False,True,False,50
+2019,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,2327.0,False,False,False,True,False,60
+2019,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,630.0,False,False,False,True,False,70
+2019,2016A000235,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,171.0,False,False,False,True,False,20
+2019,2016A000235,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,824.0,False,False,False,True,False,30
+2019,2016A000235,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,1041.0,False,False,False,True,False,40
+2019,2016A000235,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1233.0,False,False,False,True,False,50
+2019,2016A000235,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,1002.0,False,False,False,True,False,60
+2019,2016A000235,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,231.0,False,False,False,True,False,70
+2019,2016A000235,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,967.0,False,False,False,True,False,20
+2019,2016A000235,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,5589.0,False,False,False,True,False,30
+2019,2016A000235,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,6864.0,False,False,False,True,False,40
+2019,2016A000235,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,7882.0,False,False,False,True,False,50
+2019,2016A000235,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,6555.0,False,False,False,True,False,60
+2019,2016A000235,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1534.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1491.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,8648.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,10688.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,12061.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,10149.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,2470.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,494.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,2705.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,3453.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,4009.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,3303.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,862.0,False,False,False,True,False,70
+2020,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,347.0,False,False,False,True,False,20
+2020,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,1879.0,False,False,False,True,False,30
+2020,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,2410.0,False,False,False,True,False,40
+2020,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,2804.0,False,False,False,True,False,50
+2020,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,2313.0,False,False,False,True,False,60
+2020,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,635.0,False,False,False,True,False,70
+2020,2016A000235,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,147.0,False,False,False,True,False,20
+2020,2016A000235,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,826.0,False,False,False,True,False,30
+2020,2016A000235,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,1043.0,False,False,False,True,False,40
+2020,2016A000235,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1205.0,False,False,False,True,False,50
+2020,2016A000235,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,990.0,False,False,False,True,False,60
+2020,2016A000235,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,227.0,False,False,False,True,False,70
+2020,2016A000235,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,997.0,False,False,False,True,False,20
+2020,2016A000235,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,5944.0,False,False,False,True,False,30
+2020,2016A000235,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,7235.0,False,False,False,True,False,40
+2020,2016A000235,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,8053.0,False,False,False,True,False,50
+2020,2016A000235,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,6846.0,False,False,False,True,False,60
+2020,2016A000235,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1607.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1622.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,9270.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,11414.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,12872.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,10830.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,2660.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,542.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,2929.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,3721.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,4317.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,3558.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,942.0,False,False,False,True,False,70
+2021,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,379.0,False,False,False,True,False,20
+2021,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,2008.0,False,False,False,True,False,30
+2021,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,2562.0,False,False,False,True,False,40
+2021,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,2980.0,False,False,False,True,False,50
+2021,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,2456.0,False,False,False,True,False,60
+2021,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,687.0,False,False,False,True,False,70
+2021,2016A000235,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,163.0,False,False,False,True,False,20
+2021,2016A000235,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,921.0,False,False,False,True,False,30
+2021,2016A000235,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,1159.0,False,False,False,True,False,40
+2021,2016A000235,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,1337.0,False,False,False,True,False,50
+2021,2016A000235,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,1101.0,False,False,False,True,False,60
+2021,2016A000235,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,256.0,False,False,False,True,False,70
+2021,2016A000235,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1079.0,False,False,False,True,False,20
+2021,2016A000235,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,6341.0,False,False,False,True,False,30
+2021,2016A000235,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,7693.0,False,False,False,True,False,40
+2021,2016A000235,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,8555.0,False,False,False,True,False,50
+2021,2016A000235,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,7272.0,False,False,False,True,False,60
+2021,2016A000235,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1718.0,False,False,False,True,False,70
+2019,2016A000224,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1154.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,5325.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,7873.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,8003.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,6026.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1115.0,False,False,False,False,True,70
+2019,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,320.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,1354.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,1941.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,1996.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1663.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,353.0,False,False,False,False,True,70
+2019,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,229.0,False,False,False,False,True,20
+2019,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,947.0,False,False,False,False,True,30
+2019,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,1378.0,False,False,False,False,True,40
+2019,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,1418.0,False,False,False,False,True,50
+2019,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,1164.0,False,False,False,False,True,60
+2019,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,256.0,False,False,False,False,True,70
+2019,2016A000224,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,91.0,False,False,False,False,True,20
+2019,2016A000224,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,406.0,False,False,False,False,True,30
+2019,2016A000224,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,563.0,False,False,False,False,True,40
+2019,2016A000224,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,577.0,False,False,False,False,True,50
+2019,2016A000224,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,499.0,False,False,False,False,True,60
+2019,2016A000224,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,97.0,False,False,False,False,True,70
+2019,2016A000224,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,834.0,False,False,False,False,True,20
+2019,2016A000224,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,3971.0,False,False,False,False,True,30
+2019,2016A000224,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,5932.0,False,False,False,False,True,40
+2019,2016A000224,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,6007.0,False,False,False,False,True,50
+2019,2016A000224,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,4364.0,False,False,False,False,True,60
+2019,2016A000224,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,762.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1175.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,5676.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,8512.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,8448.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,6303.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1160.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,300.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,1360.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,1960.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,1986.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1633.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,341.0,False,False,False,False,True,70
+2020,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,218.0,False,False,False,False,True,20
+2020,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,966.0,False,False,False,False,True,30
+2020,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,1412.0,False,False,False,False,True,40
+2020,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,1439.0,False,False,False,False,True,50
+2020,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,1160.0,False,False,False,False,True,60
+2020,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,247.0,False,False,False,False,True,70
+2020,2016A000224,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,82.0,False,False,False,False,True,20
+2020,2016A000224,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,393.0,False,False,False,False,True,30
+2020,2016A000224,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,548.0,False,False,False,False,True,40
+2020,2016A000224,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,547.0,False,False,False,False,True,50
+2020,2016A000224,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,472.0,False,False,False,False,True,60
+2020,2016A000224,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,93.0,False,False,False,False,True,70
+2020,2016A000224,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,875.0,False,False,False,False,True,20
+2020,2016A000224,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,4316.0,False,False,False,False,True,30
+2020,2016A000224,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,6552.0,False,False,False,False,True,40
+2020,2016A000224,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,6462.0,False,False,False,False,True,50
+2020,2016A000224,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,4670.0,False,False,False,False,True,60
+2020,2016A000224,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,820.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,1302.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,6111.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,9091.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,8986.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,6726.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,1250.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Wages and salaries,Dollars,millions,336.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Wages and salaries,Dollars,millions,1489.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Wages and salaries,Dollars,millions,2139.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Wages and salaries,Dollars,millions,2166.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Wages and salaries,Dollars,millions,1787.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Wages and salaries,Dollars,millions,374.0,False,False,False,False,True,70
+2021,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Wages and salaries,Dollars,millions,241.0,False,False,False,False,True,20
+2021,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Wages and salaries,Dollars,millions,1042.0,False,False,False,False,True,30
+2021,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Wages and salaries,Dollars,millions,1518.0,False,False,False,False,True,40
+2021,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Wages and salaries,Dollars,millions,1546.0,False,False,False,False,True,50
+2021,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Wages and salaries,Dollars,millions,1251.0,False,False,False,False,True,60
+2021,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Wages and salaries,Dollars,millions,268.0,False,False,False,False,True,70
+2021,2016A000224,Business non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,95.0,False,False,False,False,True,20
+2021,2016A000224,Business non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,448.0,False,False,False,False,True,30
+2021,2016A000224,Business non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,621.0,False,False,False,False,True,40
+2021,2016A000224,Business non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,620.0,False,False,False,False,True,50
+2021,2016A000224,Business non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,536.0,False,False,False,False,True,60
+2021,2016A000224,Business non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,106.0,False,False,False,False,True,70
+2021,2016A000224,Government non-profit institutions,15 to 24 years,Wages and salaries,Dollars,millions,965.0,False,False,False,False,True,20
+2021,2016A000224,Government non-profit institutions,25 to 34 years,Wages and salaries,Dollars,millions,4622.0,False,False,False,False,True,30
+2021,2016A000224,Government non-profit institutions,35 to 44 years,Wages and salaries,Dollars,millions,6952.0,False,False,False,False,True,40
+2021,2016A000224,Government non-profit institutions,45 to 54 years,Wages and salaries,Dollars,millions,6820.0,False,False,False,False,True,50
+2021,2016A000224,Government non-profit institutions,55 to 64 years,Wages and salaries,Dollars,millions,4939.0,False,False,False,False,True,60
+2021,2016A000224,Government non-profit institutions,65 years old and over,Wages and salaries,Dollars,millions,876.0,False,False,False,False,True,70

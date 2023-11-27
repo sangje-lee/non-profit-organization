@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2019,2016A000248,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2019,2016A000212,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2019,2016A000235,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,0
+2019,2016A000224,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Male employees,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Female employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Male employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Female employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0

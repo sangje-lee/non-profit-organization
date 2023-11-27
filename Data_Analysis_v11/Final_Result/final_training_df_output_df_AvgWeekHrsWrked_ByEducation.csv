@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Education_group
+2013,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,2
+2013,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2013,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,2
+2013,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2013,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,2
+2013,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2013,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,2
+2013,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2013,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2013,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2014,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2014,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2014,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,2
+2014,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2014,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,2
+2014,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2014,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,2
+2014,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2014,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2014,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2015,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2015,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2015,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,2
+2015,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2015,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,2
+2015,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2015,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,2
+2015,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,3
+2015,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2015,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2016,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2016,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2016,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2016,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2016,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,25.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2016,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2016,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,2
+2016,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2016,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2016,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2017,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2017,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2017,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2017,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2017,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,2
+2017,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2017,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,2
+2017,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2017,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,2
+2017,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2018,2016A000248,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2018,2016A000248,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,3
+2018,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,2
+2018,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2018,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,26.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2018,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2018,2016A000248,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,2
+2018,2016A000248,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,3
+2018,2016A000248,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,2
+2018,2016A000248,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,3
+2013,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2013,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2013,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2013,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2013,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,2
+2013,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2013,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,2
+2013,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2013,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2013,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2014,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2014,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2014,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,2
+2014,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2014,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,2
+2014,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2014,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,2
+2014,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2014,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2014,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2015,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,2
+2015,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2015,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,2
+2015,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2015,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,2
+2015,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2015,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,2
+2015,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2015,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2015,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2016,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2016,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2016,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,2
+2016,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2016,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,27.0,False,True,False,False,False,2
+2016,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2016,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,2
+2016,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2016,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2016,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2017,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2017,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2017,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2017,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2017,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,27.0,False,True,False,False,False,2
+2017,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2017,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,2
+2017,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2017,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2017,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,3
+2018,2016A000259,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2018,2016A000259,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2018,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,2
+2018,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2018,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,2
+2018,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2018,2016A000259,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,2
+2018,2016A000259,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,3
+2018,2016A000259,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,2
+2018,2016A000259,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,3
+2013,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2013,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2013,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2013,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2013,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2013,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2013,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,2
+2013,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,3
+2013,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2013,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,3
+2014,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2014,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2014,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2014,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2014,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,2
+2014,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2014,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,2
+2014,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2014,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,2
+2014,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2015,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2015,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2015,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2015,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2015,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,2
+2015,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2015,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,2
+2015,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,3
+2015,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,2
+2015,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2016,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,2
+2016,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2016,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2016,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2016,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,2
+2016,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2016,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,2
+2016,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2016,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,2
+2016,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,3
+2017,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2017,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2017,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,2
+2017,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2017,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,False,True,False,False,2
+2017,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2017,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,2
+2017,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2017,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2017,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2018,2016A000212,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2018,2016A000212,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2018,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,2
+2018,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,3
+2018,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,2
+2018,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2018,2016A000212,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,2
+2018,2016A000212,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,3
+2018,2016A000212,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,2
+2018,2016A000212,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,3
+2013,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2013,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2013,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,2
+2013,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,3
+2013,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2013,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2013,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,2
+2013,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,3
+2013,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2013,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2014,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2014,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2014,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,2
+2014,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2014,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2014,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2014,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,2
+2014,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,3
+2014,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2014,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2015,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2015,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2015,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,2
+2015,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2015,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2015,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2015,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,2
+2015,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,3
+2015,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2015,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2016,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2016,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2016,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2016,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2016,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2016,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2016,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,2
+2016,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,3
+2016,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2016,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2017,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2017,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2017,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2017,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2017,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2017,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2017,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,2
+2017,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,3
+2017,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2017,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2018,2016A000235,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2018,2016A000235,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2018,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,2
+2018,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,3
+2018,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2018,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2018,2016A000235,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,27.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,2
+2018,2016A000235,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,3
+2018,2016A000235,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,2
+2018,2016A000235,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,3
+2013,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2013,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2013,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2013,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2013,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,2
+2013,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2013,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,2
+2013,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2013,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2013,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2014,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2014,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2014,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2014,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2014,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,2
+2014,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2014,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,2
+2014,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2014,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2014,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,3
+2015,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2015,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2015,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2015,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2015,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,2
+2015,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2015,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,2
+2015,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2015,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2015,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,3
+2016,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2016,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2016,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2016,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2016,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,2
+2016,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2016,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,2
+2016,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2016,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2016,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2017,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2017,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2017,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,2
+2017,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2017,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,2
+2017,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2017,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,2
+2017,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2017,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2017,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2018,2016A000224,Total non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,2
+2018,2016A000224,Total non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2018,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average weekly hours worked,Hours,units,24.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,2
+2018,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,3
+2018,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average weekly hours worked,Hours,units,23.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,2
+2018,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3
+2018,2016A000224,Business non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,26.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,2
+2018,2016A000224,Business non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,3
+2018,2016A000224,Government non-profit institutions,High school diploma and less,Average weekly hours worked,Hours,units,25.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Trade certificate,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,2
+2018,2016A000224,Government non-profit institutions,University degree and higher,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,3

@@ -1,0 +1,901 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2013,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18464.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42228.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54346.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59891.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,59112.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,43541.0,True,False,False,False,False,70
+2013,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14705.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,37746.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,46894.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,51517.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,50821.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,32127.0,True,False,False,False,False,70
+2013,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13360.0,True,False,False,False,False,20
+2013,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,34003.0,True,False,False,False,False,30
+2013,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,41719.0,True,False,False,False,False,40
+2013,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,46174.0,True,False,False,False,False,50
+2013,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,45957.0,True,False,False,False,False,60
+2013,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,29845.0,True,False,False,False,False,70
+2013,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17497.0,True,False,False,False,False,20
+2013,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,47907.0,True,False,False,False,False,30
+2013,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,62670.0,True,False,False,False,False,40
+2013,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67558.0,True,False,False,False,False,50
+2013,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,66143.0,True,False,False,False,False,60
+2013,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,39773.0,True,False,False,False,False,70
+2013,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20928.0,True,False,False,False,False,20
+2013,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43948.0,True,False,False,False,False,30
+2013,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57291.0,True,False,False,False,False,40
+2013,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,63100.0,True,False,False,False,False,50
+2013,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,62550.0,True,False,False,False,False,60
+2013,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,49430.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18374.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42694.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,55195.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,61112.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,60208.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,43590.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14786.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,38796.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,48544.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,53277.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,53173.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,33450.0,True,False,False,False,False,70
+2014,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13566.0,True,False,False,False,False,20
+2014,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,34860.0,True,False,False,False,False,30
+2014,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,43036.0,True,False,False,False,False,40
+2014,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,47552.0,True,False,False,False,False,50
+2014,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,47829.0,True,False,False,False,False,60
+2014,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,31013.0,True,False,False,False,False,70
+2014,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17389.0,True,False,False,False,False,20
+2014,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,49744.0,True,False,False,False,False,30
+2014,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,65764.0,True,False,False,False,False,40
+2014,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,70771.0,True,False,False,False,False,50
+2014,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,70393.0,True,False,False,False,False,60
+2014,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,42290.0,True,False,False,False,False,70
+2014,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20706.0,True,False,False,False,False,20
+2014,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,44218.0,True,False,False,False,False,30
+2014,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57880.0,True,False,False,False,False,40
+2014,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64180.0,True,False,False,False,False,50
+2014,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,63117.0,True,False,False,False,False,60
+2014,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,48540.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18119.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43430.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,56461.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,62791.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,61712.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,44941.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14445.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,39101.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,49468.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,54246.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,54268.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,34581.0,True,False,False,False,False,70
+2015,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13435.0,True,False,False,False,False,20
+2015,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,35516.0,True,False,False,False,False,30
+2015,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,44140.0,True,False,False,False,False,40
+2015,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,48696.0,True,False,False,False,False,50
+2015,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,49303.0,True,False,False,False,False,60
+2015,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,32410.0,True,False,False,False,False,70
+2015,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16576.0,True,False,False,False,False,20
+2015,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,49026.0,True,False,False,False,False,30
+2015,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,66133.0,True,False,False,False,False,40
+2015,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,71045.0,True,False,False,False,False,50
+2015,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,70146.0,True,False,False,False,False,60
+2015,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,42376.0,True,False,False,False,False,70
+2015,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20659.0,True,False,False,False,False,20
+2015,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,45137.0,True,False,False,False,False,30
+2015,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,59288.0,True,False,False,False,False,40
+2015,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,66121.0,True,False,False,False,False,50
+2015,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,64753.0,True,False,False,False,False,60
+2015,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,49820.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17848.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43327.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,56328.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,62921.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,61535.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,44268.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14271.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,38717.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,49056.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,54076.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,53232.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,33390.0,True,False,False,False,False,70
+2016,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13800.0,True,False,False,False,False,20
+2016,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,36058.0,True,False,False,False,False,30
+2016,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,44703.0,True,False,False,False,False,40
+2016,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,49396.0,True,False,False,False,False,50
+2016,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,49178.0,True,False,False,False,False,60
+2016,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,31874.0,True,False,False,False,False,70
+2016,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15297.0,True,False,False,False,False,20
+2016,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,45897.0,True,False,False,False,False,30
+2016,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,62229.0,True,False,False,False,False,40
+2016,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,68081.0,True,False,False,False,False,50
+2016,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,65876.0,True,False,False,False,False,60
+2016,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38622.0,True,False,False,False,False,70
+2016,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20498.0,True,False,False,False,False,20
+2016,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,45096.0,True,False,False,False,False,30
+2016,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,59166.0,True,False,False,False,False,40
+2016,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,66237.0,True,False,False,False,False,50
+2016,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,64834.0,True,False,False,False,False,60
+2016,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,49692.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18086.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,44065.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57039.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64171.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,62410.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,44025.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14399.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,38886.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,49367.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,54570.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,53416.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,33425.0,True,False,False,False,False,70
+2017,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13887.0,True,False,False,False,False,20
+2017,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,36540.0,True,False,False,False,False,30
+2017,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,45458.0,True,False,False,False,False,40
+2017,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,50255.0,True,False,False,False,False,50
+2017,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,49562.0,True,False,False,False,False,60
+2017,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,31804.0,True,False,False,False,False,70
+2017,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15688.0,True,False,False,False,False,20
+2017,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,45665.0,True,False,False,False,False,30
+2017,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,61642.0,True,False,False,False,False,40
+2017,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,68208.0,True,False,False,False,False,50
+2017,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,65892.0,True,False,False,False,False,60
+2017,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,39205.0,True,False,False,False,False,70
+2017,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20753.0,True,False,False,False,False,20
+2017,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,46068.0,True,False,False,False,False,30
+2017,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,60028.0,True,False,False,False,False,40
+2017,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67813.0,True,False,False,False,False,50
+2017,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,66001.0,True,False,False,False,False,60
+2017,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,49242.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18479.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,44337.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57208.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64481.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,62504.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,44473.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,14681.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,38572.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,49193.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,54566.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,52911.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,34147.0,True,False,False,False,False,70
+2018,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,14367.0,True,False,False,False,False,20
+2018,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,36398.0,True,False,False,False,False,30
+2018,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,45444.0,True,False,False,False,False,40
+2018,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,50358.0,True,False,False,False,False,50
+2018,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,49143.0,True,False,False,False,False,60
+2018,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,32526.0,True,False,False,False,False,70
+2018,2016A000248,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15440.0,True,False,False,False,False,20
+2018,2016A000248,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,44914.0,True,False,False,False,False,30
+2018,2016A000248,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,60894.0,True,False,False,False,False,40
+2018,2016A000248,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67999.0,True,False,False,False,False,50
+2018,2016A000248,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,65159.0,True,False,False,False,False,60
+2018,2016A000248,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,39810.0,True,False,False,False,False,70
+2018,2016A000248,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,21192.0,True,False,False,False,False,20
+2018,2016A000248,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,46600.0,True,False,False,False,False,30
+2018,2016A000248,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,60371.0,True,False,False,False,False,40
+2018,2016A000248,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,68316.0,True,False,False,False,False,50
+2018,2016A000248,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,66414.0,True,False,False,False,False,60
+2018,2016A000248,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,49613.0,True,False,False,False,False,70
+2013,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15074.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36228.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48778.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53900.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51814.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,32465.0,False,True,False,False,False,70
+2013,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12356.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,30909.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,41083.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,45218.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,42711.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,24334.0,False,True,False,False,False,70
+2013,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12279.0,False,True,False,False,False,20
+2013,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29557.0,False,True,False,False,False,30
+2013,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,38594.0,False,True,False,False,False,40
+2013,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,42584.0,False,True,False,False,False,50
+2013,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,40437.0,False,True,False,False,False,60
+2013,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,23256.0,False,True,False,False,False,70
+2013,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12499.0,False,True,False,False,False,20
+2013,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,34643.0,False,True,False,False,False,30
+2013,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48617.0,False,True,False,False,False,40
+2013,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53242.0,False,True,False,False,False,50
+2013,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,50098.0,False,True,False,False,False,60
+2013,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28071.0,False,True,False,False,False,70
+2013,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17340.0,False,True,False,False,False,20
+2013,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39003.0,False,True,False,False,False,30
+2013,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52732.0,False,True,False,False,False,40
+2013,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,58123.0,False,True,False,False,False,50
+2013,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,56666.0,False,True,False,False,False,60
+2013,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38178.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15581.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36866.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49383.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,55064.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,52814.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,34743.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12428.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,31201.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,41547.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,46280.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,43337.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,26121.0,False,True,False,False,False,70
+2014,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12424.0,False,True,False,False,False,20
+2014,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29864.0,False,True,False,False,False,30
+2014,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,39053.0,False,True,False,False,False,40
+2014,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,43674.0,False,True,False,False,False,50
+2014,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,40943.0,False,True,False,False,False,60
+2014,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,24951.0,False,True,False,False,False,70
+2014,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12435.0,False,True,False,False,False,20
+2014,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,34842.0,False,True,False,False,False,30
+2014,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49066.0,False,True,False,False,False,40
+2014,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54071.0,False,True,False,False,False,50
+2014,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51002.0,False,True,False,False,False,60
+2014,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,30137.0,False,True,False,False,False,70
+2014,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18138.0,False,True,False,False,False,20
+2014,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39832.0,False,True,False,False,False,30
+2014,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,53433.0,False,True,False,False,False,40
+2014,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59360.0,False,True,False,False,False,50
+2014,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,57831.0,False,True,False,False,False,60
+2014,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,40769.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15516.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37097.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49572.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,55684.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,53401.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,37191.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12832.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,31692.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,42203.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,47562.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,43941.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,28458.0,False,True,False,False,False,70
+2015,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12607.0,False,True,False,False,False,20
+2015,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29953.0,False,True,False,False,False,30
+2015,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,39297.0,False,True,False,False,False,40
+2015,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,44478.0,False,True,False,False,False,50
+2015,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,41166.0,False,True,False,False,False,60
+2015,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,27036.0,False,True,False,False,False,70
+2015,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13230.0,False,True,False,False,False,20
+2015,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36134.0,False,True,False,False,False,30
+2015,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,50473.0,False,True,False,False,False,40
+2015,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56168.0,False,True,False,False,False,50
+2015,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,52254.0,False,True,False,False,False,60
+2015,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,32883.0,False,True,False,False,False,70
+2015,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17980.0,False,True,False,False,False,20
+2015,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40069.0,False,True,False,False,False,30
+2015,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,53518.0,False,True,False,False,False,40
+2015,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59791.0,False,True,False,False,False,50
+2015,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,58557.0,False,True,False,False,False,60
+2015,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,43719.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15109.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37573.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,50432.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56774.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,54118.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,36578.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12855.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,32329.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,42985.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,48606.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,44652.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,27745.0,False,True,False,False,False,70
+2016,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12712.0,False,True,False,False,False,20
+2016,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,30618.0,False,True,False,False,False,30
+2016,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,40282.0,False,True,False,False,False,40
+2016,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,45759.0,False,True,False,False,False,50
+2016,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,41992.0,False,True,False,False,False,60
+2016,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,26168.0,False,True,False,False,False,70
+2016,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13142.0,False,True,False,False,False,20
+2016,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36683.0,False,True,False,False,False,30
+2016,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,50559.0,False,True,False,False,False,40
+2016,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56455.0,False,True,False,False,False,50
+2016,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,52396.0,False,True,False,False,False,60
+2016,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,33072.0,False,True,False,False,False,70
+2016,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17094.0,False,True,False,False,False,20
+2016,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40487.0,False,True,False,False,False,30
+2016,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54500.0,False,True,False,False,False,40
+2016,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,60986.0,False,True,False,False,False,50
+2016,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,59377.0,False,True,False,False,False,60
+2016,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,43491.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16080.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38972.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51744.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,58291.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,55045.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,37017.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,13564.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,33392.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,44333.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,50248.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,45948.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,28481.0,False,True,False,False,False,70
+2017,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13267.0,False,True,False,False,False,20
+2017,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,31533.0,False,True,False,False,False,30
+2017,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,41440.0,False,True,False,False,False,40
+2017,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,47127.0,False,True,False,False,False,50
+2017,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,43095.0,False,True,False,False,False,60
+2017,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,26870.0,False,True,False,False,False,70
+2017,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14202.0,False,True,False,False,False,20
+2017,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38242.0,False,True,False,False,False,30
+2017,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52551.0,False,True,False,False,False,40
+2017,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59039.0,False,True,False,False,False,50
+2017,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,54308.0,False,True,False,False,False,60
+2017,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,33858.0,False,True,False,False,False,70
+2017,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18314.0,False,True,False,False,False,20
+2017,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42096.0,False,True,False,False,False,30
+2017,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,55832.0,False,True,False,False,False,40
+2017,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,62540.0,False,True,False,False,False,50
+2017,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,60229.0,False,True,False,False,False,60
+2017,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,43835.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16320.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40001.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,53279.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59964.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,56434.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38180.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,13989.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,34601.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,46124.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,52192.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,47597.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,29814.0,False,True,False,False,False,70
+2018,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13701.0,False,True,False,False,False,20
+2018,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,32638.0,False,True,False,False,False,30
+2018,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,43102.0,False,True,False,False,False,40
+2018,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,48905.0,False,True,False,False,False,50
+2018,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,44583.0,False,True,False,False,False,60
+2018,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,28134.0,False,True,False,False,False,70
+2018,2016A000259,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14608.0,False,True,False,False,False,20
+2018,2016A000259,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39781.0,False,True,False,False,False,30
+2018,2016A000259,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54730.0,False,True,False,False,False,40
+2018,2016A000259,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,61580.0,False,True,False,False,False,50
+2018,2016A000259,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,56365.0,False,True,False,False,False,60
+2018,2016A000259,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,35245.0,False,True,False,False,False,70
+2018,2016A000259,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18311.0,False,True,False,False,False,20
+2018,2016A000259,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42961.0,False,True,False,False,False,30
+2018,2016A000259,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57141.0,False,True,False,False,False,40
+2018,2016A000259,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64029.0,False,True,False,False,False,50
+2018,2016A000259,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,61427.0,False,True,False,False,False,60
+2018,2016A000259,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,44512.0,False,True,False,False,False,70
+2013,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14453.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37127.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48256.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53006.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47907.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,29549.0,False,False,True,False,False,70
+2013,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,10196.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,28081.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,37647.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,39738.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,36098.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,20132.0,False,False,True,False,False,70
+2013,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,9944.0,False,False,True,False,False,20
+2013,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,27239.0,False,False,True,False,False,30
+2013,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,36021.0,False,False,True,False,False,40
+2013,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,37873.0,False,False,True,False,False,50
+2013,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,34578.0,False,False,True,False,False,60
+2013,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,19231.0,False,False,True,False,False,70
+2013,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,10997.0,False,False,True,False,False,20
+2013,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,31784.0,False,False,True,False,False,30
+2013,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,44997.0,False,False,True,False,False,40
+2013,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,47806.0,False,False,True,False,False,50
+2013,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,42672.0,False,False,True,False,False,60
+2013,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,24733.0,False,False,True,False,False,70
+2013,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16630.0,False,False,True,False,False,20
+2013,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40612.0,False,False,True,False,False,30
+2013,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52016.0,False,False,True,False,False,40
+2013,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,57181.0,False,False,True,False,False,50
+2013,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,52154.0,False,False,True,False,False,60
+2013,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,33999.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15733.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38102.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48594.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53021.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47683.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,29840.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,10863.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,29315.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,38835.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,40743.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,36846.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,21570.0,False,False,True,False,False,70
+2014,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,10727.0,False,False,True,False,False,20
+2014,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,28505.0,False,False,True,False,False,30
+2014,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,37195.0,False,False,True,False,False,40
+2014,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,38802.0,False,False,True,False,False,50
+2014,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,35317.0,False,False,True,False,False,60
+2014,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,20561.0,False,False,True,False,False,70
+2014,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,11300.0,False,False,True,False,False,20
+2014,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,33033.0,False,False,True,False,False,30
+2014,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,46788.0,False,False,True,False,False,40
+2014,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,49929.0,False,False,True,False,False,50
+2014,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,43978.0,False,False,True,False,False,60
+2014,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,26893.0,False,False,True,False,False,70
+2014,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18246.0,False,False,True,False,False,20
+2014,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41349.0,False,False,True,False,False,30
+2014,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52047.0,False,False,True,False,False,40
+2014,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56867.0,False,False,True,False,False,50
+2014,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51356.0,False,False,True,False,False,60
+2014,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,33479.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15328.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38468.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49013.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53367.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,48316.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,31912.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11341.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,30101.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,39307.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,41315.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,37567.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,22869.0,False,False,True,False,False,70
+2015,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11235.0,False,False,True,False,False,20
+2015,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29135.0,False,False,True,False,False,30
+2015,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,37441.0,False,False,True,False,False,40
+2015,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,38937.0,False,False,True,False,False,50
+2015,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,35799.0,False,False,True,False,False,60
+2015,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,21588.0,False,False,True,False,False,70
+2015,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,11654.0,False,False,True,False,False,20
+2015,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,34195.0,False,False,True,False,False,30
+2015,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,47749.0,False,False,True,False,False,40
+2015,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,51791.0,False,False,True,False,False,50
+2015,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,44691.0,False,False,True,False,False,60
+2015,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28502.0,False,False,True,False,False,70
+2015,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17327.0,False,False,True,False,False,20
+2015,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41453.0,False,False,True,False,False,30
+2015,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52539.0,False,False,True,False,False,40
+2015,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,57268.0,False,False,True,False,False,50
+2015,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51918.0,False,False,True,False,False,60
+2015,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,35911.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15781.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38880.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49062.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53862.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,48377.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,31662.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11171.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,29668.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,39383.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,41810.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,37263.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,22072.0,False,False,True,False,False,70
+2016,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11027.0,False,False,True,False,False,20
+2016,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,28584.0,False,False,True,False,False,30
+2016,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,37406.0,False,False,True,False,False,40
+2016,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,39413.0,False,False,True,False,False,50
+2016,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,35451.0,False,False,True,False,False,60
+2016,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,20872.0,False,False,True,False,False,70
+2016,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,11600.0,False,False,True,False,False,20
+2016,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,33747.0,False,False,True,False,False,30
+2016,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,47433.0,False,False,True,False,False,40
+2016,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,51698.0,False,False,True,False,False,50
+2016,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,44185.0,False,False,True,False,False,60
+2016,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,27317.0,False,False,True,False,False,70
+2016,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18343.0,False,False,True,False,False,20
+2016,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42221.0,False,False,True,False,False,30
+2016,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52589.0,False,False,True,False,False,40
+2016,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,57882.0,False,False,True,False,False,50
+2016,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,52243.0,False,False,True,False,False,60
+2016,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,36358.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16087.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39188.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49222.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54516.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,48493.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,30816.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11813.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,30340.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,39992.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,43001.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,38228.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,22297.0,False,False,True,False,False,70
+2017,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11612.0,False,False,True,False,False,20
+2017,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29127.0,False,False,True,False,False,30
+2017,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,37795.0,False,False,True,False,False,40
+2017,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,40372.0,False,False,True,False,False,50
+2017,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,36075.0,False,False,True,False,False,60
+2017,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,20995.0,False,False,True,False,False,70
+2017,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12430.0,False,False,True,False,False,20
+2017,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,35081.0,False,False,True,False,False,30
+2017,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49343.0,False,False,True,False,False,40
+2017,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54223.0,False,False,True,False,False,50
+2017,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,46836.0,False,False,True,False,False,60
+2017,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28440.0,False,False,True,False,False,70
+2017,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18127.0,False,False,True,False,False,20
+2017,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42289.0,False,False,True,False,False,30
+2017,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,52548.0,False,False,True,False,False,40
+2017,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,58395.0,False,False,True,False,False,50
+2017,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51999.0,False,False,True,False,False,60
+2017,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,34735.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17351.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41899.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51588.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,57591.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,50636.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,32007.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12352.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,30933.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,41009.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,44589.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,39086.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,22450.0,False,False,True,False,False,70
+2018,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12045.0,False,False,True,False,False,20
+2018,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29600.0,False,False,True,False,False,30
+2018,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,38624.0,False,False,True,False,False,40
+2018,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,41963.0,False,False,True,False,False,50
+2018,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,36897.0,False,False,True,False,False,60
+2018,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,21218.0,False,False,True,False,False,70
+2018,2016A000212,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13273.0,False,False,True,False,False,20
+2018,2016A000212,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36210.0,False,False,True,False,False,30
+2018,2016A000212,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51340.0,False,False,True,False,False,40
+2018,2016A000212,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,55977.0,False,False,True,False,False,50
+2018,2016A000212,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47893.0,False,False,True,False,False,60
+2018,2016A000212,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28117.0,False,False,True,False,False,70
+2018,2016A000212,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,19752.0,False,False,True,False,False,20
+2018,2016A000212,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,45685.0,False,False,True,False,False,30
+2018,2016A000212,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,55295.0,False,False,True,False,False,40
+2018,2016A000212,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,61929.0,False,False,True,False,False,50
+2018,2016A000212,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,54580.0,False,False,True,False,False,60
+2018,2016A000212,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,36665.0,False,False,True,False,False,70
+2013,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13723.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37895.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54273.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,60470.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,57364.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,35453.0,False,False,False,True,False,70
+2013,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11743.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,32964.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,46043.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,51333.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,46924.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,26346.0,False,False,False,True,False,70
+2013,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11595.0,False,False,False,True,False,20
+2013,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,31551.0,False,False,False,True,False,30
+2013,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,43311.0,False,False,False,True,False,40
+2013,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,47853.0,False,False,False,True,False,50
+2013,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,43858.0,False,False,False,True,False,60
+2013,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,24975.0,False,False,False,True,False,70
+2013,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12053.0,False,False,False,True,False,20
+2013,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37084.0,False,False,False,True,False,30
+2013,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54612.0,False,False,False,True,False,40
+2013,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,62263.0,False,False,False,True,False,50
+2013,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,57075.0,False,False,False,True,False,60
+2013,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,31517.0,False,False,False,True,False,70
+2013,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15234.0,False,False,False,True,False,20
+2013,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40826.0,False,False,False,True,False,30
+2013,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,59367.0,False,False,False,True,False,40
+2013,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,65736.0,False,False,False,True,False,50
+2013,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,63638.0,False,False,False,True,False,60
+2013,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,42553.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14333.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38768.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,55363.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,61978.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,58944.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,37925.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12283.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,33472.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,46972.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,52533.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,48403.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,28284.0,False,False,False,True,False,70
+2014,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12067.0,False,False,False,True,False,20
+2014,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,31946.0,False,False,False,True,False,30
+2014,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,44021.0,False,False,False,True,False,40
+2014,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,48689.0,False,False,False,True,False,50
+2014,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,44921.0,False,False,False,True,False,60
+2014,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,26583.0,False,False,False,True,False,70
+2014,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12734.0,False,False,False,True,False,20
+2014,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37914.0,False,False,False,True,False,30
+2014,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,56285.0,False,False,False,True,False,40
+2014,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64589.0,False,False,False,True,False,50
+2014,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,59886.0,False,False,False,True,False,60
+2014,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,34901.0,False,False,False,True,False,70
+2014,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15932.0,False,False,False,True,False,20
+2014,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41932.0,False,False,False,True,False,30
+2014,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,60569.0,False,False,False,True,False,40
+2014,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67494.0,False,False,False,True,False,50
+2014,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,65279.0,False,False,False,True,False,60
+2014,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,45323.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14368.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39708.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,56555.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,63591.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,60633.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,40631.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12470.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,34136.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,48013.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,53833.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,49879.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,29886.0,False,False,False,True,False,70
+2015,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12210.0,False,False,False,True,False,20
+2015,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,32325.0,False,False,False,True,False,30
+2015,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,44706.0,False,False,False,True,False,40
+2015,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,49434.0,False,False,False,True,False,50
+2015,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,45823.0,False,False,False,True,False,60
+2015,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,27828.0,False,False,False,True,False,70
+2015,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13014.0,False,False,False,True,False,20
+2015,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39186.0,False,False,False,True,False,30
+2015,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,58099.0,False,False,False,True,False,40
+2015,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67087.0,False,False,False,True,False,50
+2015,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,62753.0,False,False,False,True,False,60
+2015,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,37719.0,False,False,False,True,False,70
+2015,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15911.0,False,False,False,True,False,20
+2015,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43118.0,False,False,False,True,False,30
+2015,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,61961.0,False,False,False,True,False,40
+2015,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,69453.0,False,False,False,True,False,50
+2015,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,67208.0,False,False,False,True,False,60
+2015,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,48998.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14939.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40313.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,56752.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64026.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,60661.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,39068.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12397.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,34729.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,48665.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,54835.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,50312.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,28890.0,False,False,False,True,False,70
+2016,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11999.0,False,False,False,True,False,20
+2016,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,32742.0,False,False,False,True,False,30
+2016,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,45168.0,False,False,False,True,False,40
+2016,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,50352.0,False,False,False,True,False,50
+2016,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,46215.0,False,False,False,True,False,60
+2016,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,26890.0,False,False,False,True,False,70
+2016,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,13288.0,False,False,False,True,False,20
+2016,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40286.0,False,False,False,True,False,30
+2016,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,59465.0,False,False,False,True,False,40
+2016,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,68722.0,False,False,False,True,False,50
+2016,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,63531.0,False,False,False,True,False,60
+2016,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,36569.0,False,False,False,True,False,70
+2016,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17042.0,False,False,False,True,False,20
+2016,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43751.0,False,False,False,True,False,30
+2016,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,61880.0,False,False,False,True,False,40
+2016,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,69642.0,False,False,False,True,False,50
+2016,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,67112.0,False,False,False,True,False,60
+2016,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,47197.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15482.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40993.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57075.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,64706.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,61135.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38684.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12997.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,35572.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,49462.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,56192.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,51508.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,29471.0,False,False,False,True,False,70
+2017,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12486.0,False,False,False,True,False,20
+2017,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,33577.0,False,False,False,True,False,30
+2017,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,46028.0,False,False,False,True,False,40
+2017,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,51742.0,False,False,False,True,False,50
+2017,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,47395.0,False,False,False,True,False,60
+2017,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,27301.0,False,False,False,True,False,70
+2017,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,14243.0,False,False,False,True,False,20
+2017,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41226.0,False,False,False,True,False,30
+2017,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,60045.0,False,False,False,True,False,40
+2017,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,70045.0,False,False,False,True,False,50
+2017,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,64841.0,False,False,False,True,False,60
+2017,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38033.0,False,False,False,True,False,70
+2017,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17452.0,False,False,False,True,False,20
+2017,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,44333.0,False,False,False,True,False,30
+2017,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,61944.0,False,False,False,True,False,40
+2017,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,70049.0,False,False,False,True,False,50
+2017,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,67283.0,False,False,False,True,False,60
+2017,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,46126.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16222.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,42655.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,59007.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,67251.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,63196.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,38870.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,13785.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,36975.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,51095.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,58377.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,53176.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,30237.0,False,False,False,True,False,70
+2018,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13248.0,False,False,False,True,False,20
+2018,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,34667.0,False,False,False,True,False,30
+2018,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,47232.0,False,False,False,True,False,40
+2018,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,53473.0,False,False,False,True,False,50
+2018,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,48685.0,False,False,False,True,False,60
+2018,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,27944.0,False,False,False,True,False,70
+2018,2016A000235,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,15137.0,False,False,False,True,False,20
+2018,2016A000235,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,43668.0,False,False,False,True,False,30
+2018,2016A000235,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,63244.0,False,False,False,True,False,40
+2018,2016A000235,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,74095.0,False,False,False,True,False,50
+2018,2016A000235,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,68009.0,False,False,False,True,False,60
+2018,2016A000235,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,39693.0,False,False,False,True,False,70
+2018,2016A000235,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18088.0,False,False,False,True,False,20
+2018,2016A000235,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,46180.0,False,False,False,True,False,30
+2018,2016A000235,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,64117.0,False,False,False,True,False,40
+2018,2016A000235,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,72973.0,False,False,False,True,False,50
+2018,2016A000235,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,69779.0,False,False,False,True,False,60
+2018,2016A000235,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,46093.0,False,False,False,True,False,70
+2013,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16093.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,34372.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,46833.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,51523.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,45527.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,25039.0,False,False,False,False,True,70
+2013,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11850.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,28510.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,38976.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,43234.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,37348.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,19840.0,False,False,False,False,True,70
+2013,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12293.0,False,False,False,False,True,20
+2013,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,27478.0,False,False,False,False,True,30
+2013,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,37226.0,False,False,False,False,True,40
+2013,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,40931.0,False,False,False,False,True,50
+2013,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,35097.0,False,False,False,False,True,60
+2013,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,18687.0,False,False,False,False,True,70
+2013,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,10921.0,False,False,False,False,True,20
+2013,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,31777.0,False,False,False,False,True,30
+2013,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,44774.0,False,False,False,False,True,40
+2013,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,50703.0,False,False,False,False,True,50
+2013,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,44962.0,False,False,False,False,True,60
+2013,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,24717.0,False,False,False,False,True,70
+2013,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18890.0,False,False,False,False,True,20
+2013,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36938.0,False,False,False,False,True,30
+2013,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,50285.0,False,False,False,False,True,40
+2013,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54801.0,False,False,False,False,True,50
+2013,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,49423.0,False,False,False,False,True,60
+2013,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28359.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16024.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,35199.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48433.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53174.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,46565.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,25389.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11773.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,29422.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,40755.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,45234.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,38428.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,20166.0,False,False,False,False,True,70
+2014,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12147.0,False,False,False,False,True,20
+2014,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,28429.0,False,False,False,False,True,30
+2014,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,39029.0,False,False,False,False,True,40
+2014,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,42891.0,False,False,False,False,True,50
+2014,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,36111.0,False,False,False,False,True,60
+2014,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,19201.0,False,False,False,False,True,70
+2014,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,10975.0,False,False,False,False,True,20
+2014,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,32632.0,False,False,False,False,True,30
+2014,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,46683.0,False,False,False,False,True,40
+2014,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53190.0,False,False,False,False,True,50
+2014,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,46616.0,False,False,False,False,True,60
+2014,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,24317.0,False,False,False,False,True,70
+2014,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18910.0,False,False,False,False,True,20
+2014,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37643.0,False,False,False,False,True,30
+2014,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51721.0,False,False,False,False,True,40
+2014,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56252.0,False,False,False,False,True,50
+2014,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,50432.0,False,False,False,False,True,60
+2014,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,28835.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16060.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,35989.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,49531.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54205.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47484.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,26305.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11401.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,29441.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,41025.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,45593.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,38924.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,20845.0,False,False,False,False,True,70
+2015,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,11784.0,False,False,False,False,True,20
+2015,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,28399.0,False,False,False,False,True,30
+2015,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,39273.0,False,False,False,False,True,40
+2015,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,43172.0,False,False,False,False,True,50
+2015,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,36385.0,False,False,False,False,True,60
+2015,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,19944.0,False,False,False,False,True,70
+2015,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,10544.0,False,False,False,False,True,20
+2015,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,32582.0,False,False,False,False,True,30
+2015,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,46669.0,False,False,False,False,True,40
+2015,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,53381.0,False,False,False,False,True,50
+2015,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47425.0,False,False,False,False,True,60
+2015,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,24690.0,False,False,False,False,True,70
+2015,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,19322.0,False,False,False,False,True,20
+2015,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38781.0,False,False,False,False,True,30
+2015,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,53238.0,False,False,False,False,True,40
+2015,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,57613.0,False,False,False,False,True,50
+2015,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51626.0,False,False,False,False,True,60
+2015,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,29944.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,16550.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36319.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,50040.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54910.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,47800.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,26685.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,11955.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,29740.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,40969.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,45864.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,39276.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,21240.0,False,False,False,False,True,70
+2016,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12199.0,False,False,False,False,True,20
+2016,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,28416.0,False,False,False,False,True,30
+2016,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,38949.0,False,False,False,False,True,40
+2016,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,43179.0,False,False,False,False,True,50
+2016,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,36577.0,False,False,False,False,True,60
+2016,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,20115.0,False,False,False,False,True,70
+2016,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,11435.0,False,False,False,False,True,20
+2016,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,33651.0,False,False,False,False,True,30
+2016,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,47468.0,False,False,False,False,True,40
+2016,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,54643.0,False,False,False,False,True,50
+2016,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,48317.0,False,False,False,False,True,60
+2016,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,25818.0,False,False,False,False,True,70
+2016,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,19686.0,False,False,False,False,True,20
+2016,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,39231.0,False,False,False,False,True,30
+2016,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,54057.0,False,False,False,False,True,40
+2016,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,58600.0,False,False,False,False,True,50
+2016,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51960.0,False,False,False,False,True,60
+2016,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,30277.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,17553.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,37583.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51567.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56667.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,48887.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,27488.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,12670.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,30482.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,41943.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,47364.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,40157.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,21176.0,False,False,False,False,True,70
+2017,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,12765.0,False,False,False,False,True,20
+2017,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,29077.0,False,False,False,False,True,30
+2017,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,39783.0,False,False,False,False,True,40
+2017,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,44541.0,False,False,False,False,True,50
+2017,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,37348.0,False,False,False,False,True,60
+2017,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,19887.0,False,False,False,False,True,70
+2017,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12447.0,False,False,False,False,True,20
+2017,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,34548.0,False,False,False,False,True,30
+2017,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,48689.0,False,False,False,False,True,40
+2017,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,56364.0,False,False,False,False,True,50
+2017,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,49245.0,False,False,False,False,True,60
+2017,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,26216.0,False,False,False,False,True,70
+2017,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,20969.0,False,False,False,False,True,20
+2017,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,40818.0,False,False,False,False,True,30
+2017,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,55884.0,False,False,False,False,True,40
+2017,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,60563.0,False,False,False,False,True,50
+2017,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,53316.0,False,False,False,False,True,60
+2017,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,32233.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,18287.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,38774.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,53465.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,58881.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,50202.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,27732.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual wages and salaries,Dollars,units,13250.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual wages and salaries,Dollars,units,31841.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual wages and salaries,Dollars,units,43575.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual wages and salaries,Dollars,units,49348.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual wages and salaries,Dollars,units,41636.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual wages and salaries,Dollars,units,21527.0,False,False,False,False,True,70
+2018,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual wages and salaries,Dollars,units,13419.0,False,False,False,False,True,20
+2018,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual wages and salaries,Dollars,units,30230.0,False,False,False,False,True,30
+2018,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual wages and salaries,Dollars,units,41089.0,False,False,False,False,True,40
+2018,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual wages and salaries,Dollars,units,46189.0,False,False,False,False,True,50
+2018,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual wages and salaries,Dollars,units,38609.0,False,False,False,False,True,60
+2018,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual wages and salaries,Dollars,units,20168.0,False,False,False,False,True,70
+2018,2016A000224,Business non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,12853.0,False,False,False,False,True,20
+2018,2016A000224,Business non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,36535.0,False,False,False,False,True,30
+2018,2016A000224,Business non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,51486.0,False,False,False,False,True,40
+2018,2016A000224,Business non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,59698.0,False,False,False,False,True,50
+2018,2016A000224,Business non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,51431.0,False,False,False,False,True,60
+2018,2016A000224,Business non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,26580.0,False,False,False,False,True,70
+2018,2016A000224,Government non-profit institutions,15 to 24 years,Average annual wages and salaries,Dollars,units,21671.0,False,False,False,False,True,20
+2018,2016A000224,Government non-profit institutions,25 to 34 years,Average annual wages and salaries,Dollars,units,41931.0,False,False,False,False,True,30
+2018,2016A000224,Government non-profit institutions,35 to 44 years,Average annual wages and salaries,Dollars,units,57856.0,False,False,False,False,True,40
+2018,2016A000224,Government non-profit institutions,45 to 54 years,Average annual wages and salaries,Dollars,units,62909.0,False,False,False,False,True,50
+2018,2016A000224,Government non-profit institutions,55 to 64 years,Average annual wages and salaries,Dollars,units,54500.0,False,False,False,False,True,60
+2018,2016A000224,Government non-profit institutions,65 years old and over,Average annual wages and salaries,Dollars,units,32257.0,False,False,False,False,True,70

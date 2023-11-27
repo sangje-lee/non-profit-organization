@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2013,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,72546.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,185115.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,28701.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,47885.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,19313.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,37237.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9388.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,10647.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,43845.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,137230.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,73289.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,188486.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,28944.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,49461.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,19646.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,38634.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9298.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,10827.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,44345.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,139025.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,75342.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,192464.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,29753.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,50759.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,20035.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,39671.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9717.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11087.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,45590.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,141705.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,76834.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,195729.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,29349.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,51779.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,19701.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,40224.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9648.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11555.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,47485.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,143950.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,77378.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,196923.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,29235.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,52302.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,20221.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,41053.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9013.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11249.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,48143.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,144622.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,79847.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,201104.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,30159.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,53852.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,21095.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,42027.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9064.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11825.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,49688.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,147252.0,True,False,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,90416.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,201570.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,37973.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,65198.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,25085.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,51480.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,12887.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,13718.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,52443.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,136372.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,90391.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,204384.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,37759.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,66467.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,24878.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,52217.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,12881.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,14250.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,52633.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,137917.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,94008.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,208828.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,40710.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,69596.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,26468.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,53691.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14242.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,15905.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,53298.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,139232.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,96915.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,216219.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,41870.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,73374.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,27306.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,56717.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14564.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,16658.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,55045.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,142845.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,96996.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,218096.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,42224.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,75008.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,27845.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,58117.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14378.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,16891.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,54772.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,143088.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,99874.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,222530.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,42973.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,75412.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,28799.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,58046.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14174.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,17365.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,56901.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,147119.0,False,True,False,False,False,0
+2013,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,20262.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,51311.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,6576.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,12881.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,4852.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,10878.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1725.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2003.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,13686.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,38429.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,20835.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,53324.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,6576.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,13217.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,4928.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11252.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1648.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1965.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,14258.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,40107.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,21443.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,53960.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,6708.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,13430.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,4873.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11298.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1835.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2132.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,14735.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,40530.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,21921.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,54723.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,7105.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,13954.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5119.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11545.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1986.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2409.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,14816.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,40769.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,22089.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,55471.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,6978.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,13842.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5106.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11545.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1872.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2297.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,15111.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,41629.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,22431.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,57024.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,7008.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,14241.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5138.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11875.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1871.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2366.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,15423.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,42782.0,False,False,True,False,False,0
+2013,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,234021.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,512491.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,101822.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,184936.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,68596.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,146124.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,33225.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,38812.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,132200.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,327555.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,238104.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,522438.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,102854.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,190548.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,69471.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,150259.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,33383.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,40289.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,135250.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,331890.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,243741.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,534433.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,107254.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,197300.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,71880.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,154460.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,35373.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,42841.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,136488.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,337132.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,250150.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,547646.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,109680.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,205245.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,74034.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,161349.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,35647.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,43895.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,140469.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,342401.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,253089.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,555493.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,110843.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,209853.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,75612.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,165338.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,35232.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,44515.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,142245.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,345640.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,255539.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,562561.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,110867.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,216352.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,75931.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,171561.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,34936.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,44792.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,144672.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,346208.0,False,False,False,True,False,0
+2013,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,177150.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,411603.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,61327.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,125046.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,40945.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,100195.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20383.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,24850.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,115823.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,286557.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,176549.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,414452.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,60760.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,125131.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,41141.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,100739.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,19619.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,24392.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,115789.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,289321.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,177261.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,415158.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,62039.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,126595.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,41661.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,100954.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20378.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,25641.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,115222.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,288563.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,178602.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,417459.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,63178.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,128583.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,42575.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,102098.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20603.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,26485.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,115424.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,288876.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,175872.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,414624.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,63524.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,130887.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,42897.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,103437.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20627.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,27450.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,112348.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,283737.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,179679.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,424894.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,64360.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,133703.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,43734.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,105626.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20626.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,28077.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,115318.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,291192.0,False,False,False,False,True,0

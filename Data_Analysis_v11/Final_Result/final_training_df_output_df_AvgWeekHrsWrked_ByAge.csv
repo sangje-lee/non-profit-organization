@@ -1,0 +1,901 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2013,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2013,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2013,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2013,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2013,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2013,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2013,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2013,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2013,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2013,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,30
+2013,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,40
+2013,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,50
+2013,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,60
+2013,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2013,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,21.0,True,False,False,False,False,20
+2013,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2013,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2013,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2013,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2013,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2014,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2014,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2014,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2014,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2014,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2014,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2014,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2014,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,30
+2014,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,40
+2014,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,50
+2014,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,60
+2014,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2014,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,21.0,True,False,False,False,False,20
+2014,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,30
+2014,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2014,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2014,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2014,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2015,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2015,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2015,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2015,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2015,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2015,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2015,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2015,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,30
+2015,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,40
+2015,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,True,False,False,False,False,50
+2015,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,60
+2015,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,25.0,True,False,False,False,False,70
+2015,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2015,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,30
+2015,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,40
+2015,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,50
+2015,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,60
+2015,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2016,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2016,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2016,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2016,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,50
+2016,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2016,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,22.0,True,False,False,False,False,70
+2016,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2016,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,30
+2016,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,40
+2016,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2016,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2016,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2016,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2016,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,30
+2016,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2016,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2016,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2016,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,22.0,True,False,False,False,False,70
+2017,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,True,False,False,False,False,20
+2017,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2017,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2017,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,50
+2017,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,60
+2017,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,22.0,True,False,False,False,False,70
+2017,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2017,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,30
+2017,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,40
+2017,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2017,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2017,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2017,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2017,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,30
+2017,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,40
+2017,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,50
+2017,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,60
+2017,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2018,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2018,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,30
+2018,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,40
+2018,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,50
+2018,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,60
+2018,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2018,2016A000248,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,True,False,False,False,False,20
+2018,2016A000248,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,True,False,False,False,False,30
+2018,2016A000248,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,True,False,False,False,False,40
+2018,2016A000248,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,True,False,False,False,False,50
+2018,2016A000248,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,60
+2018,2016A000248,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,True,False,False,False,False,70
+2018,2016A000248,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,20.0,True,False,False,False,False,20
+2018,2016A000248,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,30
+2018,2016A000248,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,40
+2018,2016A000248,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,True,False,False,False,False,50
+2018,2016A000248,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,60
+2018,2016A000248,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,True,False,False,False,False,70
+2013,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2013,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2013,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2013,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2013,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2013,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2013,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2013,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2013,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2013,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2013,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,40
+2013,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2013,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2013,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2013,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2013,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2013,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2013,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2013,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2013,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2014,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2014,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2014,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2014,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2014,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2014,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2014,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2014,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2014,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,40
+2014,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2014,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2014,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2014,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2014,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,30
+2014,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2014,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2014,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2014,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2015,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2015,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2015,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2015,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2015,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2015,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2015,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2015,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2015,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,40
+2015,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2015,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2015,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2015,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2015,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2015,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2015,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2015,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2015,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2016,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2016,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2016,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2016,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2016,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2016,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2016,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2016,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2016,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,40
+2016,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2016,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2016,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2016,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2016,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,30
+2016,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2016,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2016,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2016,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,True,False,False,False,70
+2017,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,True,False,False,False,20
+2017,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,30
+2017,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,40
+2017,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,50
+2017,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,60
+2017,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,19.0,False,True,False,False,False,70
+2017,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2017,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2017,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,40
+2017,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2017,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2017,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2017,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2017,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,30
+2017,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,40
+2017,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2017,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2017,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2018,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2018,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2018,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2018,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2018,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,60
+2018,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,True,False,False,False,70
+2018,2016A000259,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2018,2016A000259,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,30
+2018,2016A000259,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,True,False,False,False,40
+2018,2016A000259,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,True,False,False,False,50
+2018,2016A000259,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,True,False,False,False,60
+2018,2016A000259,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2018,2016A000259,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,True,False,False,False,20
+2018,2016A000259,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,30
+2018,2016A000259,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,40
+2018,2016A000259,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,True,False,False,False,50
+2018,2016A000259,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,60
+2018,2016A000259,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,True,False,False,False,70
+2013,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,70
+2013,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2013,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,True,False,False,20
+2013,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2013,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2013,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2013,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2013,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2013,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2013,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,30
+2013,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,39.0,False,False,True,False,False,40
+2013,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,39.0,False,False,True,False,False,50
+2013,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,60
+2013,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,70
+2013,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2013,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,30
+2013,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2013,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2013,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2013,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2014,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,True,False,False,20
+2014,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2014,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2014,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2014,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2014,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2014,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,True,False,False,20
+2014,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,30
+2014,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,40
+2014,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,50
+2014,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,60
+2014,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,70
+2014,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,20
+2014,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2014,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2014,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2014,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2014,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,70
+2015,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2015,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2015,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2015,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2015,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2015,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,70
+2015,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2015,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,30
+2015,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,40
+2015,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,39.0,False,False,True,False,False,50
+2015,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,60
+2015,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,26.0,False,False,True,False,False,70
+2015,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2015,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2015,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2015,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2015,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2015,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,True,False,False,70
+2016,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2016,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2016,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2016,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2016,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2016,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2016,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2016,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,30
+2016,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,True,False,False,40
+2016,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,50
+2016,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,60
+2016,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,70
+2016,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,20
+2016,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,30
+2016,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,40
+2016,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,50
+2016,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,60
+2016,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2017,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2017,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,30
+2017,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,40
+2017,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,50
+2017,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,60
+2017,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2017,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2017,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,30
+2017,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,True,False,False,40
+2017,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,50
+2017,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,60
+2017,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,24.0,False,False,True,False,False,70
+2017,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2017,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2017,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2017,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2017,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2017,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,True,False,False,70
+2018,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,True,False,False,20
+2018,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,30
+2018,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,40
+2018,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2018,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,60
+2018,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2018,2016A000212,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,True,False,False,20
+2018,2016A000212,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,30
+2018,2016A000212,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,38.0,False,False,True,False,False,40
+2018,2016A000212,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,39.0,False,False,True,False,False,50
+2018,2016A000212,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,60
+2018,2016A000212,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,False,False,True,False,False,70
+2018,2016A000212,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,True,False,False,20
+2018,2016A000212,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,30
+2018,2016A000212,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,True,False,False,40
+2018,2016A000212,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,True,False,False,50
+2018,2016A000212,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,60
+2018,2016A000212,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,True,False,False,70
+2013,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2013,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2013,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2013,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2013,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2013,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2013,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2013,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2013,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2013,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2013,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,40
+2013,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,False,True,False,50
+2013,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,60
+2013,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2013,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2013,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,30
+2013,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2013,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2013,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2013,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2014,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2014,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2014,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2014,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2014,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2014,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2014,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2014,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2014,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,40
+2014,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,50
+2014,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,60
+2014,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2014,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2014,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,True,False,30
+2014,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2014,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2014,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2014,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2015,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2015,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2015,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,40
+2015,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2015,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,60
+2015,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2015,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2015,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2015,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,40
+2015,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,False,True,False,50
+2015,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,60
+2015,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,23.0,False,False,False,True,False,70
+2015,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2015,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2015,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2015,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2015,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2015,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2016,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2016,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2016,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,40
+2016,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2016,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,60
+2016,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2016,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2016,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2016,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,40
+2016,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,False,True,False,50
+2016,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,60
+2016,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2016,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2016,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2016,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2016,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2016,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2016,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2017,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2017,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2017,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,40
+2017,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2017,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,60
+2017,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2017,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,True,False,20
+2017,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2017,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,40
+2017,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,38.0,False,False,False,True,False,50
+2017,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,60
+2017,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2017,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,True,False,20
+2017,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2017,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2017,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2017,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2017,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,21.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2018,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,True,False,20
+2018,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,30
+2018,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,40
+2018,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,50
+2018,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,60
+2018,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2018,2016A000235,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,True,False,20
+2018,2016A000235,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,30
+2018,2016A000235,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,False,True,False,40
+2018,2016A000235,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,False,False,False,True,False,50
+2018,2016A000235,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,35.0,False,False,False,True,False,60
+2018,2016A000235,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,22.0,False,False,False,True,False,70
+2018,2016A000235,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,True,False,20
+2018,2016A000235,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,30
+2018,2016A000235,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,40
+2018,2016A000235,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,True,False,50
+2018,2016A000235,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,34.0,False,False,False,True,False,60
+2018,2016A000235,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,True,False,70
+2013,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2013,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,70
+2013,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2013,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2013,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2013,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2013,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2013,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2013,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2013,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,30
+2013,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,False,False,True,40
+2013,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,50
+2013,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,60
+2013,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,False,True,70
+2013,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2013,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2013,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2013,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2013,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2013,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2014,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2014,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2014,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2014,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2014,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2014,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2014,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,20
+2014,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,30
+2014,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,40
+2014,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,False,False,False,False,True,50
+2014,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,60
+2014,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,False,False,False,True,70
+2014,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2014,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2014,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2014,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2014,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2014,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,70
+2015,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2015,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2015,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2015,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2015,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,60
+2015,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2015,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,20
+2015,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,30
+2015,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,40
+2015,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,37.0,False,False,False,False,True,50
+2015,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,60
+2015,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,20.0,False,False,False,False,True,70
+2015,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2015,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,30
+2015,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2015,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2015,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2015,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,70
+2016,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2016,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2016,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2016,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2016,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2016,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2016,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,15.0,False,False,False,False,True,20
+2016,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,30
+2016,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,False,False,True,40
+2016,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,50
+2016,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,60
+2016,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,19.0,False,False,False,False,True,70
+2016,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2016,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2016,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2016,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2016,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2016,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2017,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2017,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2017,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2017,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2017,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,60
+2017,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2017,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2017,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,30
+2017,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,False,False,True,40
+2017,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,50
+2017,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,60
+2017,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,70
+2017,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,False,False,True,20
+2017,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2017,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2017,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2017,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2017,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average weekly hours worked,Hours,units,34.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2018,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2018,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2018,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,40
+2018,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2018,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,60
+2018,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average weekly hours worked,Hours,units,17.0,False,False,False,False,True,70
+2018,2016A000224,Business non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,20
+2018,2016A000224,Business non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,30
+2018,2016A000224,Business non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,35.0,False,False,False,False,True,40
+2018,2016A000224,Business non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,36.0,False,False,False,False,True,50
+2018,2016A000224,Business non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,60
+2018,2016A000224,Business non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,18.0,False,False,False,False,True,70
+2018,2016A000224,Government non-profit institutions,15 to 24 years,Average weekly hours worked,Hours,units,19.0,False,False,False,False,True,20
+2018,2016A000224,Government non-profit institutions,25 to 34 years,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,30
+2018,2016A000224,Government non-profit institutions,35 to 44 years,Average weekly hours worked,Hours,units,32.0,False,False,False,False,True,40
+2018,2016A000224,Government non-profit institutions,45 to 54 years,Average weekly hours worked,Hours,units,33.0,False,False,False,False,True,50
+2018,2016A000224,Government non-profit institutions,55 to 64 years,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,60
+2018,2016A000224,Government non-profit institutions,65 years old and over,Average weekly hours worked,Hours,units,16.0,False,False,False,False,True,70

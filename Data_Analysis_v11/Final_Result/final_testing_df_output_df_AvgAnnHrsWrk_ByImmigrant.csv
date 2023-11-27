@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2019,2016A000248,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1595.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1553.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1578.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1563.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1547.0,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1528.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1686.0,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1670.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1600.0,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1547.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1568.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1531.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1541.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1522.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1520.0,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1499.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1612.0,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1588.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1577.0,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1535.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1648.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1607.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1613.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1599.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1600.0,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1583.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1652.0,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1642.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1659.0,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1611.0,True,False,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1561.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1525.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1534.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1516.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1503.0,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1488.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1618.0,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1590.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1574.0,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1530.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1548.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1514.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1539.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1525.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1512.0,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1505.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1613.0,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1582.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1552.0,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1509.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1589.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1545.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1528.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1511.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1505.0,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1496.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1590.0,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1549.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1617.0,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1565.0,False,True,False,False,False,1
+2019,2016A000212,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1634.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1625.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1601.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1615.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1591.0,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1602.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1646.0,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1664.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1642.0,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1629.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1659.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1647.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1533.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1551.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1509.0,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1527.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1632.0,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1646.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1691.0,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1681.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1609.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1615.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1558.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1581.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1539.0,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1564.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1635.0,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1649.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1622.0,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1628.0,False,False,True,False,False,1
+2019,2016A000235,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1583.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1570.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1573.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1566.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1535.0,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1540.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1684.0,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1651.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1590.0,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1573.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1588.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1576.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1528.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1533.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1477.0,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1494.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1677.0,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1659.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1621.0,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1602.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1630.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1620.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1585.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1595.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1545.0,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1564.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1697.0,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1691.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1655.0,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1635.0,False,False,False,True,False,1
+2019,2016A000224,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1502.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1515.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1458.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1496.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1412.0,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1458.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1602.0,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1611.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1521.0,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1524.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1485.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1494.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1477.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1506.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1437.0,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1472.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1609.0,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1612.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1488.0,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1488.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1509.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1523.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average annual hours worked,Hours,units,1470.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average annual hours worked,Hours,units,1509.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average annual hours worked,Hours,units,1432.0,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average annual hours worked,Hours,units,1479.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1592.0,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1599.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Immigrant employees,Average annual hours worked,Hours,units,1525.0,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Non-immigrant employees,Average annual hours worked,Hours,units,1530.0,False,False,False,False,True,1

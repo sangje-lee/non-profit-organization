@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2019,2016A000248,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,931.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1541.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1684.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1790.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1679.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1156.0,True,False,False,False,False,70
+2019,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,889.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1649.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1750.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1821.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1688.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1140.0,True,False,False,False,False,70
+2019,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,876.0,True,False,False,False,False,20
+2019,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1605.0,True,False,False,False,False,30
+2019,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1703.0,True,False,False,False,False,40
+2019,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1783.0,True,False,False,False,False,50
+2019,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1650.0,True,False,False,False,False,60
+2019,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1112.0,True,False,False,False,False,70
+2019,2016A000248,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,922.0,True,False,False,False,False,20
+2019,2016A000248,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1779.0,True,False,False,False,False,30
+2019,2016A000248,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1897.0,True,False,False,False,False,40
+2019,2016A000248,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1943.0,True,False,False,False,False,50
+2019,2016A000248,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1810.0,True,False,False,False,False,60
+2019,2016A000248,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1242.0,True,False,False,False,False,70
+2019,2016A000248,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,964.0,True,False,False,False,False,20
+2019,2016A000248,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1499.0,True,False,False,False,False,30
+2019,2016A000248,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1658.0,True,False,False,False,False,40
+2019,2016A000248,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1778.0,True,False,False,False,False,50
+2019,2016A000248,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1676.0,True,False,False,False,False,60
+2019,2016A000248,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1164.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,917.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1510.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1648.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1750.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1646.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1154.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,865.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1595.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1692.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1758.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1622.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1112.0,True,False,False,False,False,70
+2020,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,869.0,True,False,False,False,False,20
+2020,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1563.0,True,False,False,False,False,30
+2020,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1655.0,True,False,False,False,False,40
+2020,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1728.0,True,False,False,False,False,50
+2020,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1592.0,True,False,False,False,False,60
+2020,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1092.0,True,False,False,False,False,70
+2020,2016A000248,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,857.0,True,False,False,False,False,20
+2020,2016A000248,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1687.0,True,False,False,False,False,30
+2020,2016A000248,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1803.0,True,False,False,False,False,40
+2020,2016A000248,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1851.0,True,False,False,False,False,50
+2020,2016A000248,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1715.0,True,False,False,False,False,60
+2020,2016A000248,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1178.0,True,False,False,False,False,70
+2020,2016A000248,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,950.0,True,False,False,False,False,20
+2020,2016A000248,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1480.0,True,False,False,False,False,30
+2020,2016A000248,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1633.0,True,False,False,False,False,40
+2020,2016A000248,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1747.0,True,False,False,False,False,50
+2020,2016A000248,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1655.0,True,False,False,False,False,60
+2020,2016A000248,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1175.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,962.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1586.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1732.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1838.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1729.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1207.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,909.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1670.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1773.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1842.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1705.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1175.0,True,False,False,False,False,70
+2021,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,918.0,True,False,False,False,False,20
+2021,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1642.0,True,False,False,False,False,30
+2021,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1741.0,True,False,False,False,False,40
+2021,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1817.0,True,False,False,False,False,50
+2021,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1685.0,True,False,False,False,False,60
+2021,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1170.0,True,False,False,False,False,70
+2021,2016A000248,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,889.0,True,False,False,False,False,20
+2021,2016A000248,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1746.0,True,False,False,False,False,30
+2021,2016A000248,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1863.0,True,False,False,False,False,40
+2021,2016A000248,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1915.0,True,False,False,False,False,50
+2021,2016A000248,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1763.0,True,False,False,False,False,60
+2021,2016A000248,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1192.0,True,False,False,False,False,70
+2021,2016A000248,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,997.0,True,False,False,False,False,20
+2021,2016A000248,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1555.0,True,False,False,False,False,30
+2021,2016A000248,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1717.0,True,False,False,False,False,40
+2021,2016A000248,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1837.0,True,False,False,False,False,50
+2021,2016A000248,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1738.0,True,False,False,False,False,60
+2021,2016A000248,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1222.0,True,False,False,False,False,70
+2019,2016A000259,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,905.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1536.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1656.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1753.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1632.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1085.0,False,True,False,False,False,70
+2019,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,899.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1575.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1676.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1754.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1616.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1057.0,False,True,False,False,False,70
+2019,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,892.0,False,True,False,False,False,20
+2019,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1537.0,False,True,False,False,False,30
+2019,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1633.0,False,True,False,False,False,40
+2019,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1718.0,False,True,False,False,False,50
+2019,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1587.0,False,True,False,False,False,60
+2019,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1035.0,False,True,False,False,False,70
+2019,2016A000259,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,915.0,False,True,False,False,False,20
+2019,2016A000259,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1676.0,False,True,False,False,False,30
+2019,2016A000259,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1795.0,False,True,False,False,False,40
+2019,2016A000259,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1857.0,False,True,False,False,False,50
+2019,2016A000259,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1698.0,False,True,False,False,False,60
+2019,2016A000259,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1125.0,False,True,False,False,False,70
+2019,2016A000259,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,909.0,False,True,False,False,False,20
+2019,2016A000259,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1515.0,False,True,False,False,False,30
+2019,2016A000259,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1645.0,False,True,False,False,False,40
+2019,2016A000259,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1753.0,False,True,False,False,False,50
+2019,2016A000259,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1641.0,False,True,False,False,False,60
+2019,2016A000259,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1106.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,877.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1512.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1644.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1738.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1628.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1102.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,872.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1571.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1680.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1760.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1633.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1086.0,False,True,False,False,False,70
+2020,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,875.0,False,True,False,False,False,20
+2020,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1535.0,False,True,False,False,False,30
+2020,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1642.0,False,True,False,False,False,40
+2020,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1727.0,False,True,False,False,False,50
+2020,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1610.0,False,True,False,False,False,60
+2020,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1072.0,False,True,False,False,False,70
+2020,2016A000259,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,866.0,False,True,False,False,False,20
+2020,2016A000259,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1670.0,False,True,False,False,False,30
+2020,2016A000259,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1792.0,False,True,False,False,False,40
+2020,2016A000259,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1861.0,False,True,False,False,False,50
+2020,2016A000259,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1701.0,False,True,False,False,False,60
+2020,2016A000259,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1131.0,False,True,False,False,False,70
+2020,2016A000259,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,880.0,False,True,False,False,False,20
+2020,2016A000259,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1485.0,False,True,False,False,False,30
+2020,2016A000259,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1627.0,False,True,False,False,False,40
+2020,2016A000259,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1727.0,False,True,False,False,False,50
+2020,2016A000259,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1626.0,False,True,False,False,False,60
+2020,2016A000259,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1112.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,917.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1555.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1682.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1778.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1660.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1111.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,889.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1567.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1671.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1751.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1616.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1060.0,False,True,False,False,False,70
+2021,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,902.0,False,True,False,False,False,20
+2021,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1535.0,False,True,False,False,False,30
+2021,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1637.0,False,True,False,False,False,40
+2021,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1721.0,False,True,False,False,False,50
+2021,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1595.0,False,True,False,False,False,60
+2021,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1048.0,False,True,False,False,False,70
+2021,2016A000259,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,863.0,False,True,False,False,False,20
+2021,2016A000259,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1649.0,False,True,False,False,False,30
+2021,2016A000259,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1766.0,False,True,False,False,False,40
+2021,2016A000259,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1837.0,False,True,False,False,False,50
+2021,2016A000259,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1672.0,False,True,False,False,False,60
+2021,2016A000259,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1096.0,False,True,False,False,False,70
+2021,2016A000259,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,938.0,False,True,False,False,False,20
+2021,2016A000259,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1549.0,False,True,False,False,False,30
+2021,2016A000259,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1687.0,False,True,False,False,False,40
+2021,2016A000259,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1791.0,False,True,False,False,False,50
+2021,2016A000259,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1684.0,False,True,False,False,False,60
+2021,2016A000259,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1146.0,False,True,False,False,False,70
+2019,2016A000212,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,966.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1624.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1788.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1890.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1700.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1078.0,False,False,True,False,False,70
+2019,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,918.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1635.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1831.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1923.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1701.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1127.0,False,False,True,False,False,70
+2019,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,933.0,False,False,True,False,False,20
+2019,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1615.0,False,False,True,False,False,30
+2019,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1801.0,False,False,True,False,False,40
+2019,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1897.0,False,False,True,False,False,50
+2019,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1680.0,False,False,True,False,False,60
+2019,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1121.0,False,False,True,False,False,70
+2019,2016A000212,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,878.0,False,False,True,False,False,20
+2019,2016A000212,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1711.0,False,False,True,False,False,30
+2019,2016A000212,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1958.0,False,False,True,False,False,40
+2019,2016A000212,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,2031.0,False,False,True,False,False,50
+2019,2016A000212,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1783.0,False,False,True,False,False,60
+2019,2016A000212,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1157.0,False,False,True,False,False,70
+2019,2016A000212,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,988.0,False,False,True,False,False,20
+2019,2016A000212,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1620.0,False,False,True,False,False,30
+2019,2016A000212,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1773.0,False,False,True,False,False,40
+2019,2016A000212,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1879.0,False,False,True,False,False,50
+2019,2016A000212,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1700.0,False,False,True,False,False,60
+2019,2016A000212,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1053.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,976.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1640.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1793.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1911.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1717.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1114.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,879.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1557.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1752.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1857.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1628.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1083.0,False,False,True,False,False,70
+2020,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,895.0,False,False,True,False,False,20
+2020,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1521.0,False,False,True,False,False,30
+2020,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1708.0,False,False,True,False,False,40
+2020,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1818.0,False,False,True,False,False,50
+2020,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1595.0,False,False,True,False,False,60
+2020,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1075.0,False,False,True,False,False,70
+2020,2016A000212,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,832.0,False,False,True,False,False,20
+2020,2016A000212,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1697.0,False,False,True,False,False,30
+2020,2016A000212,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1938.0,False,False,True,False,False,40
+2020,2016A000212,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,2021.0,False,False,True,False,False,50
+2020,2016A000212,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1759.0,False,False,True,False,False,60
+2020,2016A000212,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1121.0,False,False,True,False,False,70
+2020,2016A000212,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,1020.0,False,False,True,False,False,20
+2020,2016A000212,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1666.0,False,False,True,False,False,30
+2020,2016A000212,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1806.0,False,False,True,False,False,40
+2020,2016A000212,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1928.0,False,False,True,False,False,50
+2020,2016A000212,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1746.0,False,False,True,False,False,60
+2020,2016A000212,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1130.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,973.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1620.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1776.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1895.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1685.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1035.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,915.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1598.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1789.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1888.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1655.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1073.0,False,False,True,False,False,70
+2021,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,931.0,False,False,True,False,False,20
+2021,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1574.0,False,False,True,False,False,30
+2021,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1757.0,False,False,True,False,False,40
+2021,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1862.0,False,False,True,False,False,50
+2021,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1626.0,False,False,True,False,False,60
+2021,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1055.0,False,False,True,False,False,70
+2021,2016A000212,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,869.0,False,False,True,False,False,20
+2021,2016A000212,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1690.0,False,False,True,False,False,30
+2021,2016A000212,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1919.0,False,False,True,False,False,40
+2021,2016A000212,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1993.0,False,False,True,False,False,50
+2021,2016A000212,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1770.0,False,False,True,False,False,60
+2021,2016A000212,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1158.0,False,False,True,False,False,70
+2021,2016A000212,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,997.0,False,False,True,False,False,20
+2021,2016A000212,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1627.0,False,False,True,False,False,30
+2021,2016A000212,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1772.0,False,False,True,False,False,40
+2021,2016A000212,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1897.0,False,False,True,False,False,50
+2021,2016A000212,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1694.0,False,False,True,False,False,60
+2021,2016A000212,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1017.0,False,False,True,False,False,70
+2019,2016A000235,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,865.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1579.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1745.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1831.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1708.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1056.0,False,False,False,True,False,70
+2019,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,847.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1631.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1757.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1830.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1690.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1060.0,False,False,False,True,False,70
+2019,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,843.0,False,False,False,True,False,20
+2019,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1589.0,False,False,False,True,False,30
+2019,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1716.0,False,False,False,True,False,40
+2019,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1794.0,False,False,False,True,False,50
+2019,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1657.0,False,False,False,True,False,60
+2019,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1038.0,False,False,False,True,False,70
+2019,2016A000235,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,856.0,False,False,False,True,False,20
+2019,2016A000235,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1755.0,False,False,False,True,False,30
+2019,2016A000235,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1884.0,False,False,False,True,False,40
+2019,2016A000235,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1945.0,False,False,False,True,False,50
+2019,2016A000235,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1794.0,False,False,False,True,False,60
+2019,2016A000235,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1148.0,False,False,False,True,False,70
+2019,2016A000235,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,878.0,False,False,False,True,False,20
+2019,2016A000235,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1547.0,False,False,False,True,False,30
+2019,2016A000235,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1737.0,False,False,False,True,False,40
+2019,2016A000235,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1832.0,False,False,False,True,False,50
+2019,2016A000235,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1720.0,False,False,False,True,False,60
+2019,2016A000235,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1052.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,877.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1577.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1734.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1822.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1705.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1071.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,835.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1582.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1696.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1766.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1635.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1041.0,False,False,False,True,False,70
+2020,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,823.0,False,False,False,True,False,20
+2020,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1529.0,False,False,False,True,False,30
+2020,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1647.0,False,False,False,True,False,40
+2020,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1722.0,False,False,False,True,False,50
+2020,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1592.0,False,False,False,True,False,60
+2020,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1005.0,False,False,False,True,False,70
+2020,2016A000235,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,869.0,False,False,False,True,False,20
+2020,2016A000235,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1735.0,False,False,False,True,False,30
+2020,2016A000235,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1847.0,False,False,False,True,False,40
+2020,2016A000235,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1909.0,False,False,False,True,False,50
+2020,2016A000235,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1777.0,False,False,False,True,False,60
+2020,2016A000235,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1191.0,False,False,False,True,False,70
+2020,2016A000235,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,904.0,False,False,False,True,False,20
+2020,2016A000235,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1575.0,False,False,False,True,False,30
+2020,2016A000235,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1755.0,False,False,False,True,False,40
+2020,2016A000235,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1854.0,False,False,False,True,False,50
+2020,2016A000235,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1747.0,False,False,False,True,False,60
+2020,2016A000235,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1094.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,912.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1625.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1783.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1876.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1753.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1089.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,881.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1644.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1762.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1839.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1699.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,1072.0,False,False,False,True,False,70
+2021,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,872.0,False,False,False,True,False,20
+2021,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1600.0,False,False,False,True,False,30
+2021,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1724.0,False,False,False,True,False,40
+2021,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1805.0,False,False,False,True,False,50
+2021,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1664.0,False,False,False,True,False,60
+2021,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,1041.0,False,False,False,True,False,70
+2021,2016A000235,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,905.0,False,False,False,True,False,20
+2021,2016A000235,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1765.0,False,False,False,True,False,30
+2021,2016A000235,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1874.0,False,False,False,True,False,40
+2021,2016A000235,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1942.0,False,False,False,True,False,50
+2021,2016A000235,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1806.0,False,False,False,True,False,60
+2021,2016A000235,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1192.0,False,False,False,True,False,70
+2021,2016A000235,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,932.0,False,False,False,True,False,20
+2021,2016A000235,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1614.0,False,False,False,True,False,30
+2021,2016A000235,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1796.0,False,False,False,True,False,40
+2021,2016A000235,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1898.0,False,False,False,True,False,50
+2021,2016A000235,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1785.0,False,False,False,True,False,60
+2021,2016A000235,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1102.0,False,False,False,True,False,70
+2019,2016A000224,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,941.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1491.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1670.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1756.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1570.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,886.0,False,False,False,False,True,70
+2019,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,867.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1533.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1678.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1760.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1566.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,891.0,False,False,False,False,True,70
+2019,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,874.0,False,False,False,False,True,20
+2019,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1481.0,False,False,False,False,True,30
+2019,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1626.0,False,False,False,False,True,40
+2019,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1707.0,False,False,False,False,True,50
+2019,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1515.0,False,False,False,False,True,60
+2019,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,867.0,False,False,False,False,True,70
+2019,2016A000224,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,851.0,False,False,False,False,True,20
+2019,2016A000224,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1681.0,False,False,False,False,True,30
+2019,2016A000224,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1841.0,False,False,False,False,True,40
+2019,2016A000224,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1931.0,False,False,False,False,True,50
+2019,2016A000224,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1724.0,False,False,False,False,True,60
+2019,2016A000224,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,976.0,False,False,False,False,True,70
+2019,2016A000224,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,986.0,False,False,False,False,True,20
+2019,2016A000224,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1473.0,False,False,False,False,True,30
+2019,2016A000224,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1667.0,False,False,False,False,True,40
+2019,2016A000224,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1754.0,False,False,False,False,True,50
+2019,2016A000224,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1572.0,False,False,False,False,True,60
+2019,2016A000224,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,883.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,943.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1463.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1630.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1713.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1549.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,904.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,877.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1526.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1667.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1753.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1583.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,913.0,False,False,False,False,True,70
+2020,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,895.0,False,False,False,False,True,20
+2020,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1479.0,False,False,False,False,True,30
+2020,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1620.0,False,False,False,False,True,40
+2020,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1706.0,False,False,False,False,True,50
+2020,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1538.0,False,False,False,False,True,60
+2020,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,884.0,False,False,False,False,True,70
+2020,2016A000224,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,835.0,False,False,False,False,True,20
+2020,2016A000224,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1667.0,False,False,False,False,True,30
+2020,2016A000224,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1820.0,False,False,False,False,True,40
+2020,2016A000224,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1914.0,False,False,False,False,True,50
+2020,2016A000224,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1729.0,False,False,False,False,True,60
+2020,2016A000224,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1022.0,False,False,False,False,True,70
+2020,2016A000224,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,977.0,False,False,False,False,True,20
+2020,2016A000224,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1438.0,False,False,False,False,True,30
+2020,2016A000224,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1615.0,False,False,False,False,True,40
+2020,2016A000224,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1697.0,False,False,False,False,True,50
+2020,2016A000224,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1535.0,False,False,False,False,True,60
+2020,2016A000224,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,898.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,961.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1496.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1671.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1759.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1576.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,893.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average annual hours worked,Hours,units,897.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average annual hours worked,Hours,units,1529.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average annual hours worked,Hours,units,1671.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average annual hours worked,Hours,units,1762.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average annual hours worked,Hours,units,1581.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average annual hours worked,Hours,units,906.0,False,False,False,False,True,70
+2021,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average annual hours worked,Hours,units,917.0,False,False,False,False,True,20
+2021,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average annual hours worked,Hours,units,1487.0,False,False,False,False,True,30
+2021,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average annual hours worked,Hours,units,1631.0,False,False,False,False,True,40
+2021,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average annual hours worked,Hours,units,1721.0,False,False,False,False,True,50
+2021,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average annual hours worked,Hours,units,1538.0,False,False,False,False,True,60
+2021,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average annual hours worked,Hours,units,873.0,False,False,False,False,True,70
+2021,2016A000224,Business non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,850.0,False,False,False,False,True,20
+2021,2016A000224,Business non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1652.0,False,False,False,False,True,30
+2021,2016A000224,Business non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1797.0,False,False,False,False,True,40
+2021,2016A000224,Business non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1894.0,False,False,False,False,True,50
+2021,2016A000224,Business non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1714.0,False,False,False,False,True,60
+2021,2016A000224,Business non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,1032.0,False,False,False,False,True,70
+2021,2016A000224,Government non-profit institutions,15 to 24 years,Average annual hours worked,Hours,units,996.0,False,False,False,False,True,20
+2021,2016A000224,Government non-profit institutions,25 to 34 years,Average annual hours worked,Hours,units,1482.0,False,False,False,False,True,30
+2021,2016A000224,Government non-profit institutions,35 to 44 years,Average annual hours worked,Hours,units,1672.0,False,False,False,False,True,40
+2021,2016A000224,Government non-profit institutions,45 to 54 years,Average annual hours worked,Hours,units,1758.0,False,False,False,False,True,50
+2021,2016A000224,Government non-profit institutions,55 to 64 years,Average annual hours worked,Hours,units,1574.0,False,False,False,False,True,60
+2021,2016A000224,Government non-profit institutions,65 years old and over,Average annual hours worked,Hours,units,885.0,False,False,False,False,True,70

@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2019,2016A000248,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.5,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.15,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.41,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,36.62,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,37.54,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,37.39,True,False,False,False,False,70
+2019,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,16.63,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,24.1,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,29.06,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,31.08,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,31.99,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,29.44,True,False,False,False,False,70
+2019,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,16.58,True,False,False,False,False,20
+2019,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,23.38,True,False,False,False,False,30
+2019,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,27.6,True,False,False,False,False,40
+2019,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,29.28,True,False,False,False,False,50
+2019,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,30.42,True,False,False,False,False,60
+2019,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,28.51,True,False,False,False,False,70
+2019,2016A000248,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,16.76,True,False,False,False,False,20
+2019,2016A000248,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,26.03,True,False,False,False,False,30
+2019,2016A000248,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,33.16,True,False,False,False,False,40
+2019,2016A000248,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,36.38,True,False,False,False,False,50
+2019,2016A000248,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,36.64,True,False,False,False,False,60
+2019,2016A000248,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,32.49,True,False,False,False,False,70
+2019,2016A000248,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.49,True,False,False,False,False,20
+2019,2016A000248,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.31,True,False,False,False,False,30
+2019,2016A000248,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.62,True,False,False,False,False,40
+2019,2016A000248,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.8,True,False,False,False,False,50
+2019,2016A000248,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.81,True,False,False,False,False,60
+2019,2016A000248,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,41.55,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.22,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,30.53,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,35.79,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.27,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.15,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,39.03,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,18.85,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,26.19,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,31.64,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,33.93,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,35.16,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,32.92,True,False,False,False,False,70
+2020,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.77,True,False,False,False,False,20
+2020,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,25.26,True,False,False,False,False,30
+2020,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,29.8,True,False,False,False,False,40
+2020,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,31.69,True,False,False,False,False,50
+2020,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,33.27,True,False,False,False,False,60
+2020,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,31.69,True,False,False,False,False,70
+2020,2016A000248,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.04,True,False,False,False,False,20
+2020,2016A000248,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.7,True,False,False,False,False,30
+2020,2016A000248,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.72,True,False,False,False,False,40
+2020,2016A000248,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,40.51,True,False,False,False,False,50
+2020,2016A000248,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,40.63,True,False,False,False,False,60
+2020,2016A000248,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,36.77,True,False,False,False,False,70
+2020,2016A000248,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.64,True,False,False,False,False,20
+2020,2016A000248,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,32.18,True,False,False,False,False,30
+2020,2016A000248,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,37.31,True,False,False,False,False,40
+2020,2016A000248,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,39.81,True,False,False,False,False,50
+2020,2016A000248,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,40.59,True,False,False,False,False,60
+2020,2016A000248,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,41.87,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.22,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.43,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.57,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,36.88,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,37.69,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,37.67,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,17.96,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,25.23,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,30.5,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,32.67,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,33.57,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,31.57,True,False,False,False,False,70
+2021,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.14,True,False,False,False,False,20
+2021,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,24.56,True,False,False,False,False,30
+2021,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,28.92,True,False,False,False,False,40
+2021,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,30.68,True,False,False,False,False,50
+2021,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,31.87,True,False,False,False,False,60
+2021,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,30.51,True,False,False,False,False,70
+2021,2016A000248,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,17.54,True,False,False,False,False,20
+2021,2016A000248,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,26.95,True,False,False,False,False,30
+2021,2016A000248,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.66,True,False,False,False,False,40
+2021,2016A000248,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.25,True,False,False,False,False,50
+2021,2016A000248,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,38.29,True,False,False,False,False,60
+2021,2016A000248,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,34.68,True,False,False,False,False,70
+2021,2016A000248,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.6,True,False,False,False,False,20
+2021,2016A000248,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.05,True,False,False,False,False,30
+2021,2016A000248,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.07,True,False,False,False,False,40
+2021,2016A000248,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.39,True,False,False,False,False,50
+2021,2016A000248,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.22,True,False,False,False,False,60
+2021,2016A000248,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,40.54,True,False,False,False,False,70
+2019,2016A000259,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,18.89,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,27.02,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,33.29,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,35.48,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,35.65,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,35.93,False,True,False,False,False,70
+2019,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,16.03,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,22.62,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,28.38,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,30.86,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,30.48,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,28.98,False,True,False,False,False,70
+2019,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,15.87,False,True,False,False,False,20
+2019,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,21.82,False,True,False,False,False,30
+2019,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,27.09,False,True,False,False,False,40
+2019,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,29.4,False,True,False,False,False,50
+2019,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,28.96,False,True,False,False,False,60
+2019,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,27.99,False,True,False,False,False,70
+2019,2016A000259,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,16.34,False,True,False,False,False,20
+2019,2016A000259,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,24.54,False,True,False,False,False,30
+2019,2016A000259,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,31.65,False,True,False,False,False,40
+2019,2016A000259,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,34.67,False,True,False,False,False,50
+2019,2016A000259,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,34.51,False,True,False,False,False,60
+2019,2016A000259,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,31.88,False,True,False,False,False,70
+2019,2016A000259,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.19,False,True,False,False,False,20
+2019,2016A000259,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.52,False,True,False,False,False,30
+2019,2016A000259,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,35.99,False,True,False,False,False,40
+2019,2016A000259,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.93,False,True,False,False,False,50
+2019,2016A000259,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,38.54,False,True,False,False,False,60
+2019,2016A000259,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,40.91,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.89,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.12,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,35.56,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.95,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,37.84,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,38.27,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,18.8,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,24.9,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,30.97,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,33.53,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,32.96,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,31.33,False,True,False,False,False,70
+2020,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.75,False,True,False,False,False,20
+2020,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,24.21,False,True,False,False,False,30
+2020,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,29.76,False,True,False,False,False,40
+2020,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,32.19,False,True,False,False,False,50
+2020,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,31.53,False,True,False,False,False,60
+2020,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,30.36,False,True,False,False,False,70
+2020,2016A000259,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,18.93,False,True,False,False,False,20
+2020,2016A000259,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,26.65,False,True,False,False,False,30
+2020,2016A000259,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.22,False,True,False,False,False,40
+2020,2016A000259,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.3,False,True,False,False,False,50
+2020,2016A000259,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,36.96,False,True,False,False,False,60
+2020,2016A000259,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,34.25,False,True,False,False,False,70
+2020,2016A000259,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.26,False,True,False,False,False,20
+2020,2016A000259,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.16,False,True,False,False,False,30
+2020,2016A000259,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,37.72,False,True,False,False,False,40
+2020,2016A000259,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,39.98,False,True,False,False,False,50
+2020,2016A000259,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,40.22,False,True,False,False,False,60
+2020,2016A000259,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,42.5,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.6,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.66,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.96,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.24,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,37.19,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,37.64,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,18.75,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,25.17,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,31.33,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,33.98,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,33.55,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,32.14,False,True,False,False,False,70
+2021,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.56,False,True,False,False,False,20
+2021,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,24.33,False,True,False,False,False,30
+2021,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,29.92,False,True,False,False,False,40
+2021,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,32.46,False,True,False,False,False,50
+2021,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,31.95,False,True,False,False,False,60
+2021,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,31.17,False,True,False,False,False,70
+2021,2016A000259,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.13,False,True,False,False,False,20
+2021,2016A000259,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,27.2,False,True,False,False,False,30
+2021,2016A000259,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.97,False,True,False,False,False,40
+2021,2016A000259,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.07,False,True,False,False,False,50
+2021,2016A000259,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,37.79,False,True,False,False,False,60
+2021,2016A000259,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,34.99,False,True,False,False,False,70
+2021,2016A000259,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.92,False,True,False,False,False,20
+2021,2016A000259,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,30.43,False,True,False,False,False,30
+2021,2016A000259,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.75,False,True,False,False,False,40
+2021,2016A000259,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,38.8,False,True,False,False,False,50
+2021,2016A000259,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.02,False,True,False,False,False,60
+2021,2016A000259,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,41.15,False,True,False,False,False,70
+2019,2016A000212,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,18.45,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,25.66,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,28.57,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,30.36,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,29.86,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,30.76,False,False,True,False,False,70
+2019,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,13.67,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,19.51,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,23.24,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,24.24,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,23.7,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,20.14,False,False,True,False,False,70
+2019,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,13.49,False,False,True,False,False,20
+2019,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,19.02,False,False,True,False,False,30
+2019,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,22.35,False,False,True,False,False,40
+2019,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,23.17,False,False,True,False,False,50
+2019,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,22.66,False,False,True,False,False,60
+2019,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,19.36,False,False,True,False,False,70
+2019,2016A000212,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,14.2,False,False,True,False,False,20
+2019,2016A000212,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,21.27,False,False,True,False,False,30
+2019,2016A000212,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,26.57,False,False,True,False,False,40
+2019,2016A000212,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,28.33,False,False,True,False,False,50
+2019,2016A000212,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,27.36,False,False,True,False,False,60
+2019,2016A000212,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,23.41,False,False,True,False,False,70
+2019,2016A000212,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.5,False,False,True,False,False,20
+2019,2016A000212,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,27.71,False,False,True,False,False,30
+2019,2016A000212,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,30.43,False,False,True,False,False,40
+2019,2016A000212,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,32.45,False,False,True,False,False,50
+2019,2016A000212,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,31.99,False,False,True,False,False,60
+2019,2016A000212,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,36.56,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.66,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,27.45,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,30.22,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,32.08,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,31.49,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,32.51,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,15.38,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,22.04,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,26.08,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,27.22,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,26.57,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,21.93,False,False,True,False,False,70
+2020,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,15.41,False,False,True,False,False,20
+2020,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,21.72,False,False,True,False,False,30
+2020,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,25.25,False,False,True,False,False,40
+2020,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,26.28,False,False,True,False,False,50
+2020,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,25.67,False,False,True,False,False,60
+2020,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,21.19,False,False,True,False,False,70
+2020,2016A000212,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,15.28,False,False,True,False,False,20
+2020,2016A000212,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,23.17,False,False,True,False,False,30
+2020,2016A000212,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,29.15,False,False,True,False,False,40
+2020,2016A000212,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,30.79,False,False,True,False,False,50
+2020,2016A000212,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,29.79,False,False,True,False,False,60
+2020,2016A000212,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,25.21,False,False,True,False,False,70
+2020,2016A000212,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.32,False,False,True,False,False,20
+2020,2016A000212,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.03,False,False,True,False,False,30
+2020,2016A000212,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,31.48,False,False,True,False,False,40
+2020,2016A000212,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,33.55,False,False,True,False,False,50
+2020,2016A000212,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,32.97,False,False,True,False,False,60
+2020,2016A000212,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,37.75,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.4,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.53,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,31.63,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,33.61,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,32.83,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,33.33,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,15.12,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,21.51,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,25.61,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,26.84,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,26.22,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,22.22,False,False,True,False,False,70
+2021,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,15.22,False,False,True,False,False,20
+2021,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,21.07,False,False,True,False,False,30
+2021,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,24.66,False,False,True,False,False,40
+2021,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,25.8,False,False,True,False,False,50
+2021,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,25.28,False,False,True,False,False,60
+2021,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,21.61,False,False,True,False,False,70
+2021,2016A000212,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,14.81,False,False,True,False,False,20
+2021,2016A000212,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,23.08,False,False,True,False,False,30
+2021,2016A000212,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,29.14,False,False,True,False,False,40
+2021,2016A000212,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,30.84,False,False,True,False,False,50
+2021,2016A000212,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,29.65,False,False,True,False,False,60
+2021,2016A000212,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,24.82,False,False,True,False,False,70
+2021,2016A000212,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.06,False,False,True,False,False,20
+2021,2016A000212,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,30.77,False,False,True,False,False,30
+2021,2016A000212,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,33.66,False,False,True,False,False,40
+2021,2016A000212,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,35.89,False,False,True,False,False,50
+2021,2016A000212,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,34.99,False,False,True,False,False,60
+2021,2016A000212,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,38.94,False,False,True,False,False,70
+2019,2016A000235,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.77,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.18,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.81,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.94,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,38.17,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,37.98,False,False,False,True,False,70
+2019,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,16.94,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,23.44,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,29.82,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,32.87,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,32.35,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,29.28,False,False,False,True,False,70
+2019,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,16.45,False,False,False,True,False,20
+2019,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,22.49,False,False,False,True,False,30
+2019,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,28.2,False,False,False,True,False,40
+2019,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,30.71,False,False,False,True,False,50
+2019,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,30.12,False,False,False,True,False,60
+2019,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,27.44,False,False,False,True,False,70
+2019,2016A000235,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,18.17,False,False,False,True,False,20
+2019,2016A000235,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,25.99,False,False,False,True,False,30
+2019,2016A000235,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,34.49,False,False,False,True,False,40
+2019,2016A000235,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,39.3,False,False,False,True,False,50
+2019,2016A000235,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.07,False,False,False,True,False,60
+2019,2016A000235,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,35.88,False,False,False,True,False,70
+2019,2016A000235,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.89,False,False,False,True,False,20
+2019,2016A000235,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.26,False,False,False,True,False,30
+2019,2016A000235,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.04,False,False,False,True,False,40
+2019,2016A000235,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,41.25,False,False,False,True,False,50
+2019,2016A000235,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,42.0,False,False,False,True,False,60
+2019,2016A000235,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,45.59,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.71,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.97,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.65,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,40.08,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,40.3,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,40.85,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,19.43,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,26.42,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,33.5,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,37.18,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,36.63,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,33.73,False,False,False,True,False,70
+2020,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,19.05,False,False,False,True,False,20
+2020,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,25.53,False,False,False,True,False,30
+2020,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,31.85,False,False,False,True,False,40
+2020,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,34.97,False,False,False,True,False,50
+2020,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,34.4,False,False,False,True,False,60
+2020,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,31.94,False,False,False,True,False,70
+2020,2016A000235,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.38,False,False,False,True,False,20
+2020,2016A000235,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.69,False,False,False,True,False,30
+2020,2016A000235,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.05,False,False,False,True,False,40
+2020,2016A000235,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,43.62,False,False,False,True,False,50
+2020,2016A000235,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,43.17,False,False,False,True,False,60
+2020,2016A000235,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,40.01,False,False,False,True,False,70
+2020,2016A000235,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,23.05,False,False,False,True,False,20
+2020,2016A000235,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.92,False,False,False,True,False,30
+2020,2016A000235,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.37,False,False,False,True,False,40
+2020,2016A000235,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,41.69,False,False,False,True,False,50
+2020,2016A000235,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,42.35,False,False,False,True,False,60
+2020,2016A000235,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,46.07,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,21.19,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.54,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.31,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,39.75,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,39.99,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,40.37,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,19.18,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,25.97,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,32.9,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,36.52,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,36.01,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,33.23,False,False,False,True,False,70
+2021,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.92,False,False,False,True,False,20
+2021,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,25.0,False,False,False,True,False,30
+2021,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,31.11,False,False,False,True,False,40
+2021,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,34.15,False,False,False,True,False,50
+2021,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,33.65,False,False,False,True,False,60
+2021,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,31.38,False,False,False,True,False,70
+2021,2016A000235,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,19.8,False,False,False,True,False,20
+2021,2016A000235,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,28.37,False,False,False,True,False,30
+2021,2016A000235,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,37.69,False,False,False,True,False,40
+2021,2016A000235,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,43.2,False,False,False,True,False,50
+2021,2016A000235,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,42.7,False,False,False,True,False,60
+2021,2016A000235,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,39.5,False,False,False,True,False,70
+2021,2016A000235,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.36,False,False,False,True,False,20
+2021,2016A000235,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.54,False,False,False,True,False,30
+2021,2016A000235,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.23,False,False,False,True,False,40
+2021,2016A000235,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,41.6,False,False,False,True,False,50
+2021,2016A000235,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,42.28,False,False,False,True,False,60
+2021,2016A000235,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,45.77,False,False,False,True,False,70
+2019,2016A000224,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,20.55,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,27.13,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,33.25,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,34.96,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,33.22,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,33.26,False,False,False,False,True,70
+2019,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,16.36,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,21.57,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,26.75,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,29.11,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,27.8,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,25.43,False,False,False,False,True,70
+2019,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,16.52,False,False,False,False,True,20
+2019,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,21.1,False,False,False,False,True,30
+2019,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,25.95,False,False,False,False,True,40
+2019,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,28.0,False,False,False,False,True,50
+2019,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,26.56,False,False,False,False,True,60
+2019,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,24.14,False,False,False,False,True,70
+2019,2016A000224,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,15.97,False,False,False,False,True,20
+2019,2016A000224,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,22.75,False,False,False,False,True,30
+2019,2016A000224,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,28.93,False,False,False,False,True,40
+2019,2016A000224,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,32.26,False,False,False,False,True,50
+2019,2016A000224,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,31.21,False,False,False,False,True,60
+2019,2016A000224,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,29.59,False,False,False,False,True,70
+2019,2016A000224,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.78,False,False,False,False,True,20
+2019,2016A000224,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.74,False,False,False,False,True,30
+2019,2016A000224,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.13,False,False,False,False,True,40
+2019,2016A000224,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.46,False,False,False,False,True,50
+2019,2016A000224,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,35.88,False,False,False,False,True,60
+2019,2016A000224,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,38.79,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.34,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.26,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,36.03,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.97,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,35.79,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,36.33,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,18.1,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,23.47,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,28.93,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,31.42,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,29.87,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,27.78,False,False,False,False,True,70
+2020,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,18.18,False,False,False,False,True,20
+2020,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,22.93,False,False,False,False,True,30
+2020,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,28.03,False,False,False,False,True,40
+2020,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,30.25,False,False,False,False,True,50
+2020,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,28.57,False,False,False,False,True,60
+2020,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,26.37,False,False,False,False,True,70
+2020,2016A000224,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,17.9,False,False,False,False,True,20
+2020,2016A000224,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,24.89,False,False,False,False,True,30
+2020,2016A000224,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,31.56,False,False,False,False,True,40
+2020,2016A000224,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,34.99,False,False,False,False,True,50
+2020,2016A000224,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,33.64,False,False,False,False,True,60
+2020,2016A000224,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,32.36,False,False,False,False,True,70
+2020,2016A000224,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,24.29,False,False,False,False,True,20
+2020,2016A000224,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.72,False,False,False,False,True,30
+2020,2016A000224,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.89,False,False,False,False,True,40
+2020,2016A000224,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,40.58,False,False,False,False,True,50
+2020,2016A000224,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,38.46,False,False,False,False,True,60
+2020,2016A000224,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,41.65,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,22.26,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,29.21,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,35.79,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,37.7,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,35.61,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,35.9,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Average hourly wage,Dollars,units,17.65,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Average hourly wage,Dollars,units,23.5,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Average hourly wage,Dollars,units,29.06,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Average hourly wage,Dollars,units,31.62,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Average hourly wage,Dollars,units,30.16,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Average hourly wage,Dollars,units,27.71,False,False,False,False,True,70
+2021,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Average hourly wage,Dollars,units,17.48,False,False,False,False,True,20
+2021,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Average hourly wage,Dollars,units,22.68,False,False,False,False,True,30
+2021,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Average hourly wage,Dollars,units,27.83,False,False,False,False,True,40
+2021,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Average hourly wage,Dollars,units,30.13,False,False,False,False,True,50
+2021,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Average hourly wage,Dollars,units,28.6,False,False,False,False,True,60
+2021,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Average hourly wage,Dollars,units,26.15,False,False,False,False,True,70
+2021,2016A000224,Business non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,18.07,False,False,False,False,True,20
+2021,2016A000224,Business non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,25.64,False,False,False,False,True,30
+2021,2016A000224,Business non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,32.58,False,False,False,False,True,40
+2021,2016A000224,Business non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,36.05,False,False,False,False,True,50
+2021,2016A000224,Business non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,34.58,False,False,False,False,True,60
+2021,2016A000224,Business non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,32.65,False,False,False,False,True,70
+2021,2016A000224,Government non-profit institutions,15 to 24 years,Average hourly wage,Dollars,units,24.48,False,False,False,False,True,20
+2021,2016A000224,Government non-profit institutions,25 to 34 years,Average hourly wage,Dollars,units,31.69,False,False,False,False,True,30
+2021,2016A000224,Government non-profit institutions,35 to 44 years,Average hourly wage,Dollars,units,38.54,False,False,False,False,True,40
+2021,2016A000224,Government non-profit institutions,45 to 54 years,Average hourly wage,Dollars,units,40.15,False,False,False,False,True,50
+2021,2016A000224,Government non-profit institutions,55 to 64 years,Average hourly wage,Dollars,units,38.1,False,False,False,False,True,60
+2021,2016A000224,Government non-profit institutions,65 years old and over,Average hourly wage,Dollars,units,41.08,False,False,False,False,True,70
