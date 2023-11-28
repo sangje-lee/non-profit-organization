@@ -1,0 +1,397 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1020215.0
+2019,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2835375.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,327831.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,995085.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,241801.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,742010.0
+2019,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,86032.0
+2019,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,253078.0
+2019,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,692385.0
+2019,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1840289.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,4188.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,65600.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,537.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,14109.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,431.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,10634.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,107.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,3474.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,3650.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,51491.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1724.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,18394.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,378.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,4822.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,294.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,3527.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,85.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1296.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1346.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,13571.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,13998.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,118262.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2813.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,31871.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,2245.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,24993.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,568.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6879.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11185.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,86391.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,6039.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,80271.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,1429.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,22670.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1115.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,17484.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,314.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,5186.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,4610.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,57602.0
+2019,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,178411.0
+2019,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,754660.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,51673.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,245465.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,37925.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,179020.0
+2019,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,13749.0
+2019,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,66445.0
+2019,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,126737.0
+2019,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,509195.0
+2019,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,422708.0
+2019,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,884914.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,160954.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,362418.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,117334.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,271280.0
+2019,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,43620.0
+2019,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,91138.0
+2019,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,261755.0
+2019,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,522497.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,47150.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,131854.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,11370.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,45398.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,9693.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,37614.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1677.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,7784.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,35780.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,86456.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,25491.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,118009.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,5291.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,32268.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,4416.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,25565.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,875.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6703.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,20200.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,85740.0
+2019,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,144383.0
+2019,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,313094.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,35633.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,101722.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,27047.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,74551.0
+2019,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,8586.0
+2019,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,27171.0
+2019,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,108750.0
+2019,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,211372.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,174454.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,339999.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,57071.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,129740.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,40701.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,93316.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,16370.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,36425.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,117383.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,210259.0
+2019,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,436.0
+2019,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2553.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,245.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1330.0
+2019,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,191.0
+2019,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1223.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1095.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,5989.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,345.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,2048.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,296.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,1785.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,49.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,264.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,751.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,3940.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,138.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1776.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,92.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1224.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,47.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,552.0
+2020,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1010728.0
+2020,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2732470.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,296275.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,877249.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,218331.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,655704.0
+2020,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,77944.0
+2020,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,221545.0
+2020,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,714453.0
+2020,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1855222.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,4174.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,63571.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,459.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,11505.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,369.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,8842.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,90.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2663.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,3715.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,52066.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1781.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,17967.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,366.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,4299.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,292.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,3265.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,74.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1034.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1415.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,13669.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,14428.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,116613.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2659.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,28612.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,2109.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,22415.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,550.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6197.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11769.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,88001.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,5993.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,78498.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,1294.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,19510.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,997.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,14831.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,297.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,4679.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,4699.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,58989.0
+2020,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,180708.0
+2020,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,732593.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,49408.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,222978.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,36855.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,165189.0
+2020,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12553.0
+2020,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,57788.0
+2020,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,131300.0
+2020,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,509615.0
+2020,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,414645.0
+2020,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,847495.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,141599.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,312819.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,102012.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,232792.0
+2020,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,39587.0
+2020,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,80027.0
+2020,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,273046.0
+2020,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,534676.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,46073.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,125033.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,10796.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,41718.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,9109.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,34121.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1687.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,7597.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,35277.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,83315.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,26041.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,115207.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,4931.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,29256.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,4062.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,22932.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,869.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6324.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,21110.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,85951.0
+2020,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,138689.0
+2020,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,290984.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,31935.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,86343.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,24232.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,62860.0
+2020,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7703.0
+2020,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,23483.0
+2020,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,106754.0
+2020,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,204641.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,176389.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,334068.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,52150.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,115790.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,37699.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,84580.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,14451.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,31210.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,124239.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,218278.0
+2020,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,509.0
+2020,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2499.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,259.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1295.0
+2020,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,249.0
+2020,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1203.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1155.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6163.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,324.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1905.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,272.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,1640.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,51.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,265.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,832.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,4258.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,143.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1779.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,95.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1219.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,48.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,560.0
+2021,2016A000011124,Canada,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1084033.0
+2021,2016A000011124,Canada,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2949643.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,324454.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,966929.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,237076.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,718664.0
+2021,2016A000011124,Canada,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,87379.0
+2021,2016A000011124,Canada,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,248267.0
+2021,2016A000011124,Canada,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,759578.0
+2021,2016A000011124,Canada,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1982714.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,4432.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,68451.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,509.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,13052.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,403.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,9923.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,106.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,3129.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,3923.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,55399.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1956.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,19849.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,405.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,4759.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,326.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,3719.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,79.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1041.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1550.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,15090.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,14520.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,119618.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2865.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,31251.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,2270.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,24548.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,595.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6703.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11656.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,88366.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,6541.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,85346.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,1478.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,22362.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1134.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,16987.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,344.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,5375.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,5063.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,62985.0
+2021,2016A000224,Quebec,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,192129.0
+2021,2016A000224,Quebec,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,791600.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,53355.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,243942.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,39527.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,180035.0
+2021,2016A000224,Quebec,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,13828.0
+2021,2016A000224,Quebec,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,63907.0
+2021,2016A000224,Quebec,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,138775.0
+2021,2016A000224,Quebec,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,547658.0
+2021,2016A000235,Ontario,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,447657.0
+2021,2016A000235,Ontario,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,917521.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,155218.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,344259.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,110742.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,254054.0
+2021,2016A000235,Ontario,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,44476.0
+2021,2016A000235,Ontario,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,90205.0
+2021,2016A000235,Ontario,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,292438.0
+2021,2016A000235,Ontario,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,573262.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,48833.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,133527.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,11560.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,44544.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,9718.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,36196.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1842.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,8348.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,37273.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,88982.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,28080.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,127411.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,5945.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,35271.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,5039.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,28703.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,906.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6568.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,22135.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,92140.0
+2021,2016A000248,Alberta,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,151088.0
+2021,2016A000248,Alberta,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,319470.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,35562.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,95621.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,26734.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,68651.0
+2021,2016A000248,Alberta,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,8829.0
+2021,2016A000248,Alberta,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,26971.0
+2021,2016A000248,Alberta,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,115525.0
+2021,2016A000248,Alberta,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,223849.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,186943.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,356049.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,56825.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,127014.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,40539.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,91567.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,16286.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,35447.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,130118.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,229035.0
+2021,2016A000260,Yukon,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,541.0
+2021,2016A000260,Yukon,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2665.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,279.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1398.0
+2021,2016A000260,Yukon,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,262.0
+2021,2016A000260,Yukon,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,1267.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,1153.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6110.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,337.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1959.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,283.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,1692.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,54.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,267.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,816.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,4151.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,160.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,2026.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,116.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,1497.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,44.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,530.0

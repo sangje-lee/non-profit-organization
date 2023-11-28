@@ -1,0 +1,607 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.47
+2019,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.97
+2019,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.06
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,22.21
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,24.61
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.91
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.97
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.98
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.45
+2019,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.04
+2019,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.32
+2019,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.5
+2019,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.49
+2019,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.53
+2019,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.49
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.04
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.66
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.1
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,20.09
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,22.6
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,26.26
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,19.02
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,20.1
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.89
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.13
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.91
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.44
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.42
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.55
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.49
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.02
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,22.02
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.54
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,16.05
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,18.5
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,22.3
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,15.69
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,17.63
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,21.8
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,16.91
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,20.16
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,23.93
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.41
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,22.89
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.7
+2019,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.84
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.44
+2019,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,33.26
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.64
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,21.57
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,25.05
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,16.56
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,19.98
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.19
+2019,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.35
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.17
+2019,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,28.59
+2019,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.95
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.14
+2019,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.93
+2019,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.2
+2019,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.3
+2019,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.93
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.02
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,21.14
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,24.46
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,16.07
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,19.95
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,23.52
+2019,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.72
+2019,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.37
+2019,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,28.27
+2019,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.09
+2019,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.54
+2019,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.86
+2019,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.62
+2019,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.52
+2019,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.58
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,20.95
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,21.56
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,29.97
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.15
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,20.75
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.07
+2019,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.8
+2019,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.56
+2019,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,32.4
+2019,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.74
+2019,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.38
+2019,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.58
+2019,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.81
+2019,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.16
+2019,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.89
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.26
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,27.39
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.99
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.82
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,25.37
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,30.99
+2019,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.33
+2019,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.02
+2019,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.14
+2019,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.44
+2019,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.81
+2019,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.39
+2019,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.68
+2019,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.05
+2019,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.75
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.24
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,22.73
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,28.08
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.36
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.38
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,26.89
+2019,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.05
+2019,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.74
+2019,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,34.63
+2019,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.71
+2019,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.01
+2019,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.94
+2019,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.02
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.48
+2019,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.27
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.26
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.7
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,25.87
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.72
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.74
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,25.12
+2019,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.9
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.63
+2019,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,29.42
+2019,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.56
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.78
+2019,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.16
+2019,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.67
+2019,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.15
+2019,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.18
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.66
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.94
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.74
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.6
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.72
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.35
+2019,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.99
+2019,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,35.26
+2019,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.58
+2019,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.42
+2019,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.27
+2019,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.89
+2019,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.47
+2019,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.72
+2019,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.42
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.9
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,27.85
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.04
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.3
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,24.78
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.13
+2019,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.76
+2019,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.36
+2019,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,32.87
+2019,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.05
+2019,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.37
+2019,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.57
+2019,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,30.89
+2019,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.17
+2019,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.78
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,27.26
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,28.38
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,34.8
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,25.92
+2019,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,34.42
+2019,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,39.7
+2019,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.77
+2019,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.95
+2019,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.45
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.37
+2019,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,53.42
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,21.7
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,27.66
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,30.7
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.2
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,25.3
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,29.88
+2019,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,30.62
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,40.68
+2019,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.99
+2019,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,32.44
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.04
+2019,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,62.38
+2019,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,37.13
+2019,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,40.2
+2019,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,61.45
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,36.39
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,40.15
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,57.53
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,36.49
+2019,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,36.14
+2019,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,39.22
+2019,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,41.34
+2019,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,66.1
+2020,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.35
+2020,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.04
+2020,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.14
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,24.62
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,26.81
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,34.1
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,23.47
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,25.29
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,32.59
+2020,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.33
+2020,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.52
+2020,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.77
+2020,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.86
+2020,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.47
+2020,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.7
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.23
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.29
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.77
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.1
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,25.26
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,29.96
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.42
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,23.13
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,28.4
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.15
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.61
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.14
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.95
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.52
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.14
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.55
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.7
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.76
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.61
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,19.94
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,24.72
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,17.52
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,19.26
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.33
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,17.91
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,21.53
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,26.15
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.76
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.55
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.19
+2020,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.36
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.08
+2020,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,34.81
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.59
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.87
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,28.05
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.75
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.47
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,27.27
+2020,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.8
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.47
+2020,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.06
+2020,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.15
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.47
+2020,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.75
+2020,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.35
+2020,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.56
+2020,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.59
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.09
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.8
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,27.28
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.45
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.98
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,26.43
+2020,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.78
+2020,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.01
+2020,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,30.46
+2020,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.45
+2020,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.11
+2020,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.55
+2020,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.73
+2020,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.83
+2020,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.57
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,22.64
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.27
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.47
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.82
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.51
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.5
+2020,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.71
+2020,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.29
+2020,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.16
+2020,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.95
+2020,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.75
+2020,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,45.47
+2020,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.88
+2020,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.26
+2020,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.72
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.45
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.88
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,37.18
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,25.11
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.99
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,35.17
+2020,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,29.37
+2020,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,35.29
+2020,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.95
+2020,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.25
+2020,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.81
+2020,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.51
+2020,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.41
+2020,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.23
+2020,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.3
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,20.57
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,24.15
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,29.7
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,19.77
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,23.1
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,28.5
+2020,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.8
+2020,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.99
+2020,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.73
+2020,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.64
+2020,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.4
+2020,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.77
+2020,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.51
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.98
+2020,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.97
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,21.15
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,25.8
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,28.52
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.97
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,25.1
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,27.97
+2020,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.69
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.96
+2020,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,30.99
+2020,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.68
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.98
+2020,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.21
+2020,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.47
+2020,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,33.15
+2020,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.48
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.28
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,34.36
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,33.6
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,25.09
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,31.7
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.83
+2020,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.81
+2020,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,39.55
+2020,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.59
+2020,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.59
+2020,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.54
+2020,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.39
+2020,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.4
+2020,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.69
+2020,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.64
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.26
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,29.86
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.5
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.98
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,27.35
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.55
+2020,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.78
+2020,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.08
+2020,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,35.5
+2020,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.51
+2020,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.2
+2020,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.31
+2020,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,34.28
+2020,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,36.13
+2020,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.1
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,29.25
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,31.71
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,36.7
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,27.9
+2020,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,37.59
+2020,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,44.52
+2020,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,42.62
+2020,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,50.97
+2020,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.25
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,32.71
+2020,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,53.02
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,23.3
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,31.71
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,34.85
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.24
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,29.86
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,34.39
+2020,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,29.36
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,42.2
+2020,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,37.79
+2020,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,32.12
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,33.37
+2020,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,58.96
+2020,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,41.31
+2020,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,43.11
+2020,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,64.26
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,41.44
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,44.58
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,62.14
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,41.34
+2020,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,42.28
+2020,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,40.92
+2020,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,40.65
+2020,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,66.89
+2021,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.96
+2021,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.72
+2021,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.67
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,24.18
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,26.43
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,33.69
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,22.96
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,24.78
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.99
+2021,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.01
+2021,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.4
+2021,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.76
+2021,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.51
+2021,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.2
+2021,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.29
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.5
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.4
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.06
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,21.58
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.88
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,28.79
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,20.75
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.83
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,27.34
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.12
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.93
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,34.04
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.47
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.78
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.44
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,20.6
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.93
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.66
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.76
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,20.08
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,25.07
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,17.27
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,18.86
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.43
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.3
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,23.46
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,27.68
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.79
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.81
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.97
+2021,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.58
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.69
+2021,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.72
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.16
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.3
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,27.86
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.35
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.88
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,26.98
+2021,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.33
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.02
+2021,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.26
+2021,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.73
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.53
+2021,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.5
+2021,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,21.01
+2021,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.21
+2021,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.99
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,17.95
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,22.48
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,25.67
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,17.22
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.61
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,24.78
+2021,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,19.94
+2021,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,24.86
+2021,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,28.93
+2021,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.62
+2021,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.16
+2021,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.21
+2021,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.58
+2021,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.67
+2021,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.22
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,22.57
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.28
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.65
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,21.54
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,22.32
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,31.29
+2021,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.12
+2021,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,25.82
+2021,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.37
+2021,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.8
+2021,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,27.56
+2021,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,44.96
+2021,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.46
+2021,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.89
+2021,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.39
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.04
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,30.25
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,36.54
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.72
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,28.34
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,34.38
+2021,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,28.83
+2021,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.61
+2021,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.5
+2021,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.85
+2021,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.62
+2021,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,42.39
+2021,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.19
+2021,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.97
+2021,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.1
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,20.33
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,23.96
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,29.51
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,19.68
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,23.11
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,28.54
+2021,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.88
+2021,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,26.96
+2021,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,34.17
+2021,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,23.41
+2021,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.13
+2021,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,41.61
+2021,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.57
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.11
+2021,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.65
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,19.05
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,22.98
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,24.96
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,18.17
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,21.43
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,23.71
+2021,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,22.09
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,28.67
+2021,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,31.75
+2021,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,24.51
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,29.92
+2021,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.15
+2021,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.33
+2021,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,31.69
+2021,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,38.18
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,25.17
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,33.1
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,32.27
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.26
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,30.87
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,30.7
+2021,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,27.02
+2021,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,37.23
+2021,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,37.39
+2021,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,25.43
+2021,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.97
+2021,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.16
+2021,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.18
+2021,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.15
+2021,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,37.99
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,26.38
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,29.85
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,33.13
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,24.96
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,27.15
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,32.05
+2021,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,29.08
+2021,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.36
+2021,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,36.32
+2021,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,26.01
+2021,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,30.34
+2021,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,40.2
+2021,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,33.23
+2021,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.01
+2021,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,43.14
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,28.79
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,29.95
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,37.26
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,27.07
+2021,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,40.05
+2021,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,42.88
+2021,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,40.52
+2021,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,48.56
+2021,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,30.14
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,34.88
+2021,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,57.12
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,24.96
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,34.23
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,36.87
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,23.99
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Average hourly wage,Dollars,units,32.46
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Average hourly wage,Dollars,units,36.4
+2021,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,30.62
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,44.15
+2021,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,39.88
+2021,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,34.11
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,35.3
+2021,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,64.57
+2021,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,39.83
+2021,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,42.69
+2021,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,61.06
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Average hourly wage,Dollars,units,38.88
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Average hourly wage,Dollars,units,42.3
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Average hourly wage,Dollars,units,55.96
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Average hourly wage,Dollars,units,38.31
+2021,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,43.81
+2021,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Average hourly wage,Dollars,units,43.33
+2021,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Average hourly wage,Dollars,units,43.56
+2021,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Average hourly wage,Dollars,units,69.52

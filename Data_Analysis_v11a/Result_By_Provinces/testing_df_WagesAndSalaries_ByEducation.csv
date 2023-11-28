@@ -1,0 +1,607 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,15308.0
+2019,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,6651.0
+2019,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,73846.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,6469.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,1833.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,19435.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,4241.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,1188.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,14071.0
+2019,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2228.0
+2019,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,646.0
+2019,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,5364.0
+2019,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,8839.0
+2019,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,4817.0
+2019,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,54411.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,284.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,109.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1125.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,76.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,22.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,145.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,53.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,13.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,109.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,23.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,9.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,36.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,208.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,87.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,980.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,77.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,21.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,296.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,21.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,48.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,14.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,2.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,36.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,6.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,12.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,56.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,17.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,248.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,427.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,157.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2194.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,128.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,39.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,405.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,86.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,27.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,314.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,42.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,91.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,300.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,118.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1789.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,382.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,106.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1374.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,120.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,26.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,219.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,84.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,18.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,169.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,36.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,8.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,50.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,262.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,80.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1154.0
+2019,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3318.0
+2019,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3622.0
+2019,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,16188.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1231.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,719.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3992.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,828.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,491.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2826.0
+2019,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,403.0
+2019,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,228.0
+2019,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1165.0
+2019,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2087.0
+2019,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2903.0
+2019,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,12197.0
+2019,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4949.0
+2019,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1005.0
+2019,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,27459.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2381.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,451.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,8685.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1520.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,291.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,6151.0
+2019,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,861.0
+2019,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,160.0
+2019,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2533.0
+2019,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2568.0
+2019,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,554.0
+2019,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,18774.0
+2019,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,866.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,191.0
+2019,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2883.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,334.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,50.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,667.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,259.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,37.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,540.0
+2019,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,76.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,13.0
+2019,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,127.0
+2019,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,532.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,140.0
+2019,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2216.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,703.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,244.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2443.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,220.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,54.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,395.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,161.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,39.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,317.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,59.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,15.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,78.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,483.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,190.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2048.0
+2019,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2061.0
+2019,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,606.0
+2019,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9142.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,845.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,222.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1959.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,555.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,136.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1455.0
+2019,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,290.0
+2019,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,86.0
+2019,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,505.0
+2019,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1216.0
+2019,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,384.0
+2019,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7182.0
+2019,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2131.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,570.0
+2019,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,10500.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1055.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,237.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2854.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,632.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,126.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2095.0
+2019,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,423.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,112.0
+2019,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,759.0
+2019,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1076.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,333.0
+2019,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7645.0
+2019,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,20.0
+2019,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2019,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,57.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,12.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,25.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,10.0
+2019,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2.0
+2019,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,7.0
+2019,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2019,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,32.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,57.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,10.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,156.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,21.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,4.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,25.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,17.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,3.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,22.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,4.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,36.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,6.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,131.0
+2019,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,34.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,4.0
+2019,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,30.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,25.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,15.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,22.0
+2019,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3.0
+2019,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,9.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2019,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15.0
+2020,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,15338.0
+2020,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,6804.0
+2020,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,77317.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,6077.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,1689.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,19602.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,4066.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,1129.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,14143.0
+2020,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2011.0
+2020,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,559.0
+2020,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,5459.0
+2020,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,9261.0
+2020,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5116.0
+2020,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,57715.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,287.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,104.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1147.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,71.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,19.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,137.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,52.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,12.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,104.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,19.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,6.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,33.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,216.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,85.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1010.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,80.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,21.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,308.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,20.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,47.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,15.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,2.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,37.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,5.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,11.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,60.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,18.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,261.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,436.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,155.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2335.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,123.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,36.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,420.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,85.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,26.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,324.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,37.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,10.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,96.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,313.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,119.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1915.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,388.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,103.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1410.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,113.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,23.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,218.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,80.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,16.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,166.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,33.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,7.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,52.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,274.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,79.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1192.0
+2020,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3436.0
+2020,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3878.0
+2020,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,17285.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1164.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,684.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,4055.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,801.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,482.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2895.0
+2020,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,362.0
+2020,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,202.0
+2020,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1160.0
+2020,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2272.0
+2020,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3193.0
+2020,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,13230.0
+2020,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4864.0
+2020,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,964.0
+2020,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,28524.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2231.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,411.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,8773.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1452.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,270.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,6162.0
+2020,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,779.0
+2020,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,141.0
+2020,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2611.0
+2020,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2633.0
+2020,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,554.0
+2020,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,19751.0
+2020,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,872.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,187.0
+2020,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,3016.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,320.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,46.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,673.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,246.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,34.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,538.0
+2020,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,74.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0
+2020,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,134.0
+2020,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,552.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,141.0
+2020,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2344.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,724.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,247.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2560.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,215.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,53.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,404.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,159.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,38.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,323.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,56.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,14.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,81.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,509.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,195.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2157.0
+2020,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1964.0
+2020,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,566.0
+2020,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9125.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,769.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,198.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1909.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,501.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,121.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1395.0
+2020,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,268.0
+2020,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,77.0
+2020,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,514.0
+2020,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1195.0
+2020,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,369.0
+2020,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7216.0
+2020,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2169.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,559.0
+2020,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,11343.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,989.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,207.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2896.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,623.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,119.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2137.0
+2020,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,366.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,88.0
+2020,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,759.0
+2020,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1180.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,352.0
+2020,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8447.0
+2020,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,22.0
+2020,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2020,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,67.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,13.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,27.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,10.0
+2020,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2.0
+2020,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,10.0
+2020,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2020,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,40.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,59.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,164.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,21.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,4.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,27.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,17.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,3.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,23.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,4.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,38.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,7.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,137.0
+2020,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,37.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2020,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,33.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,28.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,17.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,25.0
+2020,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3.0
+2020,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,9.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2020,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15.0
+2021,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,16432.0
+2021,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,7213.0
+2021,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,81938.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,6617.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,1838.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,21234.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,4389.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,1216.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,15098.0
+2021,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2228.0
+2021,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,621.0
+2021,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6136.0
+2021,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,9815.0
+2021,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5375.0
+2021,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,60705.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,300.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,108.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1181.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,76.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,20.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,148.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,55.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,13.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,110.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,21.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,7.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,38.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,224.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,88.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1033.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,90.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,23.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,334.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,23.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,4.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,52.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,17.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,3.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,41.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,6.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,11.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,67.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,20.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,282.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,468.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,165.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2474.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,134.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,39.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,449.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,93.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,28.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,345.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,41.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,104.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,335.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,126.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2025.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,414.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,109.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1482.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,122.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,25.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,235.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,85.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,18.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,178.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,37.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,8.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,57.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,292.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,84.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1247.0
+2021,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3690.0
+2021,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,4105.0
+2021,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,18495.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1278.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,749.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,4448.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,867.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,521.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,3126.0
+2021,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,411.0
+2021,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,229.0
+2021,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1322.0
+2021,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2412.0
+2021,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3356.0
+2021,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,14047.0
+2021,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,5226.0
+2021,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1031.0
+2021,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,30502.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2422.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,445.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,9454.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1565.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,289.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,6527.0
+2021,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,857.0
+2021,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,155.0
+2021,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2927.0
+2021,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2804.0
+2021,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,587.0
+2021,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,21048.0
+2021,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,921.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,197.0
+2021,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,3181.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,336.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,49.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,714.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,259.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,37.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,571.0
+2021,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,77.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0
+2021,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,142.0
+2021,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,586.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,149.0
+2021,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2468.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,773.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,261.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2710.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,231.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,56.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,433.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,171.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,41.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,347.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,60.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,15.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,86.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,542.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,206.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2277.0
+2021,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2064.0
+2021,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,593.0
+2021,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9630.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,817.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,210.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2040.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,528.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,127.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1484.0
+2021,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,289.0
+2021,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,83.0
+2021,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,557.0
+2021,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1247.0
+2021,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,383.0
+2021,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7589.0
+2021,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2355.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,597.0
+2021,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,11675.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1110.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,231.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3183.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,690.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,131.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2300.0
+2021,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,421.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,99.0
+2021,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,883.0
+2021,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1245.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,367.0
+2021,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8492.0
+2021,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,23.0
+2021,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2021,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,69.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,14.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,29.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,11.0
+2021,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3.0
+2021,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,10.0
+2021,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2021,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,41.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,65.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,170.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,23.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,29.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,19.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,4.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,25.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,4.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,42.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,7.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,140.0
+2021,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,41.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,5.0
+2021,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,35.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,32.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,3.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,20.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,28.0
+2021,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4.0
+2021,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,9.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2.0
+2021,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15.0

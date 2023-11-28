@@ -1,0 +1,607 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,506866.0
+2019,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,165683.0
+2019,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1176307.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,229749.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,49004.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,373048.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,166060.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,35642.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,287633.0
+2019,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,63686.0
+2019,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13360.0
+2019,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,85413.0
+2019,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,277117.0
+2019,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,116680.0
+2019,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,803260.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,9574.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2627.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,15823.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,2993.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,608.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,2770.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,2270.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,430.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,2200.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,723.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,177.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,570.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,6581.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2019.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,13053.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,3099.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,569.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,4738.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,1101.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,124.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,1197.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,793.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,86.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,920.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,308.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,38.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,277.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1997.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,445.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,3542.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,16273.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4159.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38259.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5668.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1147.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,9056.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,4175.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,875.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7331.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1492.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,272.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1725.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10605.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3011.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,29204.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,13155.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2640.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,19793.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5078.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,765.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,4830.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,3876.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,577.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,3910.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1201.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,188.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,920.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,8077.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1875.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,14964.0
+2019,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,115769.0
+2019,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,95338.0
+2019,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,262017.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,47554.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,22315.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,81608.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,34618.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,16632.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,61081.0
+2019,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,12936.0
+2019,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5683.0
+2019,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,20527.0
+2019,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,68215.0
+2019,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,73023.0
+2019,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,180409.0
+2019,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,160257.0
+2019,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,23822.0
+2019,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,422933.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,81828.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,10886.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,154281.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,58235.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,7885.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,118151.0
+2019,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,23593.0
+2019,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3001.0
+2019,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,36130.0
+2019,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,78429.0
+2019,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12937.0
+2019,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,268652.0
+2019,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,31395.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4869.0
+2019,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,48576.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,13670.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1470.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,14303.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,11272.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1196.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,12167.0
+2019,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2398.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,274.0
+2019,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,2136.0
+2019,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,17725.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3400.0
+2019,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,34273.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,23958.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5734.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38575.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,8784.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1466.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,9017.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,6769.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1133.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7445.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2015.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,333.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1572.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,15174.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4268.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,29557.0
+2019,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,62647.0
+2019,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12205.0
+2019,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,145321.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,27204.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,4400.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,37200.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,19560.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3051.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,29296.0
+2019,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,7644.0
+2019,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1349.0
+2019,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,7904.0
+2019,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,35444.0
+2019,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7805.0
+2019,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,108120.0
+2019,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,67887.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13268.0
+2019,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,177482.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,34176.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,5607.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,57742.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,22991.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3590.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,44184.0
+2019,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,11185.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2017.0
+2019,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,13557.0
+2019,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,33711.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7661.0
+2019,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,119740.0
+2019,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,529.0
+2019,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,154.0
+2019,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,886.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,400.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,64.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,460.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,354.0
+2019,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,46.0
+2019,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,128.0
+2019,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,90.0
+2019,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,426.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1681.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,233.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1641.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,810.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,110.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,452.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,718.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,97.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,405.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,91.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,47.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,872.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,123.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1189.0
+2019,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,642.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,65.0
+2019,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,263.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,483.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,42.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,132.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,429.0
+2019,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,54.0
+2019,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,159.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,23.0
+2019,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,131.0
+2020,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,471976.0
+2020,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,159757.0
+2020,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1176297.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,196527.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,42191.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,346824.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,143083.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,31191.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,266742.0
+2020,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,53444.0
+2020,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,11002.0
+2020,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,80083.0
+2020,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,275449.0
+2020,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,117568.0
+2020,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,829471.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,9153.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2454.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,15654.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,2572.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,494.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,2438.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,1976.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,364.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,1948.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,596.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,130.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,490.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,6581.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1960.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,13216.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2979.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,536.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,4683.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,951.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,105.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,1072.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,716.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,77.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,856.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,234.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,29.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,216.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2029.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,430.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,3610.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,15341.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3822.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38188.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5140.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1000.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,8724.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,3852.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,783.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7032.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1289.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,217.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1692.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10201.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2823.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,29464.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,12872.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2507.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,20099.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,4528.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,651.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,4496.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,3412.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,491.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,3576.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1115.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,160.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,920.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,8345.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1856.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,15603.0
+2020,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,110035.0
+2020,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,95102.0
+2020,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,265053.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,41234.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,19746.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,76589.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,30412.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,14997.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,57795.0
+2020,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10822.0
+2020,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4749.0
+2020,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,18794.0
+2020,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,68801.0
+2020,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,75356.0
+2020,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,188464.0
+2020,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,144964.0
+2020,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,21499.0
+2020,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,418696.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,68381.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,9111.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,142600.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,49377.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,6664.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,108473.0
+2020,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,19005.0
+2020,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2447.0
+2020,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,34127.0
+2020,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,76583.0
+2020,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12389.0
+2020,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,276096.0
+2020,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,29318.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4459.0
+2020,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,47542.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,12029.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1251.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,13417.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,9706.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1011.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,11223.0
+2020,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2323.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,240.0
+2020,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,2194.0
+2020,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,17288.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3208.0
+2020,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,34125.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,23128.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5582.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,39131.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,7897.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1324.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,8585.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,6055.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1027.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7063.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1842.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,298.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1522.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,15231.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4258.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,30546.0
+2020,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,56432.0
+2020,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,11082.0
+2020,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,142177.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,22745.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,3719.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,34243.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,16014.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,2557.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,26654.0
+2020,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,6731.0
+2020,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1162.0
+2020,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,7589.0
+2020,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,33687.0
+2020,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7363.0
+2020,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,107933.0
+2020,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,64860.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12311.0
+2020,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,182168.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,29398.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,4588.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,53636.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,20088.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3043.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,41199.0
+2020,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,9310.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1545.0
+2020,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,12437.0
+2020,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,35461.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7723.0
+2020,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,128532.0
+2020,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,594.0
+2020,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,111.0
+2020,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,980.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,391.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,61.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,465.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,351.0
+2020,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,40.0
+2020,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,203.0
+2020,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,50.0
+2020,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,515.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1657.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,227.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1648.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,773.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,100.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,415.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,681.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,87.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,363.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,92.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,52.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,884.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,128.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1233.0
+2020,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,643.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,65.0
+2020,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,278.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,488.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,41.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,144.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,443.0
+2020,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,45.0
+2020,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,155.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,24.0
+2020,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,134.0
+2021,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,502837.0
+2021,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,167537.0
+2021,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1230063.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,212812.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,45879.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,372244.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,153487.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,33709.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,282433.0
+2021,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,59326.0
+2021,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12168.0
+2021,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,89813.0
+2021,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,290025.0
+2021,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,121659.0
+2021,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,857817.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,9709.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2578.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,16171.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,2788.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,539.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,2644.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,2120.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,393.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,2074.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,668.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,145.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,571.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,6921.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2039.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,13527.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,3207.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,566.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,4970.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,1071.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,116.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,1155.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,822.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,86.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,934.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,249.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,29.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,221.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2136.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,451.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,3815.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,16617.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4047.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,39303.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5553.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1091.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,9301.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,4164.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,855.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,7468.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1389.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,237.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1833.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,11064.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2956.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,30001.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,13920.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2703.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,21514.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,5040.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,722.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,4968.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,3757.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,540.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,3914.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1283.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,182.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1054.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,8880.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1980.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,16546.0
+2021,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,118000.0
+2021,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,99207.0
+2021,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,279101.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,45382.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,21518.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,83323.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,33367.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,16271.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,62234.0
+2021,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,12015.0
+2021,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5246.0
+2021,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,21089.0
+2021,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,72618.0
+2021,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,77689.0
+2021,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,195778.0
+2021,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,153673.0
+2021,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,22689.0
+2021,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,440185.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,72488.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,9743.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,150554.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,51615.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,7041.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,112454.0
+2021,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,20873.0
+2021,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,2702.0
+2021,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,38100.0
+2021,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,81185.0
+2021,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,12946.0
+2021,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,289631.0
+2021,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,30576.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4670.0
+2021,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,49774.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,12389.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1316.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,14068.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,9958.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1057.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,11698.0
+2021,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,2431.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,259.0
+2021,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,2371.0
+2021,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,18187.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,3354.0
+2021,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,35705.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,25406.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,5973.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,41962.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,9264.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,1550.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,10303.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,7317.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,1240.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,8707.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1948.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,309.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1596.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,16141.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,4424.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,31659.0
+2021,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,58906.0
+2021,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,11550.0
+2021,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,148192.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,24026.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,3926.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,36332.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,16535.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,2636.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,27892.0
+2021,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,7491.0
+2021,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1291.0
+2021,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,8440.0
+2021,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,34880.0
+2021,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7624.0
+2021,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,111860.0
+2021,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,69629.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13123.0
+2021,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,185837.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,33006.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,5139.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,58495.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,22217.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,3396.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,44064.0
+2021,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,10789.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,1743.0
+2021,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,14431.0
+2021,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,36623.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,7984.0
+2021,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,127342.0
+2021,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,629.0
+2021,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,121.0
+2021,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1003.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,427.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,70.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,478.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,383.0
+2021,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,44.0
+2021,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,202.0
+2021,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,51.0
+2021,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,525.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1853.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,243.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1744.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,819.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,104.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,448.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,724.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Number of jobs,Jobs,units,91.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Number of jobs,Jobs,units,395.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,95.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Number of jobs,Jobs,units,13.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Number of jobs,Jobs,units,53.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,1035.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,139.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,1296.0
+2021,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,712.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Number of jobs,Jobs,units,67.0
+2021,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Number of jobs,Jobs,units,307.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Number of jobs,Jobs,units,559.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Number of jobs,Jobs,units,45.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Number of jobs,Jobs,units,175.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Number of jobs,Jobs,units,508.0
+2021,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,51.0
+2021,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Number of jobs,Jobs,units,153.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Number of jobs,Jobs,units,22.0
+2021,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Number of jobs,Jobs,units,132.0

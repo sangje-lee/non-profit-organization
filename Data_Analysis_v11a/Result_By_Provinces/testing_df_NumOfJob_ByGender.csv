@@ -1,0 +1,421 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2019,2016A000011124,Canada,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,745386.0
+2019,2016A000011124,Canada,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1730753.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,293986.0
+2019,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,563525.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,202369.0
+2019,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,448141.0
+2019,2016A000011124,Canada,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,91618.0
+2019,2016A000011124,Canada,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,115381.0
+2019,2016A000011124,Canada,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,451401.0
+2019,2016A000011124,Canada,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,1167229.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,12241.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,29244.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,3336.0
+2019,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,5380.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,2358.0
+2019,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,4305.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,978.0
+2019,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1074.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,8906.0
+2019,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,23864.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,3109.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,9455.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,1102.0
+2019,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,2222.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,748.0
+2019,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,1732.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,354.0
+2019,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,491.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,2007.0
+2019,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,7233.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,23020.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,58317.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,7215.0
+2019,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,14278.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5222.0
+2019,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11792.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1993.0
+2019,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2485.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,15806.0
+2019,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,44039.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,14804.0
+2019,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,36763.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,5344.0
+2019,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,9163.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,3877.0
+2019,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,7516.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1467.0
+2019,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1646.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,9460.0
+2019,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,27600.0
+2019,2016A000224,Quebec,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,183448.0
+2019,2016A000224,Quebec,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,433418.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,65042.0
+2019,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,134438.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,43698.0
+2019,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,105965.0
+2019,2016A000224,Quebec,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,21344.0
+2019,2016A000224,Quebec,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,28473.0
+2019,2016A000224,Quebec,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,118405.0
+2019,2016A000224,Quebec,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,298980.0
+2019,2016A000235,Ontario,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,262160.0
+2019,2016A000235,Ontario,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,568337.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,114479.0
+2019,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,219268.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,78466.0
+2019,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,174174.0
+2019,2016A000235,Ontario,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,36014.0
+2019,2016A000235,Ontario,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,45094.0
+2019,2016A000235,Ontario,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,147681.0
+2019,2016A000235,Ontario,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,349069.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,33362.0
+2019,2016A000246,Manitoba,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,81252.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,12492.0
+2019,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,25146.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,9762.0
+2019,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,21891.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2731.0
+2019,2016A000246,Manitoba,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,3255.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,20869.0
+2019,2016A000246,Manitoba,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,56106.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,24666.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,67625.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,8477.0
+2019,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,16055.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,6323.0
+2019,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,13381.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2153.0
+2019,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2674.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,16190.0
+2019,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,51570.0
+2019,2016A000248,Alberta,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,82588.0
+2019,2016A000248,Alberta,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,209619.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,30857.0
+2019,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,56790.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,21458.0
+2019,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,44828.0
+2019,2016A000248,Alberta,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9399.0
+2019,2016A000248,Alberta,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11962.0
+2019,2016A000248,Alberta,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,51731.0
+2019,2016A000248,Alberta,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,152829.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,103449.0
+2019,2016A000259,British Columbia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,231323.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,44261.0
+2019,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,78552.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,29275.0
+2019,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,60516.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14986.0
+2019,2016A000259,British Columbia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,18036.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,59189.0
+2019,2016A000259,British Columbia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,152771.0
+2019,2016A000260,Yukon,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,620.0
+2019,2016A000260,Yukon,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1467.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,368.0
+2019,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,763.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,319.0
+2019,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,702.0
+2019,2016A000260,Yukon,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,49.0
+2019,2016A000260,Yukon,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,61.0
+2019,2016A000260,Yukon,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,252.0
+2019,2016A000260,Yukon,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,703.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,1424.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,3221.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,656.0
+2019,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,1000.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,562.0
+2019,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,908.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,94.0
+2019,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,91.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,768.0
+2019,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,2222.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,495.0
+2019,2016A000262,Nunavut,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,712.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,357.0
+2019,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,470.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,301.0
+2019,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,431.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,56.0
+2019,2016A000262,Nunavut,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,39.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,137.0
+2019,2016A000262,Nunavut,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,243.0
+2020,2016A000011124,Canada,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,719528.0
+2020,2016A000011124,Canada,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1698278.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,260919.0
+2020,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,508793.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,181584.0
+2020,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,404134.0
+2020,2016A000011124,Canada,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,79338.0
+2020,2016A000011124,Canada,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,104664.0
+2020,2016A000011124,Canada,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,458607.0
+2020,2016A000011124,Canada,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,1189483.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,11643.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,28892.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,2799.0
+2020,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,4741.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,2047.0
+2020,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,3806.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,753.0
+2020,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,935.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,8844.0
+2020,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,24151.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,2950.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,9416.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,928.0
+2020,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,2033.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,651.0
+2020,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,1650.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,277.0
+2020,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,383.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,2022.0
+2020,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,7383.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,22263.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,57237.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,6629.0
+2020,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,13551.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,4899.0
+2020,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11180.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1730.0
+2020,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2372.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,15634.0
+2020,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,43686.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,14617.0
+2020,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,37049.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,4850.0
+2020,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,8306.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,3502.0
+2020,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,6686.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1349.0
+2020,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1620.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,9767.0
+2020,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,28743.0
+2020,2016A000224,Quebec,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,179098.0
+2020,2016A000224,Quebec,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,433077.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,58164.0
+2020,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,123371.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,39774.0
+2020,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,98112.0
+2020,2016A000224,Quebec,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,18390.0
+2020,2016A000224,Quebec,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,25259.0
+2020,2016A000224,Quebec,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,120934.0
+2020,2016A000224,Quebec,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,309706.0
+2020,2016A000235,Ontario,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,250157.0
+2020,2016A000235,Ontario,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,548671.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,100872.0
+2020,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,195805.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,69633.0
+2020,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,155196.0
+2020,2016A000235,Ontario,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,31239.0
+2020,2016A000235,Ontario,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,40609.0
+2020,2016A000235,Ontario,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,149284.0
+2020,2016A000235,Ontario,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,352866.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,32041.0
+2020,2016A000246,Manitoba,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,77981.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,11613.0
+2020,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,22589.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,9020.0
+2020,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,19257.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2593.0
+2020,2016A000246,Manitoba,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,3333.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,20428.0
+2020,2016A000246,Manitoba,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,55392.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,24359.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,67396.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,7796.0
+2020,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,14884.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5785.0
+2020,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,12368.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2011.0
+2020,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2517.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,16563.0
+2020,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,52512.0
+2020,2016A000248,Alberta,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,77717.0
+2020,2016A000248,Alberta,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,200723.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,26519.0
+2020,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,50915.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,18180.0
+2020,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,39684.0
+2020,2016A000248,Alberta,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,8339.0
+2020,2016A000248,Alberta,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,11231.0
+2020,2016A000248,Alberta,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,51197.0
+2020,2016A000248,Alberta,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,149808.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,102096.0
+2020,2016A000259,British Columbia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,232452.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,39396.0
+2020,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,70441.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,26920.0
+2020,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,54230.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,12477.0
+2020,2016A000259,British Columbia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,16212.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,62700.0
+2020,2016A000259,British Columbia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,162010.0
+2020,2016A000260,Yukon,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,674.0
+2020,2016A000260,Yukon,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1464.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,367.0
+2020,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,751.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,324.0
+2020,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,692.0
+2020,2016A000260,Yukon,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,43.0
+2020,2016A000260,Yukon,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,59.0
+2020,2016A000260,Yukon,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,307.0
+2020,2016A000260,Yukon,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,713.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,1409.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,3191.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,623.0
+2020,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,917.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,530.0
+2020,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,821.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,92.0
+2020,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,97.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,787.0
+2020,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,2273.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,504.0
+2020,2016A000262,Nunavut,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,729.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,363.0
+2020,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,489.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,319.0
+2020,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,452.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,45.0
+2020,2016A000262,Nunavut,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,37.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,140.0
+2020,2016A000262,Nunavut,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,240.0
+2021,2016A000011124,Canada,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,754820.0
+2021,2016A000011124,Canada,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1788569.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,279920.0
+2021,2016A000011124,Canada,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,548866.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,192083.0
+2021,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,431700.0
+2021,2016A000011124,Canada,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,87836.0
+2021,2016A000011124,Canada,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,117165.0
+2021,2016A000011124,Canada,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,474901.0
+2021,2016A000011124,Canada,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,1239704.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,12075.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,30299.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,2993.0
+2021,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,5196.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,2146.0
+2021,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,4123.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,847.0
+2021,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1073.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,9082.0
+2021,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,25103.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,3149.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,10022.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,1011.0
+2021,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,2231.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,726.0
+2021,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,1834.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,284.0
+2021,2016A000211,Prince Edward Island,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,397.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,2139.0
+2021,2016A000211,Prince Edward Island,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,7791.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,23314.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,59755.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,7118.0
+2021,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,14482.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,5242.0
+2021,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,11930.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1876.0
+2021,2016A000212,Nova Scotia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2551.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,16196.0
+2021,2016A000212,Nova Scotia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,45274.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,15677.0
+2021,2016A000213,New Brunswick,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,39902.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,5321.0
+2021,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,9263.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,3796.0
+2021,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,7398.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,1525.0
+2021,2016A000213,New Brunswick,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,1865.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,10356.0
+2021,2016A000213,New Brunswick,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,30639.0
+2021,2016A000224,Quebec,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,189225.0
+2021,2016A000224,Quebec,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,457729.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,63567.0
+2021,2016A000224,Quebec,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,134426.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,43187.0
+2021,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,106160.0
+2021,2016A000224,Quebec,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,20381.0
+2021,2016A000224,Quebec,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,28266.0
+2021,2016A000224,Quebec,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,125657.0
+2021,2016A000224,Quebec,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,323303.0
+2021,2016A000235,Ontario,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,262447.0
+2021,2016A000235,Ontario,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,578450.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,105880.0
+2021,2016A000235,Ontario,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,207838.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,71462.0
+2021,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,162686.0
+2021,2016A000235,Ontario,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,34418.0
+2021,2016A000235,Ontario,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,45152.0
+2021,2016A000235,Ontario,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,156568.0
+2021,2016A000235,Ontario,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,370612.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,33434.0
+2021,2016A000246,Manitoba,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,81821.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,12110.0
+2021,2016A000246,Manitoba,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,23575.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,9342.0
+2021,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,20019.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2768.0
+2021,2016A000246,Manitoba,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,3556.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,21324.0
+2021,2016A000246,Manitoba,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,58246.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,26433.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,72557.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,9271.0
+2021,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,17563.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,7186.0
+2021,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,14897.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,2086.0
+2021,2016A000247,Saskatchewan,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,2667.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,17161.0
+2021,2016A000247,Saskatchewan,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,54994.0
+2021,2016A000248,Alberta,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,81267.0
+2021,2016A000248,Alberta,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,209168.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,28406.0
+2021,2016A000248,Alberta,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,53449.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,19198.0
+2021,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,40886.0
+2021,2016A000248,Alberta,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,9208.0
+2021,2016A000248,Alberta,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,12563.0
+2021,2016A000248,Alberta,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,52861.0
+2021,2016A000248,Alberta,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,155719.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,104996.0
+2021,2016A000259,British Columbia,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,243088.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,42760.0
+2021,2016A000259,British Columbia,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,78504.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,28504.0
+2021,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,59637.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,14256.0
+2021,2016A000259,British Columbia,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,18867.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,62236.0
+2021,2016A000259,British Columbia,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,164584.0
+2021,2016A000260,Yukon,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,709.0
+2021,2016A000260,Yukon,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,1515.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,397.0
+2021,2016A000260,Yukon,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,793.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,351.0
+2021,2016A000260,Yukon,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,729.0
+2021,2016A000260,Yukon,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,45.0
+2021,2016A000260,Yukon,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,63.0
+2021,2016A000260,Yukon,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,313.0
+2021,2016A000260,Yukon,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,722.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,1534.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,3461.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,665.0
+2021,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,975.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,571.0
+2021,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,874.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,94.0
+2021,2016A000261,Northwest Territories,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,101.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,869.0
+2021,2016A000261,Northwest Territories,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,2486.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Male employees,Number of jobs,Jobs,units,560.0
+2021,2016A000262,Nunavut,Total non-profit institutions,Female employees,Number of jobs,Jobs,units,802.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Male employees,Number of jobs,Jobs,units,421.0
+2021,2016A000262,Nunavut,Total non-profit institutions excluding governments,Female employees,Number of jobs,Jobs,units,571.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Male employees,Number of jobs,Jobs,units,372.0
+2021,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),Female employees,Number of jobs,Jobs,units,527.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Male employees,Number of jobs,Jobs,units,48.0
+2021,2016A000262,Nunavut,Business non-profit institutions,Female employees,Number of jobs,Jobs,units,44.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Male employees,Number of jobs,Jobs,units,139.0
+2021,2016A000262,Nunavut,Government non-profit institutions,Female employees,Number of jobs,Jobs,units,231.0

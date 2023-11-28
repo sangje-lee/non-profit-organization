@@ -1,0 +1,1213 @@
+REF_DATE,DGUID,GEO,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE
+2013,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,622876.0
+2013,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,276386.0
+2013,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1675561.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,274148.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,82605.0
+2013,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,527946.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,185844.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,57313.0
+2013,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,412088.0
+2013,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,88303.0
+2013,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,25292.0
+2013,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,115855.0
+2013,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,348729.0
+2013,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,193783.0
+2013,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1147615.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12620.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5257.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,27227.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3328.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1047.0
+2013,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,5240.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2451.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,728.0
+2013,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4430.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,877.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,319.0
+2013,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,810.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9291.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4211.0
+2013,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,21987.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3575.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,1125.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7109.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1145.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,180.0
+2013,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,1959.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,800.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,120.0
+2013,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1567.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,345.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,60.0
+2013,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,392.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2430.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,945.0
+2013,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5150.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,19297.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8009.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,53808.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6643.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2101.0
+2013,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14121.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4759.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1572.0
+2013,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11700.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1884.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,529.0
+2013,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2421.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12654.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5907.0
+2013,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,39687.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18068.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5815.0
+2013,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,32307.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6393.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1452.0
+2013,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,7633.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4521.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1046.0
+2013,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6225.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1871.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,406.0
+2013,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1408.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11676.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4363.0
+2013,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,24674.0
+2013,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,144954.0
+2013,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,138905.0
+2013,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,379687.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,59559.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,34173.0
+2013,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,116176.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,41651.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,24352.0
+2013,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,88257.0
+2013,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17908.0
+2013,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9821.0
+2013,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,27919.0
+2013,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,85395.0
+2013,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,104732.0
+2013,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,263511.0
+2013,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,192171.0
+2013,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,46846.0
+2013,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,595336.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,95414.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,20192.0
+2013,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,218586.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,62084.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,13867.0
+2013,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,168421.0
+2013,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,33330.0
+2013,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6325.0
+2013,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,50165.0
+2013,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,96757.0
+2013,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,26654.0
+2013,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,376750.0
+2013,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,40089.0
+2013,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,10246.0
+2013,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,73377.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,16215.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2689.0
+2013,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,20931.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,12949.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,2119.0
+2013,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,18008.0
+2013,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3265.0
+2013,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,570.0
+2013,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2922.0
+2013,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,23875.0
+2013,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7557.0
+2013,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,52446.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,28634.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,10253.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,54540.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,10098.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2262.0
+2013,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,12421.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,7220.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1656.0
+2013,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,10453.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2878.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,606.0
+2013,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1968.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18536.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7992.0
+2013,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,42118.0
+2013,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83398.0
+2013,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,24581.0
+2013,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,205820.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,34772.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8717.0
+2013,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,53723.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,23038.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5698.0
+2013,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,42280.0
+2013,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11734.0
+2013,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3019.0
+2013,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,11443.0
+2013,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,48626.0
+2013,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,15864.0
+2013,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,152097.0
+2013,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,76877.0
+2013,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,24808.0
+2013,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,242182.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,38744.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,9508.0
+2013,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,75658.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,24849.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5927.0
+2013,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,59424.0
+2013,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13895.0
+2013,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3581.0
+2013,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,16233.0
+2013,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,38133.0
+2013,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,15300.0
+2013,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,166525.0
+2013,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,574.0
+2013,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,169.0
+2013,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1349.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,409.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,93.0
+2013,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,624.0
+2013,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,355.0
+2013,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,54.0
+2013,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,165.0
+2013,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,76.0
+2013,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,725.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1667.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,268.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2317.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,727.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,123.0
+2013,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,617.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,568.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,94.0
+2013,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,518.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,160.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,29.0
+2013,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,99.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,940.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,146.0
+2013,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1700.0
+2013,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,952.0
+2013,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,104.0
+2013,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,502.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,701.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,68.0
+2013,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,257.0
+2013,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,599.0
+2013,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,102.0
+2013,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,251.0
+2013,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,36.0
+2013,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,245.0
+2014,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,630526.0
+2014,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,270544.0
+2014,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1690330.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,276832.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,79974.0
+2014,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,533550.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,188947.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,55883.0
+2014,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,416760.0
+2014,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,87883.0
+2014,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,24089.0
+2014,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,116793.0
+2014,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,353696.0
+2014,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,190570.0
+2014,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1156780.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12903.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4957.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,26660.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3276.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,973.0
+2014,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,4928.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2423.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,678.0
+2014,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4107.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,853.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,295.0
+2014,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,822.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9627.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3984.0
+2014,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,21732.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3642.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,1091.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7295.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1150.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,168.0
+2014,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,2003.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,813.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,113.0
+2014,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1564.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,337.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,55.0
+2014,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,439.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2492.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,922.0
+2014,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5292.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20180.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7984.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,56929.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6632.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1985.0
+2014,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14108.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4848.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1509.0
+2014,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11823.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1784.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,476.0
+2014,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2286.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13548.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5999.0
+2014,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,42820.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17638.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5264.0
+2014,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,31607.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6419.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1364.0
+2014,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,7817.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4612.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,995.0
+2014,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6399.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1807.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,369.0
+2014,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1418.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11219.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3900.0
+2014,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,23790.0
+2014,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,143467.0
+2014,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,141428.0
+2014,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,375060.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,59032.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,33708.0
+2014,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,116078.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,41721.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,24317.0
+2014,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,88843.0
+2014,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17311.0
+2014,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9391.0
+2014,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,27235.0
+2014,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,84435.0
+2014,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,107720.0
+2014,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,258982.0
+2014,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,196045.0
+2014,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,43808.0
+2014,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,608034.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,97314.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,19153.0
+2014,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,221647.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,63666.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,13185.0
+2014,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,170793.0
+2014,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,33647.0
+2014,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5968.0
+2014,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,50854.0
+2014,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,98732.0
+2014,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,24655.0
+2014,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,386387.0
+2014,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,41890.0
+2014,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9687.0
+2014,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,76231.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,16303.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2564.0
+2014,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,21280.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,12899.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,2001.0
+2014,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,18087.0
+2014,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3404.0
+2014,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,562.0
+2014,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3193.0
+2014,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,25587.0
+2014,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7124.0
+2014,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,54951.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,29254.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9771.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,55811.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,10103.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2193.0
+2014,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,13104.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,7384.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1635.0
+2014,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11189.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2718.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,558.0
+2014,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1915.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,19151.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7578.0
+2014,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,42708.0
+2014,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83770.0
+2014,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,22962.0
+2014,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,206962.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,35167.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8423.0
+2014,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,54520.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,23652.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5550.0
+2014,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,42966.0
+2014,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11515.0
+2014,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2873.0
+2014,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,11554.0
+2014,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,48603.0
+2014,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,14539.0
+2014,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,152442.0
+2014,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,78583.0
+2014,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,23062.0
+2014,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,241610.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,39605.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,9161.0
+2014,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,76533.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,25403.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5673.0
+2014,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,59638.0
+2014,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14202.0
+2014,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3488.0
+2014,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,16895.0
+2014,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,38979.0
+2014,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,13901.0
+2014,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,165076.0
+2014,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,610.0
+2014,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,179.0
+2014,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1411.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,439.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,99.0
+2014,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,656.0
+2014,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,385.0
+2014,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,54.0
+2014,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,171.0
+2014,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,80.0
+2014,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,755.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1653.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,256.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2258.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,751.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,123.0
+2014,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,641.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,601.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,96.0
+2014,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,534.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,150.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,26.0
+2014,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,107.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,902.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,133.0
+2014,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1617.0
+2014,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,891.0
+2014,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,95.0
+2014,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,462.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,641.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,60.0
+2014,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,235.0
+2014,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,540.0
+2014,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,101.0
+2014,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,250.0
+2014,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,35.0
+2014,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,228.0
+2015,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,642541.0
+2015,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,266083.0
+2015,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1729001.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,286705.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,79856.0
+2015,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,550675.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,192595.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,54793.0
+2015,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,425327.0
+2015,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,94109.0
+2015,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,25064.0
+2015,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,125348.0
+2015,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,355835.0
+2015,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,186227.0
+2015,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1178326.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12962.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4622.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,26395.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3450.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,979.0
+2015,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,5089.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2478.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,663.0
+2015,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4173.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,971.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,316.0
+2015,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,916.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9513.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3642.0
+2015,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,21306.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3666.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,1052.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7279.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1115.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,154.0
+2015,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,1984.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,787.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,100.0
+2015,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1538.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,328.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,54.0
+2015,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,446.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2551.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,898.0
+2015,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5295.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20505.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7682.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,58378.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6987.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1954.0
+2015,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14663.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4968.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1448.0
+2015,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,12091.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2018.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,506.0
+2015,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2572.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13519.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5728.0
+2015,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,43714.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17785.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4989.0
+2015,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,32343.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6434.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1294.0
+2015,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,7866.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4564.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,935.0
+2015,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6415.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1870.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,359.0
+2015,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1451.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11351.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3695.0
+2015,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,24477.0
+2015,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,141855.0
+2015,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,143586.0
+2015,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,375019.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,60276.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,34439.0
+2015,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,115779.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,42039.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,24403.0
+2015,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,86956.0
+2015,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18237.0
+2015,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,10037.0
+2015,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,28824.0
+2015,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,81579.0
+2015,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,109147.0
+2015,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,259240.0
+2015,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,201200.0
+2015,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,41844.0
+2015,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,627658.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,99773.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,18636.0
+2015,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,229824.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,64045.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,12600.0
+2015,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,174583.0
+2015,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,35728.0
+2015,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6036.0
+2015,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,55241.0
+2015,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,101427.0
+2015,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,23208.0
+2015,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,397834.0
+2015,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,43401.0
+2015,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8891.0
+2015,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,78024.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,17325.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2592.0
+2015,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,22774.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,13758.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,2014.0
+2015,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,19483.0
+2015,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3567.0
+2015,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,578.0
+2015,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3291.0
+2015,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,26076.0
+2015,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6300.0
+2015,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,55250.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,30660.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9480.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,57285.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,10499.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2200.0
+2015,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,13226.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,7704.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1641.0
+2015,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11248.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2795.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,559.0
+2015,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1978.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20161.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7279.0
+2015,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,44059.0
+2015,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,84205.0
+2015,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,21488.0
+2015,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,209531.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,36218.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8197.0
+2015,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,56316.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,24025.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5354.0
+2015,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,44418.0
+2015,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12193.0
+2015,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2843.0
+2015,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,11898.0
+2015,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,47987.0
+2015,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,13291.0
+2015,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,153215.0
+2015,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83028.0
+2015,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,21905.0
+2015,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,252650.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,42770.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,9141.0
+2015,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,81564.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,26679.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5416.0
+2015,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,63012.0
+2015,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,16091.0
+2015,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3725.0
+2015,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,18553.0
+2015,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,40257.0
+2015,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12765.0
+2015,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,171086.0
+2015,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,596.0
+2015,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,171.0
+2015,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1436.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,430.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,90.0
+2015,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,696.0
+2015,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,356.0
+2015,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,74.0
+2015,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,165.0
+2015,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,81.0
+2015,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,740.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1827.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,280.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2554.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,797.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,121.0
+2015,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,661.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,632.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,95.0
+2015,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,551.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,166.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,26.0
+2015,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,109.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1029.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,159.0
+2015,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1893.0
+2015,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,851.0
+2015,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,93.0
+2015,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,449.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,631.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,59.0
+2015,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,233.0
+2015,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,560.0
+2015,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,71.0
+2015,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,220.0
+2015,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,34.0
+2015,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,217.0
+2016,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,648258.0
+2016,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,263036.0
+2016,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1791615.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,289327.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,77892.0
+2016,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,567690.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,196697.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,54035.0
+2016,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,434608.0
+2016,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,92632.0
+2016,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,23857.0
+2016,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,133083.0
+2016,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,358933.0
+2016,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,185143.0
+2016,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1223920.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13214.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4523.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,27266.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3610.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,973.0
+2016,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,5102.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2626.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,651.0
+2016,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4133.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,984.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,322.0
+2016,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,970.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9605.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3549.0
+2016,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,22164.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3853.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,1034.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7597.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1219.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,172.0
+2016,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,1951.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,819.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,106.0
+2016,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1488.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,400.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,66.0
+2016,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,463.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2635.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,862.0
+2016,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5646.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,21343.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7585.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,61533.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,7346.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1931.0
+2016,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14733.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,5205.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1439.0
+2016,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11911.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2141.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,493.0
+2016,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2822.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13998.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5654.0
+2016,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,46800.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18405.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4876.0
+2016,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,33434.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6821.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1279.0
+2016,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,8166.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4816.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,923.0
+2016,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6541.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2006.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,356.0
+2016,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1625.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11584.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3597.0
+2016,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,25267.0
+2016,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,142756.0
+2016,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,144253.0
+2016,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,389504.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,59520.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,34040.0
+2016,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,120567.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,41696.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,24367.0
+2016,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,90096.0
+2016,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17824.0
+2016,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9673.0
+2016,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,30471.0
+2016,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83236.0
+2016,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,110213.0
+2016,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,268936.0
+2016,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,204285.0
+2016,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,40644.0
+2016,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,651868.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,102176.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,18162.0
+2016,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,237997.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,67043.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,12530.0
+2016,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,179721.0
+2016,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,35133.0
+2016,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5632.0
+2016,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,58276.0
+2016,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,102109.0
+2016,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,22482.0
+2016,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,413870.0
+2016,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,42380.0
+2016,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8403.0
+2016,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,77931.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,17284.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2459.0
+2016,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,22951.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,13779.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1908.0
+2016,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,19488.0
+2016,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3505.0
+2016,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,551.0
+2016,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3463.0
+2016,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,25095.0
+2016,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5944.0
+2016,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,54979.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,30829.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9243.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,58173.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,10852.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2223.0
+2016,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,13651.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,8111.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1672.0
+2016,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11435.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2741.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,551.0
+2016,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2217.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,19977.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7020.0
+2016,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,44521.0
+2016,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83483.0
+2016,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,20387.0
+2016,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,218516.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,34941.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,7219.0
+2016,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,55623.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,23390.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4728.0
+2016,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,43346.0
+2016,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11551.0
+2016,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2491.0
+2016,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,12277.0
+2016,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,48542.0
+2016,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,13168.0
+2016,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,162893.0
+2016,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,84265.0
+2016,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,21513.0
+2016,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,261161.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,43584.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,9142.0
+2016,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,85265.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,27563.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5472.0
+2016,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,64961.0
+2016,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,16021.0
+2016,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3670.0
+2016,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,20304.0
+2016,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,40681.0
+2016,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12371.0
+2016,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,175896.0
+2016,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,656.0
+2016,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,180.0
+2016,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1432.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,488.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,103.0
+2016,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,710.0
+2016,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,417.0
+2016,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,71.0
+2016,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,168.0
+2016,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,77.0
+2016,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,723.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1934.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,298.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2738.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,847.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,126.0
+2016,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,730.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,675.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,99.0
+2016,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,610.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,172.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,27.0
+2016,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,120.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1087.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,172.0
+2016,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2008.0
+2016,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,855.0
+2016,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,97.0
+2016,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,462.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,639.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,63.0
+2016,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,244.0
+2016,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,557.0
+2016,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83.0
+2016,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,216.0
+2016,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,34.0
+2016,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,217.0
+2017,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,639713.0
+2017,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,255401.0
+2017,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1809897.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,286069.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,75750.0
+2017,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,583731.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,196413.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,52682.0
+2017,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,446636.0
+2017,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,89656.0
+2017,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,23070.0
+2017,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,137097.0
+2017,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,353643.0
+2017,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,179652.0
+2017,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1226168.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12980.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4395.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,26996.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3592.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,952.0
+2017,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,5109.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2669.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,650.0
+2017,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4156.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,923.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,303.0
+2017,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,954.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9388.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3443.0
+2017,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,21887.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3767.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,969.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7539.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1173.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,159.0
+2017,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,1998.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,796.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,99.0
+2017,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1526.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,377.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,60.0
+2017,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,473.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2594.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,809.0
+2017,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5541.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20659.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7042.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,60337.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6989.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1834.0
+2017,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14654.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4988.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1376.0
+2017,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11917.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2001.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,458.0
+2017,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2737.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13670.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5208.0
+2017,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,45683.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18539.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4670.0
+2017,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,33590.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6920.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1261.0
+2017,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,8475.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4938.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,910.0
+2017,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6818.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1982.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,351.0
+2017,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1657.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11619.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3410.0
+2017,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,25115.0
+2017,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,140885.0
+2017,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,141553.0
+2017,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,386380.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,59018.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,33312.0
+2017,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,122510.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,41532.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,23836.0
+2017,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,90827.0
+2017,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17486.0
+2017,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9476.0
+2017,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,31683.0
+2017,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,81866.0
+2017,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,108241.0
+2017,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,263870.0
+2017,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,202556.0
+2017,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,39124.0
+2017,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,671399.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,101246.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,17618.0
+2017,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,248729.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,67404.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,12221.0
+2017,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,187893.0
+2017,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,33842.0
+2017,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5397.0
+2017,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,60836.0
+2017,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,101310.0
+2017,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,21506.0
+2017,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,422670.0
+2017,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,41963.0
+2017,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8091.0
+2017,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,78461.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,17410.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2392.0
+2017,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,23626.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,14014.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1871.0
+2017,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,20144.0
+2017,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3396.0
+2017,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,521.0
+2017,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3482.0
+2017,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,24553.0
+2017,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5700.0
+2017,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,54836.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,30243.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8877.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,59228.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,10522.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2106.0
+2017,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,13592.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,7943.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1593.0
+2017,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11367.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2579.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,513.0
+2017,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2225.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,19721.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6772.0
+2017,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,45636.0
+2017,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,81162.0
+2017,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19628.0
+2017,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,219713.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,34074.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,7065.0
+2017,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,56917.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,23128.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4676.0
+2017,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,44663.0
+2017,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,10946.0
+2017,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2389.0
+2017,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,12254.0
+2017,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,47088.0
+2017,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12563.0
+2017,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,162796.0
+2017,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83432.0
+2017,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,20472.0
+2017,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,261540.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,43099.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8763.0
+2017,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,86403.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,27293.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5212.0
+2017,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,65782.0
+2017,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,15806.0
+2017,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3551.0
+2017,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,20621.0
+2017,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,40333.0
+2017,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,11709.0
+2017,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,175137.0
+2017,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,664.0
+2017,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,177.0
+2017,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1475.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,486.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,100.0
+2017,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,735.0
+2017,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,416.0
+2017,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,70.0
+2017,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,178.0
+2017,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,77.0
+2017,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,741.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1973.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,309.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2759.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,866.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,130.0
+2017,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,721.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,723.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,109.0
+2017,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,633.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,143.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,22.0
+2017,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,88.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1107.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,179.0
+2017,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2038.0
+2017,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,890.0
+2017,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,94.0
+2017,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,480.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,674.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,58.0
+2017,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,262.0
+2017,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,569.0
+2017,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,105.0
+2017,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,216.0
+2017,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,35.0
+2017,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,218.0
+2018,2016A000011124,Canada,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,650689.0
+2018,2016A000011124,Canada,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,256837.0
+2018,2016A000011124,Canada,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1887922.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,290006.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,75205.0
+2018,2016A000011124,Canada,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,608596.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,201079.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,52962.0
+2018,2016A000011124,Canada,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,465361.0
+2018,2016A000011124,Canada,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,88927.0
+2018,2016A000011124,Canada,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,22243.0
+2018,2016A000011124,Canada,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,143235.0
+2018,2016A000011124,Canada,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,360684.0
+2018,2016A000011124,Canada,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,181628.0
+2018,2016A000011124,Canada,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1279325.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,13355.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4313.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,27508.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,3666.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,928.0
+2018,2016A000210,Newfoundland and Labrador,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,5239.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,2731.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,650.0
+2018,2016A000210,Newfoundland and Labrador,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,4237.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,934.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,279.0
+2018,2016A000210,Newfoundland and Labrador,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1002.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9690.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3384.0
+2018,2016A000210,Newfoundland and Labrador,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,22269.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3907.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,947.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,7744.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,1247.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,176.0
+2018,2016A000211,Prince Edward Island,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,2111.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,858.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,116.0
+2018,2016A000211,Prince Edward Island,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,1624.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,389.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,60.0
+2018,2016A000211,Prince Edward Island,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,488.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2660.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,770.0
+2018,2016A000211,Prince Edward Island,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,5633.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,21477.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6938.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,63260.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,7266.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1823.0
+2018,2016A000212,Nova Scotia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,15302.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,5189.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1391.0
+2018,2016A000212,Nova Scotia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,12411.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2077.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,432.0
+2018,2016A000212,Nova Scotia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2891.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14211.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5114.0
+2018,2016A000212,Nova Scotia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,47958.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,18696.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4457.0
+2018,2016A000213,New Brunswick,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,33770.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6935.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1190.0
+2018,2016A000213,New Brunswick,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,8409.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4957.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,870.0
+2018,2016A000213,New Brunswick,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,6746.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1978.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,320.0
+2018,2016A000213,New Brunswick,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1663.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11761.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3267.0
+2018,2016A000213,New Brunswick,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,25361.0
+2018,2016A000224,Quebec,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,144689.0
+2018,2016A000224,Quebec,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,144947.0
+2018,2016A000224,Quebec,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,401337.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,59742.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,33523.0
+2018,2016A000224,Quebec,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,127546.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,42091.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,24132.0
+2018,2016A000224,Quebec,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,94488.0
+2018,2016A000224,Quebec,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17651.0
+2018,2016A000224,Quebec,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9391.0
+2018,2016A000224,Quebec,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,33058.0
+2018,2016A000224,Quebec,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,84947.0
+2018,2016A000224,Quebec,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,111424.0
+2018,2016A000224,Quebec,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,273791.0
+2018,2016A000235,Ontario,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,202582.0
+2018,2016A000235,Ontario,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,37620.0
+2018,2016A000235,Ontario,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,690772.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,101634.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,16973.0
+2018,2016A000235,Ontario,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,253983.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,68756.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,11966.0
+2018,2016A000235,Ontario,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,191686.0
+2018,2016A000235,Ontario,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,32879.0
+2018,2016A000235,Ontario,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5007.0
+2018,2016A000235,Ontario,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,62297.0
+2018,2016A000235,Ontario,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,100948.0
+2018,2016A000235,Ontario,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,20647.0
+2018,2016A000235,Ontario,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,436789.0
+2018,2016A000246,Manitoba,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,41620.0
+2018,2016A000246,Manitoba,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7780.0
+2018,2016A000246,Manitoba,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,78669.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,17300.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2261.0
+2018,2016A000246,Manitoba,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,23042.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,13971.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1804.0
+2018,2016A000246,Manitoba,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,19537.0
+2018,2016A000246,Manitoba,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,3329.0
+2018,2016A000246,Manitoba,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,457.0
+2018,2016A000246,Manitoba,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3505.0
+2018,2016A000246,Manitoba,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,24320.0
+2018,2016A000246,Manitoba,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5519.0
+2018,2016A000246,Manitoba,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,55627.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,31676.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9083.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,62232.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,11094.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,2226.0
+2018,2016A000247,Saskatchewan,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14610.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,8365.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1695.0
+2018,2016A000247,Saskatchewan,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,12154.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2729.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,530.0
+2018,2016A000247,Saskatchewan,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2456.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20581.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6857.0
+2018,2016A000247,Saskatchewan,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,47622.0
+2018,2016A000248,Alberta,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83279.0
+2018,2016A000248,Alberta,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19862.0
+2018,2016A000248,Alberta,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,235873.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,35207.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,7206.0
+2018,2016A000248,Alberta,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,63667.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,24196.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4843.0
+2018,2016A000248,Alberta,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,50148.0
+2018,2016A000248,Alberta,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11010.0
+2018,2016A000248,Alberta,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2363.0
+2018,2016A000248,Alberta,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,13520.0
+2018,2016A000248,Alberta,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,48073.0
+2018,2016A000248,Alberta,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12656.0
+2018,2016A000248,Alberta,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,172205.0
+2018,2016A000259,British Columbia,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,85894.0
+2018,2016A000259,British Columbia,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,20310.0
+2018,2016A000259,British Columbia,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,282124.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,43896.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8605.0
+2018,2016A000259,British Columbia,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,92960.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,28250.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5246.0
+2018,2016A000259,British Columbia,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,70778.0
+2018,2016A000259,British Columbia,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,15646.0
+2018,2016A000259,British Columbia,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3359.0
+2018,2016A000259,British Columbia,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,22181.0
+2018,2016A000259,British Columbia,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,41998.0
+2018,2016A000259,British Columbia,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,11705.0
+2018,2016A000259,British Columbia,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,189164.0
+2018,2016A000260,Yukon,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,635.0
+2018,2016A000260,Yukon,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,166.0
+2018,2016A000260,Yukon,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1456.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,456.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,94.0
+2018,2016A000260,Yukon,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,747.0
+2018,2016A000260,Yukon,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,388.0
+2018,2016A000260,Yukon,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,68.0
+2018,2016A000260,Yukon,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,179.0
+2018,2016A000260,Yukon,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,71.0
+2018,2016A000260,Yukon,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,709.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1982.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,312.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,2699.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,890.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,135.0
+2018,2016A000261,Northwest Territories,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,721.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,751.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,115.0
+2018,2016A000261,Northwest Territories,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,629.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,139.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,20.0
+2018,2016A000261,Northwest Territories,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,92.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1092.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,177.0
+2018,2016A000261,Northwest Territories,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,1978.0
+2018,2016A000262,Nunavut,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,897.0
+2018,2016A000262,Nunavut,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,102.0
+2018,2016A000262,Nunavut,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,478.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,673.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,65.0
+2018,2016A000262,Nunavut,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,259.0
+2018,2016A000262,Nunavut,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,576.0
+2018,2016A000262,Nunavut,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,98.0
+2018,2016A000262,Nunavut,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,224.0
+2018,2016A000262,Nunavut,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,37.0
+2018,2016A000262,Nunavut,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,219.0
