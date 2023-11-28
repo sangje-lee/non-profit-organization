@@ -1,0 +1,901 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2013,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,27914.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,60457.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,54255.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,57052.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,45190.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,12792.0,True,False,False,False,False,70
+2013,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11054.0,True,False,False,False,False,20
+2013,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,16762.0,True,False,False,False,False,30
+2013,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,15364.0,True,False,False,False,False,40
+2013,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,15807.0,True,False,False,False,False,50
+2013,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,13243.0,True,False,False,False,False,60
+2013,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,4354.0,True,False,False,False,False,70
+2013,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,7462.0,True,False,False,False,False,20
+2013,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,12250.0,True,False,False,False,False,30
+2013,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,11572.0,True,False,False,False,False,40
+2013,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,11857.0,True,False,False,False,False,50
+2013,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10052.0,True,False,False,False,False,60
+2013,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,3357.0,True,False,False,False,False,70
+2013,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3592.0,True,False,False,False,False,20
+2013,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4512.0,True,False,False,False,False,30
+2013,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,3793.0,True,False,False,False,False,40
+2013,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3950.0,True,False,False,False,False,50
+2013,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3191.0,True,False,False,False,False,60
+2013,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,998.0,True,False,False,False,False,70
+2013,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,16860.0,True,False,False,False,False,20
+2013,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,43695.0,True,False,False,False,False,30
+2013,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,38891.0,True,False,False,False,False,40
+2013,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,41245.0,True,False,False,False,False,50
+2013,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,31946.0,True,False,False,False,False,60
+2013,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,8438.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,28727.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,61714.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,54901.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,56073.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,46140.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,14219.0,True,False,False,False,False,70
+2014,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11320.0,True,False,False,False,False,20
+2014,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,17344.0,True,False,False,False,False,30
+2014,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,15788.0,True,False,False,False,False,40
+2014,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,15782.0,True,False,False,False,False,50
+2014,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,13507.0,True,False,False,False,False,60
+2014,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,4664.0,True,False,False,False,False,70
+2014,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,7711.0,True,False,False,False,False,20
+2014,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,12758.0,True,False,False,False,False,30
+2014,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,11962.0,True,False,False,False,False,40
+2014,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,11888.0,True,False,False,False,False,50
+2014,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10305.0,True,False,False,False,False,60
+2014,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,3656.0,True,False,False,False,False,70
+2014,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3610.0,True,False,False,False,False,20
+2014,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4586.0,True,False,False,False,False,30
+2014,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,3826.0,True,False,False,False,False,40
+2014,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3893.0,True,False,False,False,False,50
+2014,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3201.0,True,False,False,False,False,60
+2014,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1008.0,True,False,False,False,False,70
+2014,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,17407.0,True,False,False,False,False,20
+2014,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,44370.0,True,False,False,False,False,30
+2014,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,39113.0,True,False,False,False,False,40
+2014,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,40291.0,True,False,False,False,False,50
+2014,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,32634.0,True,False,False,False,False,60
+2014,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,9555.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,29444.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,63681.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,56239.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,55956.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,47376.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,15111.0,True,False,False,False,False,70
+2015,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12038.0,True,False,False,False,False,20
+2015,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,18015.0,True,False,False,False,False,30
+2015,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,16190.0,True,False,False,False,False,40
+2015,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,15691.0,True,False,False,False,False,50
+2015,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,13741.0,True,False,False,False,False,60
+2015,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,4838.0,True,False,False,False,False,70
+2015,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8161.0,True,False,False,False,False,20
+2015,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,13234.0,True,False,False,False,False,30
+2015,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,12265.0,True,False,False,False,False,40
+2015,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,11794.0,True,False,False,False,False,50
+2015,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10468.0,True,False,False,False,False,60
+2015,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,3784.0,True,False,False,False,False,70
+2015,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3876.0,True,False,False,False,False,20
+2015,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4781.0,True,False,False,False,False,30
+2015,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,3924.0,True,False,False,False,False,40
+2015,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3897.0,True,False,False,False,False,50
+2015,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3273.0,True,False,False,False,False,60
+2015,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1054.0,True,False,False,False,False,70
+2015,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,17406.0,True,False,False,False,False,20
+2015,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,45666.0,True,False,False,False,False,30
+2015,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,40049.0,True,False,False,False,False,40
+2015,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,40265.0,True,False,False,False,False,50
+2015,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,33635.0,True,False,False,False,False,60
+2015,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,10273.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,29526.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,64245.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,58538.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,56543.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,47824.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,15887.0,True,False,False,False,False,70
+2016,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12568.0,True,False,False,False,False,20
+2016,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,17827.0,True,False,False,False,False,30
+2016,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,16433.0,True,False,False,False,False,40
+2016,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,15412.0,True,False,False,False,False,50
+2016,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,13600.0,True,False,False,False,False,60
+2016,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,5289.0,True,False,False,False,False,70
+2016,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8613.0,True,False,False,False,False,20
+2016,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,13010.0,True,False,False,False,False,30
+2016,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,12348.0,True,False,False,False,False,40
+2016,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,11552.0,True,False,False,False,False,50
+2016,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10302.0,True,False,False,False,False,60
+2016,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,4101.0,True,False,False,False,False,70
+2016,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3955.0,True,False,False,False,False,20
+2016,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4817.0,True,False,False,False,False,30
+2016,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,4084.0,True,False,False,False,False,40
+2016,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3860.0,True,False,False,False,False,50
+2016,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3299.0,True,False,False,False,False,60
+2016,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1188.0,True,False,False,False,False,70
+2016,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,16959.0,True,False,False,False,False,20
+2016,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,46419.0,True,False,False,False,False,30
+2016,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,42105.0,True,False,False,False,False,40
+2016,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,41130.0,True,False,False,False,False,50
+2016,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,34224.0,True,False,False,False,False,60
+2016,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,10599.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,28569.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,64182.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,60451.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,56709.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,47948.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,16444.0,True,False,False,False,False,70
+2017,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11992.0,True,False,False,False,False,20
+2017,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,17898.0,True,False,False,False,False,30
+2017,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,16947.0,True,False,False,False,False,40
+2017,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,15592.0,True,False,False,False,False,50
+2017,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,13683.0,True,False,False,False,False,60
+2017,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,5424.0,True,False,False,False,False,70
+2017,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8583.0,True,False,False,False,False,20
+2017,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,13302.0,True,False,False,False,False,30
+2017,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,12854.0,True,False,False,False,False,40
+2017,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,11845.0,True,False,False,False,False,50
+2017,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10454.0,True,False,False,False,False,60
+2017,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,4236.0,True,False,False,False,False,70
+2017,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3409.0,True,False,False,False,False,20
+2017,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4597.0,True,False,False,False,False,30
+2017,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,4093.0,True,False,False,False,False,40
+2017,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3747.0,True,False,False,False,False,50
+2017,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3229.0,True,False,False,False,False,60
+2017,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1188.0,True,False,False,False,False,70
+2017,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,16577.0,True,False,False,False,False,20
+2017,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,46283.0,True,False,False,False,False,30
+2017,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,43504.0,True,False,False,False,False,40
+2017,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,41116.0,True,False,False,False,False,50
+2017,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,34265.0,True,False,False,False,False,60
+2017,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,11020.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,27486.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,65383.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,63646.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,58331.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,49114.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,16993.0,True,False,False,False,False,70
+2018,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11448.0,True,False,False,False,False,20
+2018,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,18428.0,True,False,False,False,False,30
+2018,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,18004.0,True,False,False,False,False,40
+2018,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,16270.0,True,False,False,False,False,50
+2018,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,14216.0,True,False,False,False,False,60
+2018,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,5644.0,True,False,False,False,False,70
+2018,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8115.0,True,False,False,False,False,20
+2018,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,13718.0,True,False,False,False,False,30
+2018,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,13640.0,True,False,False,False,False,40
+2018,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,12389.0,True,False,False,False,False,50
+2018,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,10872.0,True,False,False,False,False,60
+2018,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,4388.0,True,False,False,False,False,70
+2018,2016A000248,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3334.0,True,False,False,False,False,20
+2018,2016A000248,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,4709.0,True,False,False,False,False,30
+2018,2016A000248,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,4365.0,True,False,False,False,False,40
+2018,2016A000248,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,3881.0,True,False,False,False,False,50
+2018,2016A000248,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,3344.0,True,False,False,False,False,60
+2018,2016A000248,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1256.0,True,False,False,False,False,70
+2018,2016A000248,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,16037.0,True,False,False,False,False,20
+2018,2016A000248,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,46955.0,True,False,False,False,False,30
+2018,2016A000248,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,45641.0,True,False,False,False,False,40
+2018,2016A000248,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,42061.0,True,False,False,False,False,50
+2018,2016A000248,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,34897.0,True,False,False,False,False,60
+2018,2016A000248,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,11348.0,True,False,False,False,False,70
+2013,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,24474.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,58023.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,60466.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,70479.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,59328.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,19215.0,False,True,False,False,False,70
+2013,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11128.0,False,True,False,False,False,20
+2013,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,19896.0,False,True,False,False,False,30
+2013,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,20523.0,False,True,False,False,False,40
+2013,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,23065.0,False,True,False,False,False,50
+2013,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,20630.0,False,True,False,False,False,60
+2013,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,7929.0,False,True,False,False,False,70
+2013,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,7259.0,False,True,False,False,False,20
+2013,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,14601.0,False,True,False,False,False,30
+2013,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,15427.0,False,True,False,False,False,40
+2013,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17359.0,False,True,False,False,False,50
+2013,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,15769.0,False,True,False,False,False,60
+2013,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,6148.0,False,True,False,False,False,70
+2013,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3869.0,False,True,False,False,False,20
+2013,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,5294.0,False,True,False,False,False,30
+2013,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,5096.0,False,True,False,False,False,40
+2013,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,5705.0,False,True,False,False,False,50
+2013,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,4860.0,False,True,False,False,False,60
+2013,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1780.0,False,True,False,False,False,70
+2013,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,13346.0,False,True,False,False,False,20
+2013,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,38128.0,False,True,False,False,False,30
+2013,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,39943.0,False,True,False,False,False,40
+2013,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,47414.0,False,True,False,False,False,50
+2013,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,38699.0,False,True,False,False,False,60
+2013,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,11286.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,25439.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,59127.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,60824.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,69280.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,60118.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,19987.0,False,True,False,False,False,70
+2014,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,11390.0,False,True,False,False,False,20
+2014,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,20321.0,False,True,False,False,False,30
+2014,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,20726.0,False,True,False,False,False,40
+2014,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,22755.0,False,True,False,False,False,50
+2014,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,20811.0,False,True,False,False,False,60
+2014,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,8222.0,False,True,False,False,False,70
+2014,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,7392.0,False,True,False,False,False,20
+2014,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,14864.0,False,True,False,False,False,30
+2014,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,15564.0,False,True,False,False,False,40
+2014,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17050.0,False,True,False,False,False,50
+2014,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,15858.0,False,True,False,False,False,60
+2014,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,6367.0,False,True,False,False,False,70
+2014,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,3998.0,False,True,False,False,False,20
+2014,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,5457.0,False,True,False,False,False,30
+2014,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,5162.0,False,True,False,False,False,40
+2014,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,5705.0,False,True,False,False,False,50
+2014,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,4953.0,False,True,False,False,False,60
+2014,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,1855.0,False,True,False,False,False,70
+2014,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,14049.0,False,True,False,False,False,20
+2014,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,38806.0,False,True,False,False,False,30
+2014,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,40098.0,False,True,False,False,False,40
+2014,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,46525.0,False,True,False,False,False,50
+2014,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,39307.0,False,True,False,False,False,60
+2014,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,11765.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,25903.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,61337.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,62603.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,69993.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,62449.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,20552.0,False,True,False,False,False,70
+2015,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12399.0,False,True,False,False,False,20
+2015,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,21752.0,False,True,False,False,False,30
+2015,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,21830.0,False,True,False,False,False,40
+2015,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,23502.0,False,True,False,False,False,50
+2015,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,22032.0,False,True,False,False,False,60
+2015,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,8791.0,False,True,False,False,False,70
+2015,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,7892.0,False,True,False,False,False,20
+2015,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,15639.0,False,True,False,False,False,30
+2015,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,16153.0,False,True,False,False,False,40
+2015,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17302.0,False,True,False,False,False,50
+2015,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,16518.0,False,True,False,False,False,60
+2015,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,6654.0,False,True,False,False,False,70
+2015,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,4506.0,False,True,False,False,False,20
+2015,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,6114.0,False,True,False,False,False,30
+2015,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,5677.0,False,True,False,False,False,40
+2015,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,6200.0,False,True,False,False,False,50
+2015,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,5514.0,False,True,False,False,False,60
+2015,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2137.0,False,True,False,False,False,70
+2015,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,13504.0,False,True,False,False,False,20
+2015,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,39584.0,False,True,False,False,False,30
+2015,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,40773.0,False,True,False,False,False,40
+2015,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,46490.0,False,True,False,False,False,50
+2015,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,40417.0,False,True,False,False,False,60
+2015,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,11761.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,27508.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,64745.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,65124.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,70492.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,63194.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,22072.0,False,True,False,False,False,70
+2016,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12876.0,False,True,False,False,False,20
+2016,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,23123.0,False,True,False,False,False,30
+2016,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,23004.0,False,True,False,False,False,40
+2016,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,23983.0,False,True,False,False,False,50
+2016,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,22568.0,False,True,False,False,False,60
+2016,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,9691.0,False,True,False,False,False,70
+2016,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8603.0,False,True,False,False,False,20
+2016,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,16600.0,False,True,False,False,False,30
+2016,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,16955.0,False,True,False,False,False,40
+2016,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17593.0,False,True,False,False,False,50
+2016,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,16797.0,False,True,False,False,False,60
+2016,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,7473.0,False,True,False,False,False,70
+2016,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,4273.0,False,True,False,False,False,20
+2016,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,6523.0,False,True,False,False,False,30
+2016,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,6049.0,False,True,False,False,False,40
+2016,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,6389.0,False,True,False,False,False,50
+2016,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,5771.0,False,True,False,False,False,60
+2016,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2217.0,False,True,False,False,False,70
+2016,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,14632.0,False,True,False,False,False,20
+2016,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,41622.0,False,True,False,False,False,30
+2016,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,42120.0,False,True,False,False,False,40
+2016,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,46509.0,False,True,False,False,False,50
+2016,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,40626.0,False,True,False,False,False,60
+2016,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,12381.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,27570.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,66076.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,66284.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,69355.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,62877.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,22929.0,False,True,False,False,False,70
+2017,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12966.0,False,True,False,False,False,20
+2017,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,23720.0,False,True,False,False,False,30
+2017,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,23568.0,False,True,False,False,False,40
+2017,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,23974.0,False,True,False,False,False,50
+2017,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,22824.0,False,True,False,False,False,60
+2017,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,10179.0,False,True,False,False,False,70
+2017,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8839.0,False,True,False,False,False,20
+2017,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,17154.0,False,True,False,False,False,30
+2017,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,17432.0,False,True,False,False,False,40
+2017,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17691.0,False,True,False,False,False,50
+2017,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,17012.0,False,True,False,False,False,60
+2017,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,7833.0,False,True,False,False,False,70
+2017,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,4126.0,False,True,False,False,False,20
+2017,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,6567.0,False,True,False,False,False,30
+2017,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,6136.0,False,True,False,False,False,40
+2017,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,6283.0,False,True,False,False,False,50
+2017,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,5811.0,False,True,False,False,False,60
+2017,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2346.0,False,True,False,False,False,70
+2017,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,14604.0,False,True,False,False,False,20
+2017,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,42356.0,False,True,False,False,False,30
+2017,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,42716.0,False,True,False,False,False,40
+2017,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,45381.0,False,True,False,False,False,50
+2017,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,40053.0,False,True,False,False,False,60
+2017,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,12749.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,27826.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,69042.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,68714.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,69604.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,63524.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,23694.0,False,True,False,False,False,70
+2018,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,12819.0,False,True,False,False,False,20
+2018,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,24441.0,False,True,False,False,False,30
+2018,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,24084.0,False,True,False,False,False,40
+2018,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,23901.0,False,True,False,False,False,50
+2018,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,22930.0,False,True,False,False,False,60
+2018,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,10210.0,False,True,False,False,False,70
+2018,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,8737.0,False,True,False,False,False,20
+2018,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,17717.0,False,True,False,False,False,30
+2018,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,17825.0,False,True,False,False,False,40
+2018,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,17702.0,False,True,False,False,False,50
+2018,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,17070.0,False,True,False,False,False,60
+2018,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,7793.0,False,True,False,False,False,70
+2018,2016A000259,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,4081.0,False,True,False,False,False,20
+2018,2016A000259,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,6723.0,False,True,False,False,False,30
+2018,2016A000259,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,6259.0,False,True,False,False,False,40
+2018,2016A000259,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,6199.0,False,True,False,False,False,50
+2018,2016A000259,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,5861.0,False,True,False,False,False,60
+2018,2016A000259,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2416.0,False,True,False,False,False,70
+2018,2016A000259,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,15008.0,False,True,False,False,False,20
+2018,2016A000259,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,44601.0,False,True,False,False,False,30
+2018,2016A000259,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,44629.0,False,True,False,False,False,40
+2018,2016A000259,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,45703.0,False,True,False,False,False,50
+2018,2016A000259,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,40594.0,False,True,False,False,False,60
+2018,2016A000259,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,13485.0,False,True,False,False,False,70
+2013,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7952.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,13202.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14036.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,17893.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,14072.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4417.0,False,False,True,False,False,70
+2013,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2691.0,False,False,True,False,False,20
+2013,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,3671.0,False,False,True,False,False,30
+2013,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3676.0,False,False,True,False,False,40
+2013,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4282.0,False,False,True,False,False,50
+2013,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,3722.0,False,False,True,False,False,60
+2013,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1415.0,False,False,True,False,False,70
+2013,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,2046.0,False,False,True,False,False,20
+2013,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,2984.0,False,False,True,False,False,30
+2013,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3010.0,False,False,True,False,False,40
+2013,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3478.0,False,False,True,False,False,50
+2013,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3028.0,False,False,True,False,False,60
+2013,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1183.0,False,False,True,False,False,70
+2013,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,645.0,False,False,True,False,False,20
+2013,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,686.0,False,False,True,False,False,30
+2013,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,666.0,False,False,True,False,False,40
+2013,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,804.0,False,False,True,False,False,50
+2013,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,695.0,False,False,True,False,False,60
+2013,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,232.0,False,False,True,False,False,70
+2013,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5261.0,False,False,True,False,False,20
+2013,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,9531.0,False,False,True,False,False,30
+2013,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10361.0,False,False,True,False,False,40
+2013,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13611.0,False,False,True,False,False,50
+2013,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,10350.0,False,False,True,False,False,60
+2013,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3001.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7912.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,13660.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14372.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,18298.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,15055.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4862.0,False,False,True,False,False,70
+2014,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2693.0,False,False,True,False,False,20
+2014,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,3686.0,False,False,True,False,False,30
+2014,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3756.0,False,False,True,False,False,40
+2014,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4364.0,False,False,True,False,False,50
+2014,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,3811.0,False,False,True,False,False,60
+2014,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1483.0,False,False,True,False,False,70
+2014,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,2052.0,False,False,True,False,False,20
+2014,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,3027.0,False,False,True,False,False,30
+2014,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3114.0,False,False,True,False,False,40
+2014,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3603.0,False,False,True,False,False,50
+2014,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3133.0,False,False,True,False,False,60
+2014,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1251.0,False,False,True,False,False,70
+2014,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,641.0,False,False,True,False,False,20
+2014,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,659.0,False,False,True,False,False,30
+2014,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,642.0,False,False,True,False,False,40
+2014,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,761.0,False,False,True,False,False,50
+2014,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,677.0,False,False,True,False,False,60
+2014,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,233.0,False,False,True,False,False,70
+2014,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5219.0,False,False,True,False,False,20
+2014,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,9974.0,False,False,True,False,False,30
+2014,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10616.0,False,False,True,False,False,40
+2014,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13934.0,False,False,True,False,False,50
+2014,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11244.0,False,False,True,False,False,60
+2014,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3378.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,8011.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,14106.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14546.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,18436.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,15512.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4791.0,False,False,True,False,False,70
+2015,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2675.0,False,False,True,False,False,20
+2015,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,3713.0,False,False,True,False,False,30
+2015,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3880.0,False,False,True,False,False,40
+2015,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4508.0,False,False,True,False,False,50
+2015,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,3894.0,False,False,True,False,False,60
+2015,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1469.0,False,False,True,False,False,70
+2015,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,1999.0,False,False,True,False,False,20
+2015,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,3004.0,False,False,True,False,False,30
+2015,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3173.0,False,False,True,False,False,40
+2015,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3670.0,False,False,True,False,False,50
+2015,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3125.0,False,False,True,False,False,60
+2015,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1201.0,False,False,True,False,False,70
+2015,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,676.0,False,False,True,False,False,20
+2015,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,709.0,False,False,True,False,False,30
+2015,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,706.0,False,False,True,False,False,40
+2015,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,837.0,False,False,True,False,False,50
+2015,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,770.0,False,False,True,False,False,60
+2015,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,269.0,False,False,True,False,False,70
+2015,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5336.0,False,False,True,False,False,20
+2015,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,10394.0,False,False,True,False,False,30
+2015,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10667.0,False,False,True,False,False,40
+2015,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13928.0,False,False,True,False,False,50
+2015,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11618.0,False,False,True,False,False,60
+2015,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3322.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,8147.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,14662.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14740.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,18231.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,15767.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,5096.0,False,False,True,False,False,70
+2016,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2913.0,False,False,True,False,False,20
+2016,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,3902.0,False,False,True,False,False,30
+2016,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3937.0,False,False,True,False,False,40
+2016,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4560.0,False,False,True,False,False,50
+2016,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,4072.0,False,False,True,False,False,60
+2016,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1675.0,False,False,True,False,False,70
+2016,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,2159.0,False,False,True,False,False,20
+2016,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,3083.0,False,False,True,False,False,30
+2016,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3161.0,False,False,True,False,False,40
+2016,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3670.0,False,False,True,False,False,50
+2016,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3227.0,False,False,True,False,False,60
+2016,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1363.0,False,False,True,False,False,70
+2016,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,753.0,False,False,True,False,False,20
+2016,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,819.0,False,False,True,False,False,30
+2016,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,776.0,False,False,True,False,False,40
+2016,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,890.0,False,False,True,False,False,50
+2016,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,845.0,False,False,True,False,False,60
+2016,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,312.0,False,False,True,False,False,70
+2016,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5235.0,False,False,True,False,False,20
+2016,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,10760.0,False,False,True,False,False,30
+2016,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10803.0,False,False,True,False,False,40
+2016,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13671.0,False,False,True,False,False,50
+2016,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11696.0,False,False,True,False,False,60
+2016,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3421.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,8207.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,15261.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14868.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,17871.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,15919.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,5434.0,False,False,True,False,False,70
+2017,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2651.0,False,False,True,False,False,20
+2017,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,3960.0,False,False,True,False,False,30
+2017,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3938.0,False,False,True,False,False,40
+2017,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4504.0,False,False,True,False,False,50
+2017,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,4053.0,False,False,True,False,False,60
+2017,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1715.0,False,False,True,False,False,70
+2017,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,2000.0,False,False,True,False,False,20
+2017,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,3153.0,False,False,True,False,False,30
+2017,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3189.0,False,False,True,False,False,40
+2017,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3653.0,False,False,True,False,False,50
+2017,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3242.0,False,False,True,False,False,60
+2017,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1415.0,False,False,True,False,False,70
+2017,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,651.0,False,False,True,False,False,20
+2017,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,807.0,False,False,True,False,False,30
+2017,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,749.0,False,False,True,False,False,40
+2017,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,852.0,False,False,True,False,False,50
+2017,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,811.0,False,False,True,False,False,60
+2017,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,300.0,False,False,True,False,False,70
+2017,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5556.0,False,False,True,False,False,20
+2017,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,11301.0,False,False,True,False,False,30
+2017,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10930.0,False,False,True,False,False,40
+2017,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13367.0,False,False,True,False,False,50
+2017,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11866.0,False,False,True,False,False,60
+2017,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3720.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,8348.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,16208.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,15286.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,17857.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,16161.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,5594.0,False,False,True,False,False,70
+2018,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,2709.0,False,False,True,False,False,20
+2018,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,4160.0,False,False,True,False,False,30
+2018,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,3966.0,False,False,True,False,False,40
+2018,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,4467.0,False,False,True,False,False,50
+2018,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,4114.0,False,False,True,False,False,60
+2018,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,1833.0,False,False,True,False,False,70
+2018,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,2032.0,False,False,True,False,False,20
+2018,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,3321.0,False,False,True,False,False,30
+2018,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,3222.0,False,False,True,False,False,40
+2018,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,3634.0,False,False,True,False,False,50
+2018,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,3295.0,False,False,True,False,False,60
+2018,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,1510.0,False,False,True,False,False,70
+2018,2016A000212,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,677.0,False,False,True,False,False,20
+2018,2016A000212,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,839.0,False,False,True,False,False,30
+2018,2016A000212,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,744.0,False,False,True,False,False,40
+2018,2016A000212,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,834.0,False,False,True,False,False,50
+2018,2016A000212,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,819.0,False,False,True,False,False,60
+2018,2016A000212,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,324.0,False,False,True,False,False,70
+2018,2016A000212,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,5639.0,False,False,True,False,False,20
+2018,2016A000212,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,12048.0,False,False,True,False,False,30
+2018,2016A000212,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,11320.0,False,False,True,False,False,40
+2018,2016A000212,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,13390.0,False,False,True,False,False,50
+2018,2016A000212,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,12047.0,False,False,True,False,False,60
+2018,2016A000212,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3761.0,False,False,True,False,False,70
+2013,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,85637.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,159232.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,150619.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,174470.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,133766.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,42788.0,False,False,False,True,False,70
+2013,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,37081.0,False,False,False,True,False,20
+2013,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,59354.0,False,False,False,True,False,30
+2013,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,57581.0,False,False,False,True,False,40
+2013,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,63785.0,False,False,False,True,False,50
+2013,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,50211.0,False,False,False,True,False,60
+2013,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,18744.0,False,False,False,True,False,70
+2013,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,25099.0,False,False,False,True,False,20
+2013,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,44193.0,False,False,False,True,False,30
+2013,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,43667.0,False,False,False,True,False,40
+2013,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,48381.0,False,False,False,True,False,50
+2013,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,38564.0,False,False,False,True,False,60
+2013,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,14816.0,False,False,False,True,False,70
+2013,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,11983.0,False,False,False,True,False,20
+2013,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,15160.0,False,False,False,True,False,30
+2013,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,13915.0,False,False,False,True,False,40
+2013,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,15404.0,False,False,False,True,False,50
+2013,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11647.0,False,False,False,True,False,60
+2013,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3928.0,False,False,False,True,False,70
+2013,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,48556.0,False,False,False,True,False,20
+2013,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,99878.0,False,False,False,True,False,30
+2013,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,93038.0,False,False,False,True,False,40
+2013,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,110685.0,False,False,False,True,False,50
+2013,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,83555.0,False,False,False,True,False,60
+2013,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,24044.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,87229.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,163643.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,152308.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,175163.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,137012.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,45187.0,False,False,False,True,False,70
+2014,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,38238.0,False,False,False,True,False,20
+2014,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,61214.0,False,False,False,True,False,30
+2014,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,58319.0,False,False,False,True,False,40
+2014,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,64583.0,False,False,False,True,False,50
+2014,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,51431.0,False,False,False,True,False,60
+2014,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,19618.0,False,False,False,True,False,70
+2014,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,25846.0,False,False,False,True,False,20
+2014,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,45561.0,False,False,False,True,False,30
+2014,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,44285.0,False,False,False,True,False,40
+2014,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,48967.0,False,False,False,True,False,50
+2014,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,39464.0,False,False,False,True,False,60
+2014,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,15607.0,False,False,False,True,False,70
+2014,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,12391.0,False,False,False,True,False,20
+2014,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,15653.0,False,False,False,True,False,30
+2014,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14034.0,False,False,False,True,False,40
+2014,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,15616.0,False,False,False,True,False,50
+2014,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,11967.0,False,False,False,True,False,60
+2014,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4011.0,False,False,False,True,False,70
+2014,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,48992.0,False,False,False,True,False,20
+2014,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,102429.0,False,False,False,True,False,30
+2014,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,93989.0,False,False,False,True,False,40
+2014,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,110580.0,False,False,False,True,False,50
+2014,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,85581.0,False,False,False,True,False,60
+2014,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,25569.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,86998.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,168893.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,155587.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,178195.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,141677.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,46824.0,False,False,False,True,False,70
+2015,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,39001.0,False,False,False,True,False,20
+2015,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,64129.0,False,False,False,True,False,30
+2015,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,60299.0,False,False,False,True,False,40
+2015,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,66876.0,False,False,False,True,False,50
+2015,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,53749.0,False,False,False,True,False,60
+2015,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,20500.0,False,False,False,True,False,70
+2015,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,26416.0,False,False,False,True,False,20
+2015,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,47195.0,False,False,False,True,False,30
+2015,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,45409.0,False,False,False,True,False,40
+2015,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,50211.0,False,False,False,True,False,50
+2015,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,40875.0,False,False,False,True,False,60
+2015,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,16234.0,False,False,False,True,False,70
+2015,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,12585.0,False,False,False,True,False,20
+2015,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,16934.0,False,False,False,True,False,30
+2015,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,14890.0,False,False,False,True,False,40
+2015,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,16665.0,False,False,False,True,False,50
+2015,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,12875.0,False,False,False,True,False,60
+2015,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4266.0,False,False,False,True,False,70
+2015,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,47997.0,False,False,False,True,False,20
+2015,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,104764.0,False,False,False,True,False,30
+2015,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,95288.0,False,False,False,True,False,40
+2015,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,111319.0,False,False,False,True,False,50
+2015,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,87927.0,False,False,False,True,False,60
+2015,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,26324.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,90107.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,174569.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,159862.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,177120.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,144806.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,51332.0,False,False,False,True,False,70
+2016,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,40796.0,False,False,False,True,False,20
+2016,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,66529.0,False,False,False,True,False,30
+2016,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,62029.0,False,False,False,True,False,40
+2016,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,67178.0,False,False,False,True,False,50
+2016,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,55599.0,False,False,False,True,False,60
+2016,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,22795.0,False,False,False,True,False,70
+2016,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,28205.0,False,False,False,True,False,20
+2016,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,49009.0,False,False,False,True,False,30
+2016,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,46853.0,False,False,False,True,False,40
+2016,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,50783.0,False,False,False,True,False,50
+2016,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,42448.0,False,False,False,True,False,60
+2016,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,18085.0,False,False,False,True,False,70
+2016,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,12591.0,False,False,False,True,False,20
+2016,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,17521.0,False,False,False,True,False,30
+2016,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,15175.0,False,False,False,True,False,40
+2016,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,16395.0,False,False,False,True,False,50
+2016,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,13152.0,False,False,False,True,False,60
+2016,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4710.0,False,False,False,True,False,70
+2016,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,49312.0,False,False,False,True,False,20
+2016,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,108040.0,False,False,False,True,False,30
+2016,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,97833.0,False,False,False,True,False,40
+2016,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,109942.0,False,False,False,True,False,50
+2016,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,89206.0,False,False,False,True,False,60
+2016,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,28538.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,88843.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,178876.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,163687.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,175824.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,147160.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,54192.0,False,False,False,True,False,70
+2017,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,39283.0,False,False,False,True,False,20
+2017,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,68194.0,False,False,False,True,False,30
+2017,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,63857.0,False,False,False,True,False,40
+2017,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,67792.0,False,False,False,True,False,50
+2017,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,57356.0,False,False,False,True,False,60
+2017,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,24215.0,False,False,False,True,False,70
+2017,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,27867.0,False,False,False,True,False,20
+2017,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,50405.0,False,False,False,True,False,30
+2017,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,48212.0,False,False,False,True,False,40
+2017,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,51312.0,False,False,False,True,False,50
+2017,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,43835.0,False,False,False,True,False,60
+2017,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,19319.0,False,False,False,True,False,70
+2017,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,11417.0,False,False,False,True,False,20
+2017,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,17789.0,False,False,False,True,False,30
+2017,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,15645.0,False,False,False,True,False,40
+2017,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,16480.0,False,False,False,True,False,50
+2017,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,13521.0,False,False,False,True,False,60
+2017,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,4896.0,False,False,False,True,False,70
+2017,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,49560.0,False,False,False,True,False,20
+2017,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,110681.0,False,False,False,True,False,30
+2017,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,99830.0,False,False,False,True,False,40
+2017,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,108032.0,False,False,False,True,False,50
+2017,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,89804.0,False,False,False,True,False,60
+2017,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,29977.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,90604.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,182572.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,165893.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,172646.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,148422.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,57962.0,False,False,False,True,False,70
+2018,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,39288.0,False,False,False,True,False,20
+2018,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,69908.0,False,False,False,True,False,30
+2018,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,65097.0,False,False,False,True,False,40
+2018,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,67678.0,False,False,False,True,False,50
+2018,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,58849.0,False,False,False,True,False,60
+2018,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,26400.0,False,False,False,True,False,70
+2018,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,28110.0,False,False,False,True,False,20
+2018,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,51985.0,False,False,False,True,False,30
+2018,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,49389.0,False,False,False,True,False,40
+2018,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,51585.0,False,False,False,True,False,50
+2018,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,45174.0,False,False,False,True,False,60
+2018,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,21250.0,False,False,False,True,False,70
+2018,2016A000235,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,11177.0,False,False,False,True,False,20
+2018,2016A000235,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,17924.0,False,False,False,True,False,30
+2018,2016A000235,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,15708.0,False,False,False,True,False,40
+2018,2016A000235,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,16093.0,False,False,False,True,False,50
+2018,2016A000235,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,13675.0,False,False,False,True,False,60
+2018,2016A000235,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,5151.0,False,False,False,True,False,70
+2018,2016A000235,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,51317.0,False,False,False,True,False,20
+2018,2016A000235,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,112664.0,False,False,False,True,False,30
+2018,2016A000235,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,100797.0,False,False,False,True,False,40
+2018,2016A000235,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,104968.0,False,False,False,True,False,50
+2018,2016A000235,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,89573.0,False,False,False,True,False,60
+2018,2016A000235,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,31561.0,False,False,False,True,False,70
+2013,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,59024.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,126989.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,125826.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,139306.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,108382.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,29225.0,False,False,False,False,True,70
+2013,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,23452.0,False,False,False,False,True,20
+2013,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,38667.0,False,False,False,False,True,30
+2013,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,38412.0,False,False,False,False,True,40
+2013,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,39482.0,False,False,False,False,True,50
+2013,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,34970.0,False,False,False,False,True,60
+2013,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,11389.0,False,False,False,False,True,70
+2013,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,15873.0,False,False,False,False,True,20
+2013,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,29383.0,False,False,False,False,True,30
+2013,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,29503.0,False,False,False,False,True,40
+2013,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,30178.0,False,False,False,False,True,50
+2013,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,26992.0,False,False,False,False,True,60
+2013,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,9211.0,False,False,False,False,True,70
+2013,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7579.0,False,False,False,False,True,20
+2013,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,9284.0,False,False,False,False,True,30
+2013,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,8909.0,False,False,False,False,True,40
+2013,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,9304.0,False,False,False,False,True,50
+2013,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,7978.0,False,False,False,False,True,60
+2013,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2178.0,False,False,False,False,True,70
+2013,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,35572.0,False,False,False,False,True,20
+2013,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,88322.0,False,False,False,False,True,30
+2013,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,87414.0,False,False,False,False,True,40
+2013,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,99824.0,False,False,False,False,True,50
+2013,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,73412.0,False,False,False,False,True,60
+2013,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,17836.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,59691.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,125983.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,127395.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,135565.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,110853.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,31514.0,False,False,False,False,True,70
+2014,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,24134.0,False,False,False,False,True,20
+2014,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,37465.0,False,False,False,False,True,30
+2014,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,38182.0,False,False,False,False,True,40
+2014,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,37871.0,False,False,False,False,True,50
+2014,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,35711.0,False,False,False,False,True,60
+2014,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,12527.0,False,False,False,False,True,70
+2014,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,16420.0,False,False,False,False,True,20
+2014,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,28622.0,False,False,False,False,True,30
+2014,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,29572.0,False,False,False,False,True,40
+2014,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,29262.0,False,False,False,False,True,50
+2014,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,27835.0,False,False,False,False,True,60
+2014,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,10170.0,False,False,False,False,True,70
+2014,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7714.0,False,False,False,False,True,20
+2014,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,8844.0,False,False,False,False,True,30
+2014,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,8610.0,False,False,False,False,True,40
+2014,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,8610.0,False,False,False,False,True,50
+2014,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,7876.0,False,False,False,False,True,60
+2014,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2358.0,False,False,False,False,True,70
+2014,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,35557.0,False,False,False,False,True,20
+2014,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,88518.0,False,False,False,False,True,30
+2014,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,89212.0,False,False,False,False,True,40
+2014,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,97693.0,False,False,False,False,True,50
+2014,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,75143.0,False,False,False,False,True,60
+2014,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,18987.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,58840.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,125134.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,129660.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,133039.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,113177.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,32567.0,False,False,False,False,True,70
+2015,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,24230.0,False,False,False,False,True,20
+2015,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,37403.0,False,False,False,False,True,30
+2015,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,39349.0,False,False,False,False,True,40
+2015,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,37719.0,False,False,False,False,True,50
+2015,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,36908.0,False,False,False,False,True,60
+2015,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,13025.0,False,False,False,False,True,70
+2015,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,16756.0,False,False,False,False,True,20
+2015,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,28090.0,False,False,False,False,True,30
+2015,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,30025.0,False,False,False,False,True,40
+2015,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,28775.0,False,False,False,False,True,50
+2015,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,28415.0,False,False,False,False,True,60
+2015,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,10553.0,False,False,False,False,True,70
+2015,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7474.0,False,False,False,False,True,20
+2015,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,9313.0,False,False,False,False,True,30
+2015,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,9324.0,False,False,False,False,True,40
+2015,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,8944.0,False,False,False,False,True,50
+2015,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,8492.0,False,False,False,False,True,60
+2015,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2472.0,False,False,False,False,True,70
+2015,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,34610.0,False,False,False,False,True,20
+2015,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,87732.0,False,False,False,False,True,30
+2015,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,90311.0,False,False,False,False,True,40
+2015,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,95320.0,False,False,False,False,True,50
+2015,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,76270.0,False,False,False,False,True,60
+2015,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,19542.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,57934.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,125985.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,132846.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,132622.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,113479.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,33195.0,False,False,False,False,True,70
+2016,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,23495.0,False,False,False,False,True,20
+2016,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,38660.0,False,False,False,False,True,30
+2016,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,40773.0,False,False,False,False,True,40
+2016,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,38421.0,False,False,False,False,True,50
+2016,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,37214.0,False,False,False,False,True,60
+2016,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,13197.0,False,False,False,False,True,70
+2016,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,15998.0,False,False,False,False,True,20
+2016,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,28886.0,False,False,False,False,True,30
+2016,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,31114.0,False,False,False,False,True,40
+2016,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,29422.0,False,False,False,False,True,50
+2016,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,28661.0,False,False,False,False,True,60
+2016,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,10592.0,False,False,False,False,True,70
+2016,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7497.0,False,False,False,False,True,20
+2016,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,9774.0,False,False,False,False,True,30
+2016,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,9660.0,False,False,False,False,True,40
+2016,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,8999.0,False,False,False,False,True,50
+2016,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,8553.0,False,False,False,False,True,60
+2016,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,2605.0,False,False,False,False,True,70
+2016,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,34439.0,False,False,False,False,True,20
+2016,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,87325.0,False,False,False,False,True,30
+2016,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,92073.0,False,False,False,False,True,40
+2016,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,94201.0,False,False,False,False,True,50
+2016,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,76265.0,False,False,False,False,True,60
+2016,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,19998.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,57415.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,125403.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,132424.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,128817.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,111898.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,34539.0,False,False,False,False,True,70
+2017,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,23635.0,False,False,False,False,True,20
+2017,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,39252.0,False,False,False,False,True,30
+2017,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,41012.0,False,False,False,False,True,40
+2017,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,38023.0,False,False,False,False,True,50
+2017,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,37669.0,False,False,False,False,True,60
+2017,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,14820.0,False,False,False,False,True,70
+2017,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,16573.0,False,False,False,False,True,20
+2017,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,29170.0,False,False,False,False,True,30
+2017,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,31069.0,False,False,False,False,True,40
+2017,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,28944.0,False,False,False,False,True,50
+2017,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,28776.0,False,False,False,False,True,60
+2017,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,11802.0,False,False,False,False,True,70
+2017,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7062.0,False,False,False,False,True,20
+2017,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,10082.0,False,False,False,False,True,30
+2017,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,9944.0,False,False,False,False,True,40
+2017,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,9079.0,False,False,False,False,True,50
+2017,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,8893.0,False,False,False,False,True,60
+2017,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3018.0,False,False,False,False,True,70
+2017,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,33780.0,False,False,False,False,True,20
+2017,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,86151.0,False,False,False,False,True,30
+2017,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,91412.0,False,False,False,False,True,40
+2017,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,90794.0,False,False,False,False,True,50
+2017,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,74230.0,False,False,False,False,True,60
+2017,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,19719.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,59280.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,128601.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,136804.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,129373.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,113867.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions,65 years old and over,Number of jobs,Jobs,units,36648.0,False,False,False,False,True,70
+2018,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Number of jobs,Jobs,units,23822.0,False,False,False,False,True,20
+2018,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Number of jobs,Jobs,units,40246.0,False,False,False,False,True,30
+2018,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Number of jobs,Jobs,units,42063.0,False,False,False,False,True,40
+2018,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Number of jobs,Jobs,units,38434.0,False,False,False,False,True,50
+2018,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Number of jobs,Jobs,units,38044.0,False,False,False,False,True,60
+2018,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Number of jobs,Jobs,units,15454.0,False,False,False,False,True,70
+2018,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Number of jobs,Jobs,units,16709.0,False,False,False,False,True,20
+2018,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Number of jobs,Jobs,units,29960.0,False,False,False,False,True,30
+2018,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Number of jobs,Jobs,units,32000.0,False,False,False,False,True,40
+2018,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Number of jobs,Jobs,units,29447.0,False,False,False,False,True,50
+2018,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Number of jobs,Jobs,units,29063.0,False,False,False,False,True,60
+2018,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Number of jobs,Jobs,units,12182.0,False,False,False,False,True,70
+2018,2016A000224,Business non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,7113.0,False,False,False,False,True,20
+2018,2016A000224,Business non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,10286.0,False,False,False,False,True,30
+2018,2016A000224,Business non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,10062.0,False,False,False,False,True,40
+2018,2016A000224,Business non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,8987.0,False,False,False,False,True,50
+2018,2016A000224,Business non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,8981.0,False,False,False,False,True,60
+2018,2016A000224,Business non-profit institutions,65 years old and over,Number of jobs,Jobs,units,3273.0,False,False,False,False,True,70
+2018,2016A000224,Government non-profit institutions,15 to 24 years,Number of jobs,Jobs,units,35458.0,False,False,False,False,True,20
+2018,2016A000224,Government non-profit institutions,25 to 34 years,Number of jobs,Jobs,units,88355.0,False,False,False,False,True,30
+2018,2016A000224,Government non-profit institutions,35 to 44 years,Number of jobs,Jobs,units,94741.0,False,False,False,False,True,40
+2018,2016A000224,Government non-profit institutions,45 to 54 years,Number of jobs,Jobs,units,90939.0,False,False,False,False,True,50
+2018,2016A000224,Government non-profit institutions,55 to 64 years,Number of jobs,Jobs,units,75824.0,False,False,False,False,True,60
+2018,2016A000224,Government non-profit institutions,65 years old and over,Number of jobs,Jobs,units,21194.0,False,False,False,False,True,70

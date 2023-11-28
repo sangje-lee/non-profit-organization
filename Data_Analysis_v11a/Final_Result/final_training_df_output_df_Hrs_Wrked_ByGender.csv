@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2013,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,130501.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,294784.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,51391.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,74956.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,34477.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,57998.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,16914.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,16958.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,79110.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,219828.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,129848.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,295262.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,51140.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,76772.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,34610.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,59676.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,16530.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,17096.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,78708.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,218490.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,132281.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,295343.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,53014.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,78318.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,35599.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,60720.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,17415.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,17597.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,79267.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,217026.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,132889.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,302422.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,49920.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,77305.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,33378.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,59736.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,16542.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,17569.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,82969.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,225117.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,131187.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,299596.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,49227.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,78006.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,33505.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,60582.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,15723.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,17425.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,81960.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,221589.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,138891.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,314980.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,53441.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,83352.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,37540.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,64490.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,15901.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,18862.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,85450.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,231628.0,True,False,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,148811.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,305899.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,62809.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,96013.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,40939.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,75215.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,21870.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,20798.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,86002.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,209886.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,147678.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,308562.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,62732.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,98269.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,40774.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,76496.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,21959.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,21773.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,84946.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,210293.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,156634.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,319340.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,68270.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,103348.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,43796.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,79206.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,24474.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,24142.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,88364.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,215993.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,159461.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,325829.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,69940.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,106754.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,44754.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,81395.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,25186.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,25359.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,89521.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,219075.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,156138.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,325379.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,68653.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,107704.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,43974.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,82073.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,24679.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,25630.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,87485.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,217675.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,165239.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,342270.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,71889.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,112679.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,47325.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,85629.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,24563.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,27050.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,93350.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,229591.0,False,True,False,False,False,0
+2013,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,32905.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,81739.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,10959.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,20144.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,7934.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,16846.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3026.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3298.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,21946.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,61595.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,34570.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,86287.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,10826.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,20424.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,7980.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,17312.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,2846.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3112.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,23744.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,65863.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,35759.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,87279.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,11493.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,21171.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8237.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,17703.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3256.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3468.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,24266.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,66108.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,37299.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,90641.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,11737.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,21403.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8337.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,17610.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3400.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3793.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,25561.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,69238.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,36079.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,88243.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,11352.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,21116.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8135.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,17470.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3217.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3646.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,24727.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,67128.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,36962.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,92388.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,11537.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,22246.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,8287.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,18390.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,3250.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,3857.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,25426.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,70142.0,False,False,True,False,False,0
+2013,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,378968.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,803896.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,171193.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,288110.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,114323.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,224868.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,56870.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,63242.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,207774.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,515786.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,383944.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,817689.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,171370.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,295402.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,114638.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,231031.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,56732.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,64371.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,212574.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,522288.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,394995.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,841848.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,177530.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,305264.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,116422.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,235721.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,61108.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,69544.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,217465.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,536584.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,403448.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,865286.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,179660.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,317863.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,118337.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,246543.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,61324.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,71320.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,223787.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,547423.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,406553.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,878349.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,181939.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,325351.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,121391.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,252596.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,60548.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,72755.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,224614.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,552998.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,408820.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,895657.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,178802.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,335410.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,119065.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,262356.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,59737.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,73055.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,230019.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,560247.0,False,False,False,True,False,0
+2013,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,268665.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,609341.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,95541.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,180976.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,62370.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,143120.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33171.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,37856.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,173124.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,428365.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,263982.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,610251.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,94705.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,180875.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,62797.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,143713.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,31908.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,37162.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,169277.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,429377.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,265152.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,608983.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,96395.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,182284.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,62535.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,142911.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33861.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,39373.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,168756.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,426699.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,271490.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,620156.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,98039.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,185290.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,64091.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,144993.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33948.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,40297.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,173452.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,434867.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,264929.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,615385.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,96524.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,187915.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,63133.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,146340.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33392.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,41575.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,168404.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,427470.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Male employees,Hours worked,Hours,thousands,272370.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Female employees,Hours worked,Hours,thousands,633728.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Male employees,Hours worked,Hours,thousands,98624.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Female employees,Hours worked,Hours,thousands,193323.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Hours worked,Hours,thousands,64874.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Hours worked,Hours,thousands,150489.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Male employees,Hours worked,Hours,thousands,33750.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Female employees,Hours worked,Hours,thousands,42834.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Male employees,Hours worked,Hours,thousands,173746.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Female employees,Hours worked,Hours,thousands,440406.0,False,False,False,False,True,0

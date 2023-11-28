@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Education_group
+2013,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1805.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,690.0,True,False,False,False,False,2
+2013,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7071.0,True,False,False,False,False,3
+2013,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,724.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,250.0,True,False,False,False,False,2
+2013,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1479.0,True,False,False,False,False,3
+2013,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,429.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,146.0,True,False,False,False,False,2
+2013,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1073.0,True,False,False,False,False,3
+2013,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,295.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,104.0,True,False,False,False,False,2
+2013,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,406.0,True,False,False,False,False,3
+2013,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1080.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,440.0,True,False,False,False,False,2
+2013,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,5592.0,True,False,False,False,False,3
+2014,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1878.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,668.0,True,False,False,False,False,2
+2014,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7295.0,True,False,False,False,False,3
+2014,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,768.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,255.0,True,False,False,False,False,2
+2014,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1565.0,True,False,False,False,False,3
+2014,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,459.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,148.0,True,False,False,False,False,2
+2014,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1137.0,True,False,False,False,False,3
+2014,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,309.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,106.0,True,False,False,False,False,2
+2014,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,428.0,True,False,False,False,False,3
+2014,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1110.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,413.0,True,False,False,False,False,2
+2014,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,5730.0,True,False,False,False,False,3
+2015,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1964.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,650.0,True,False,False,False,False,2
+2015,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7651.0,True,False,False,False,False,3
+2015,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,801.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,249.0,True,False,False,False,False,2
+2015,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1627.0,True,False,False,False,False,3
+2015,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,480.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,147.0,True,False,False,False,False,2
+2015,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1193.0,True,False,False,False,False,3
+2015,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,322.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,103.0,True,False,False,False,False,2
+2015,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,434.0,True,False,False,False,False,3
+2015,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1163.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,401.0,True,False,False,False,False,2
+2015,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6024.0,True,False,False,False,False,3
+2016,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1947.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,614.0,True,False,False,False,False,2
+2016,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7922.0,True,False,False,False,False,3
+2016,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,784.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,219.0,True,False,False,False,False,2
+2016,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1659.0,True,False,False,False,False,3
+2016,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,489.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,132.0,True,False,False,False,False,2
+2016,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1215.0,True,False,False,False,False,3
+2016,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,295.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,87.0,True,False,False,False,False,2
+2016,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,445.0,True,False,False,False,False,3
+2016,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1163.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,395.0,True,False,False,False,False,2
+2016,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6262.0,True,False,False,False,False,3
+2017,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1953.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,605.0,True,False,False,False,False,2
+2017,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8231.0,True,False,False,False,False,3
+2017,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,780.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,216.0,True,False,False,False,False,2
+2017,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1720.0,True,False,False,False,False,3
+2017,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,498.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,133.0,True,False,False,False,False,2
+2017,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1285.0,True,False,False,False,False,3
+2017,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,283.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,83.0,True,False,False,False,False,2
+2017,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,436.0,True,False,False,False,False,3
+2017,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1173.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,389.0,True,False,False,False,False,2
+2017,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6511.0,True,False,False,False,False,3
+2018,2016A000248,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1980.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,600.0,True,False,False,False,False,2
+2018,2016A000248,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8631.0,True,False,False,False,False,3
+2018,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,792.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,215.0,True,False,False,False,False,2
+2018,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1823.0,True,False,False,False,False,3
+2018,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,511.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,133.0,True,False,False,False,False,2
+2018,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1356.0,True,False,False,False,False,3
+2018,2016A000248,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,281.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,81.0,True,False,False,False,False,2
+2018,2016A000248,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,467.0,True,False,False,False,False,3
+2018,2016A000248,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1188.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,385.0,True,False,False,False,False,2
+2018,2016A000248,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6808.0,True,False,False,False,False,3
+2013,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1642.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,605.0,False,True,False,False,False,2
+2013,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7823.0,False,True,False,False,False,3
+2013,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,787.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,219.0,False,True,False,False,False,2
+2013,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,1964.0,False,True,False,False,False,3
+2013,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,480.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,126.0,False,True,False,False,False,2
+2013,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1506.0,False,True,False,False,False,3
+2013,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,307.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,93.0,False,True,False,False,False,2
+2013,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,458.0,False,True,False,False,False,3
+2013,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,855.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,386.0,False,True,False,False,False,2
+2013,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,5860.0,False,True,False,False,False,3
+2014,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1711.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,575.0,False,True,False,False,False,2
+2014,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8023.0,False,True,False,False,False,3
+2014,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,813.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,215.0,False,True,False,False,False,2
+2014,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2011.0,False,True,False,False,False,3
+2014,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,496.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,122.0,False,True,False,False,False,2
+2014,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1534.0,False,True,False,False,False,3
+2014,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,317.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,93.0,False,True,False,False,False,2
+2014,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,477.0,False,True,False,False,False,3
+2014,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,898.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,360.0,False,True,False,False,False,2
+2014,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6012.0,False,True,False,False,False,3
+2015,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1810.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,552.0,False,True,False,False,False,2
+2015,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8338.0,False,True,False,False,False,3
+2015,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,892.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,220.0,False,True,False,False,False,2
+2015,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2168.0,False,True,False,False,False,3
+2015,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,523.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,118.0,False,True,False,False,False,2
+2015,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1622.0,False,True,False,False,False,3
+2015,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,369.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,102.0,False,True,False,False,False,2
+2015,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,545.0,False,True,False,False,False,3
+2015,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,918.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,332.0,False,True,False,False,False,2
+2015,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6171.0,False,True,False,False,False,3
+2016,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1864.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,553.0,False,True,False,False,False,2
+2016,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,8814.0,False,True,False,False,False,3
+2016,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,922.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,223.0,False,True,False,False,False,2
+2016,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2335.0,False,True,False,False,False,3
+2016,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,553.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,122.0,False,True,False,False,False,2
+2016,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1733.0,False,True,False,False,False,3
+2016,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,369.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,100.0,False,True,False,False,False,2
+2016,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,602.0,False,True,False,False,False,3
+2016,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,941.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,331.0,False,True,False,False,False,2
+2016,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6479.0,False,True,False,False,False,3
+2017,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1931.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,550.0,False,True,False,False,False,2
+2017,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9135.0,False,True,False,False,False,3
+2017,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,966.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,226.0,False,True,False,False,False,2
+2017,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2471.0,False,True,False,False,False,3
+2017,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,578.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,122.0,False,True,False,False,False,2
+2017,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1840.0,False,True,False,False,False,3
+2017,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,389.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,103.0,False,True,False,False,False,2
+2017,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,631.0,False,True,False,False,False,3
+2017,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,965.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,325.0,False,True,False,False,False,2
+2017,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,6663.0,False,True,False,False,False,3
+2018,2016A000259,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1991.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,549.0,False,True,False,False,False,2
+2018,2016A000259,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9728.0,False,True,False,False,False,3
+2018,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,988.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,223.0,False,True,False,False,False,2
+2018,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,2648.0,False,True,False,False,False,3
+2018,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,596.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,123.0,False,True,False,False,False,2
+2018,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,1956.0,False,True,False,False,False,3
+2018,2016A000259,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,393.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,100.0,False,True,False,False,False,2
+2018,2016A000259,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,692.0,False,True,False,False,False,3
+2018,2016A000259,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1002.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,326.0,False,True,False,False,False,2
+2018,2016A000259,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,7080.0,False,True,False,False,False,3
+2013,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,346.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,172.0,False,False,True,False,False,2
+2013,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1714.0,False,False,True,False,False,3
+2013,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,102.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,40.0,False,False,True,False,False,2
+2013,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,310.0,False,False,True,False,False,3
+2013,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,70.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,29.0,False,False,True,False,False,2
+2013,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,251.0,False,False,True,False,False,3
+2013,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,32.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0,False,False,True,False,False,2
+2013,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,59.0,False,False,True,False,False,3
+2013,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,244.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,132.0,False,False,True,False,False,2
+2013,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1405.0,False,False,True,False,False,3
+2014,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,364.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,171.0,False,False,True,False,False,2
+2014,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1789.0,False,False,True,False,False,3
+2014,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,107.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,40.0,False,False,True,False,False,2
+2014,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,324.0,False,False,True,False,False,3
+2014,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,75.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,29.0,False,False,True,False,False,2
+2014,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,265.0,False,False,True,False,False,3
+2014,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,32.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0,False,False,True,False,False,2
+2014,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,59.0,False,False,True,False,False,3
+2014,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,257.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,131.0,False,False,True,False,False,2
+2014,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1465.0,False,False,True,False,False,3
+2015,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,371.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,166.0,False,False,True,False,False,2
+2015,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1850.0,False,False,True,False,False,3
+2015,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,113.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,39.0,False,False,True,False,False,2
+2015,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,337.0,False,False,True,False,False,3
+2015,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,76.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,27.0,False,False,True,False,False,2
+2015,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,270.0,False,False,True,False,False,3
+2015,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,37.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0,False,False,True,False,False,2
+2015,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,67.0,False,False,True,False,False,3
+2015,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,258.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,127.0,False,False,True,False,False,2
+2015,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1513.0,False,False,True,False,False,3
+2016,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,383.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,162.0,False,False,True,False,False,2
+2016,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1902.0,False,False,True,False,False,3
+2016,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,121.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,40.0,False,False,True,False,False,2
+2016,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,348.0,False,False,True,False,False,3
+2016,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,81.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,28.0,False,False,True,False,False,2
+2016,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,272.0,False,False,True,False,False,3
+2016,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,40.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0,False,False,True,False,False,2
+2016,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,76.0,False,False,True,False,False,3
+2016,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,263.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,122.0,False,False,True,False,False,2
+2016,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1554.0,False,False,True,False,False,3
+2017,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,391.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,158.0,False,False,True,False,False,2
+2017,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1941.0,False,False,True,False,False,3
+2017,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,120.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,38.0,False,False,True,False,False,2
+2017,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,361.0,False,False,True,False,False,3
+2017,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,80.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,27.0,False,False,True,False,False,2
+2017,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,284.0,False,False,True,False,False,3
+2017,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,39.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,12.0,False,False,True,False,False,2
+2017,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,77.0,False,False,True,False,False,3
+2017,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,271.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,119.0,False,False,True,False,False,2
+2017,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1580.0,False,False,True,False,False,3
+2018,2016A000212,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,419.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,160.0,False,False,True,False,False,2
+2018,2016A000212,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2114.0,False,False,True,False,False,3
+2018,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,125.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,38.0,False,False,True,False,False,2
+2018,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,379.0,False,False,True,False,False,3
+2018,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,84.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,27.0,False,False,True,False,False,2
+2018,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,297.0,False,False,True,False,False,3
+2018,2016A000212,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,41.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,11.0,False,False,True,False,False,2
+2018,2016A000212,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,82.0,False,False,True,False,False,3
+2018,2016A000212,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,293.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,122.0,False,False,True,False,False,2
+2018,2016A000212,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1735.0,False,False,True,False,False,3
+2013,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4108.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1131.0,False,False,False,True,False,2
+2013,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,20493.0,False,False,False,True,False,3
+2013,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1867.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,463.0,False,False,False,True,False,2
+2013,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,6145.0,False,False,False,True,False,3
+2013,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1161.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,302.0,False,False,False,True,False,2
+2013,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,4520.0,False,False,False,True,False,3
+2013,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,706.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,161.0,False,False,False,True,False,2
+2013,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1624.0,False,False,False,True,False,3
+2013,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2241.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,668.0,False,False,False,True,False,2
+2013,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,14349.0,False,False,False,True,False,3
+2014,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4339.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1099.0,False,False,False,True,False,2
+2014,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,21454.0,False,False,False,True,False,3
+2014,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1972.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,461.0,False,False,False,True,False,2
+2014,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,6409.0,False,False,False,True,False,3
+2014,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1224.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,298.0,False,False,False,True,False,2
+2014,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,4680.0,False,False,False,True,False,3
+2014,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,748.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,163.0,False,False,False,True,False,2
+2014,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1729.0,False,False,False,True,False,3
+2014,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2366.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,638.0,False,False,False,True,False,2
+2014,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15045.0,False,False,False,True,False,3
+2015,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4581.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1078.0,False,False,False,True,False,2
+2015,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,22595.0,False,False,False,True,False,3
+2015,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2086.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,466.0,False,False,False,True,False,2
+2015,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,6831.0,False,False,False,True,False,3
+2015,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1268.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,294.0,False,False,False,True,False,2
+2015,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,4907.0,False,False,False,True,False,3
+2015,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,818.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,171.0,False,False,False,True,False,2
+2015,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1924.0,False,False,False,True,False,3
+2015,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2494.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,613.0,False,False,False,True,False,2
+2015,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15764.0,False,False,False,True,False,3
+2016,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4632.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1046.0,False,False,False,True,False,2
+2016,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,23503.0,False,False,False,True,False,3
+2016,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2130.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,452.0,False,False,False,True,False,2
+2016,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,7202.0,False,False,False,True,False,3
+2016,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1320.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,292.0,False,False,False,True,False,2
+2016,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,5138.0,False,False,False,True,False,3
+2016,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,810.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,161.0,False,False,False,True,False,2
+2016,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2065.0,False,False,False,True,False,3
+2016,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2503.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,593.0,False,False,False,True,False,2
+2016,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,16300.0,False,False,False,True,False,3
+2017,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4667.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1019.0,False,False,False,True,False,2
+2017,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,24364.0,False,False,False,True,False,3
+2017,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2182.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,448.0,False,False,False,True,False,2
+2017,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,7655.0,False,False,False,True,False,3
+2017,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1366.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,290.0,False,False,False,True,False,2
+2017,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,5466.0,False,False,False,True,False,3
+2017,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,815.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,158.0,False,False,False,True,False,2
+2017,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2189.0,False,False,False,True,False,3
+2017,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2485.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,571.0,False,False,False,True,False,2
+2017,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,16709.0,False,False,False,True,False,3
+2018,2016A000235,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,4817.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,1007.0,False,False,False,True,False,2
+2018,2016A000235,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,25744.0,False,False,False,True,False,3
+2018,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,2293.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,446.0,False,False,False,True,False,2
+2018,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,8163.0,False,False,False,True,False,3
+2018,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,1458.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,292.0,False,False,False,True,False,2
+2018,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,5799.0,False,False,False,True,False,3
+2018,2016A000235,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,836.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,154.0,False,False,False,True,False,2
+2018,2016A000235,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,2363.0,False,False,False,True,False,3
+2018,2016A000235,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2523.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,561.0,False,False,False,True,False,2
+2018,2016A000235,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,17581.0,False,False,False,True,False,3
+2013,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2840.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2948.0,False,False,False,False,True,2
+2013,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,12747.0,False,False,False,False,True,3
+2013,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1061.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,628.0,False,False,False,False,True,2
+2013,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3078.0,False,False,False,False,True,3
+2013,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,718.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,432.0,False,False,False,False,True,2
+2013,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2291.0,False,False,False,False,True,3
+2013,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,342.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,196.0,False,False,False,False,True,2
+2013,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,787.0,False,False,False,False,True,3
+2013,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1780.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2320.0,False,False,False,False,True,2
+2013,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9670.0,False,False,False,False,True,3
+2014,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2880.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3076.0,False,False,False,False,True,2
+2014,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,13130.0,False,False,False,False,True,3
+2014,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1088.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,643.0,False,False,False,False,True,2
+2014,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3152.0,False,False,False,False,True,3
+2014,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,748.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,449.0,False,False,False,False,True,2
+2014,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2367.0,False,False,False,False,True,3
+2014,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,340.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,193.0,False,False,False,False,True,2
+2014,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,785.0,False,False,False,False,True,3
+2014,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1792.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2434.0,False,False,False,False,True,2
+2014,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,9979.0,False,False,False,False,True,3
+2015,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2904.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3209.0,False,False,False,False,True,2
+2015,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,13442.0,False,False,False,False,True,3
+2015,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1121.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,665.0,False,False,False,False,True,2
+2015,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3194.0,False,False,False,False,True,3
+2015,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,764.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,459.0,False,False,False,False,True,2
+2015,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2361.0,False,False,False,False,True,3
+2015,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,357.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,206.0,False,False,False,False,True,2
+2015,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,833.0,False,False,False,False,True,3
+2015,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1783.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2544.0,False,False,False,False,True,2
+2015,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,10248.0,False,False,False,False,True,3
+2016,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2927.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3225.0,False,False,False,False,True,2
+2016,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,13839.0,False,False,False,False,True,3
+2016,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1121.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,661.0,False,False,False,False,True,2
+2016,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3347.0,False,False,False,False,True,3
+2016,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,759.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,458.0,False,False,False,False,True,2
+2016,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2444.0,False,False,False,False,True,3
+2016,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,361.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,204.0,False,False,False,False,True,2
+2016,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,904.0,False,False,False,False,True,3
+2016,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1807.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2563.0,False,False,False,False,True,2
+2016,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,10492.0,False,False,False,False,True,3
+2017,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,2998.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3275.0,False,False,False,False,True,2
+2017,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,14173.0,False,False,False,False,True,3
+2017,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1156.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,674.0,False,False,False,False,True,2
+2017,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3491.0,False,False,False,False,True,3
+2017,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,782.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,464.0,False,False,False,False,True,2
+2017,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2521.0,False,False,False,False,True,3
+2017,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,373.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,209.0,False,False,False,False,True,2
+2017,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,971.0,False,False,False,False,True,3
+2017,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1842.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2601.0,False,False,False,False,True,2
+2017,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,10682.0,False,False,False,False,True,3
+2018,2016A000224,Total non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,3146.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,3428.0,False,False,False,False,True,2
+2018,2016A000224,Total non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,15061.0,False,False,False,False,True,3
+2018,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Wages and salaries,Dollars,millions,1196.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Wages and salaries,Dollars,millions,693.0,False,False,False,False,True,2
+2018,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Wages and salaries,Dollars,millions,3736.0,False,False,False,False,True,3
+2018,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Wages and salaries,Dollars,millions,811.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Wages and salaries,Dollars,millions,480.0,False,False,False,False,True,2
+2018,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Wages and salaries,Dollars,millions,2678.0,False,False,False,False,True,3
+2018,2016A000224,Business non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,385.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,212.0,False,False,False,False,True,2
+2018,2016A000224,Business non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,1058.0,False,False,False,False,True,3
+2018,2016A000224,Government non-profit institutions,High school diploma and less,Wages and salaries,Dollars,millions,1950.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Trade certificate,Wages and salaries,Dollars,millions,2735.0,False,False,False,False,True,2
+2018,2016A000224,Government non-profit institutions,University degree and higher,Wages and salaries,Dollars,millions,11325.0,False,False,False,False,True,3

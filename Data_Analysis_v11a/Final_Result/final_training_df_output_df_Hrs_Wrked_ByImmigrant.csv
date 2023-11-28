@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2013,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,122310.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,302975.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,29643.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,96705.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,22332.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,70143.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7311.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,26561.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,92667.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,206270.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,124877.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,300234.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,30402.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,97510.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,23128.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,71159.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7275.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,26351.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,94474.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,202724.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,127416.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,300209.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,31678.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,99654.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,23929.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,72390.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7748.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,27264.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,95738.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,200555.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,132444.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,302866.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,31614.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,95611.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,23850.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,69263.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7763.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,26348.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,100831.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,207256.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,132803.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,297980.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,32156.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,95078.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,24407.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,69679.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,7748.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,25399.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,100647.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,202902.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,141499.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,312373.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,35455.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,101338.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,27206.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,74824.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,8249.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,26514.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,106043.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,211035.0,True,False,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,146784.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,307926.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,45894.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,112928.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,33447.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,82707.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12447.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,30221.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,100890.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,194998.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,147346.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,308894.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,46389.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,114613.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,33740.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,83530.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12649.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,31082.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,100957.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,194282.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,155118.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,320857.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,50196.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,121422.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,35943.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,87059.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,14253.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,34363.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,104922.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,199435.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,159872.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,325419.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,52395.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,124299.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,37233.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,88916.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,15162.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,35384.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,107476.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,201119.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,160016.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,321501.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,53015.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,123341.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,37464.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,88583.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,15551.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,34759.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,107000.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,198160.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,170545.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,336964.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,55975.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,128593.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,39967.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,92987.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,16008.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,35605.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,114569.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,208371.0,False,True,False,False,False,1
+2013,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10329.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,104315.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2091.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,29012.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1686.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,23094.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,405.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,5919.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,8238.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,75303.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11148.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,109709.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2102.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,29148.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1719.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,23573.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,383.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,5575.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,9046.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,80561.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11604.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,111434.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2206.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,30458.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1776.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,24164.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,429.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6295.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,9399.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,80976.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12535.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,115405.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2331.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,30809.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1844.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,24103.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,487.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6707.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10204.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,84595.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12545.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,111777.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2402.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,30065.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,1911.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,23695.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,491.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6371.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10142.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,81712.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,13269.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,116082.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,2605.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,31178.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,2071.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,24606.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,534.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,6572.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10664.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,84904.0,False,False,True,False,False,1
+2013,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,363960.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,818903.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,134296.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,325007.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,98572.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,240619.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,35724.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,84388.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,229664.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,493897.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,369810.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,831823.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,136073.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,330698.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,100351.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,245318.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,35723.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,85380.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,233736.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,501125.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,382641.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,854202.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,141133.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,341662.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,102227.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,249915.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,38905.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,91747.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,241508.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,512540.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,397388.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,871345.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,148344.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,349180.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,107514.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,257366.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,40830.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,91814.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,249045.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,522165.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,407564.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,877338.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,153276.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,354014.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,111130.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,262857.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,42147.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,91157.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,254287.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,523325.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,416572.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,887906.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,155906.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,358306.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,113515.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,267906.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,42391.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,90400.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,260666.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,529600.0,False,False,False,True,False,1
+2013,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,142748.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,735259.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,41489.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,235028.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,31300.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,174190.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10189.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,60838.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,101258.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,500231.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,144232.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,730002.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,42192.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,233388.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,32131.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,174379.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10061.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,59009.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,102040.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,496614.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,146879.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,727256.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,43406.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,235274.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,32457.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,172989.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,10949.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,62285.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,103473.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,491982.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,155875.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,735772.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,45961.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,237367.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,34171.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,174913.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,11791.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,62454.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,109914.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,498405.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,157934.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,722380.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,47351.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,237088.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,34912.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,174560.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,12439.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,62528.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,110583.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,485292.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,168303.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,737796.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Hours worked,Hours,thousands,50155.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Hours worked,Hours,thousands,241792.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Hours worked,Hours,thousands,37031.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Hours worked,Hours,thousands,178332.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,13124.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,63460.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Immigrant employees,Hours worked,Hours,thousands,118147.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Non-immigrant employees,Hours worked,Hours,thousands,496005.0,False,False,False,False,True,1

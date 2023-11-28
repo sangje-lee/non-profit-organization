@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2013,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4404.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8258.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1485.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,1658.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,894.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1214.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,591.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,443.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,2919.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6600.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4524.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8493.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1562.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,1760.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,947.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1289.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,615.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,471.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,2962.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6733.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4761.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8830.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1618.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,1826.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,984.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1350.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,634.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,476.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3143.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,7005.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4758.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,9054.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1542.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,1868.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,953.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1395.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,589.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,473.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3216.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,7186.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4832.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,9316.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1549.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,1919.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,993.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1445.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,556.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,474.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3283.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,7397.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4965.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,9670.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1583.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2014.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1027.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1510.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,556.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,505.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3382.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,7655.0,True,False,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4673.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8245.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1634.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2078.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1019.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1617.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,615.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,461.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3038.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6166.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4732.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8532.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1651.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2155.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1024.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1672.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,627.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,483.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3081.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6377.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,4974.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,8803.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1815.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2291.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1100.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1732.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,715.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,559.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3160.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6512.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5188.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,9174.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1897.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2447.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1160.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1847.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,738.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,600.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3291.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6727.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5289.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,9512.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,1970.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2586.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1208.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,1950.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,762.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,636.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3318.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,6926.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5538.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,10003.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2055.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,2725.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1277.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,2035.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,777.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,690.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,3483.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,7278.0,False,True,False,False,False,0
+2013,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,931.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2105.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,229.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,373.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,160.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,309.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,69.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,64.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,702.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1732.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,965.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2211.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,236.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,398.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,167.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,333.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,69.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,64.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,729.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1814.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1004.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2260.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,249.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,412.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,170.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,340.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,79.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,72.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,755.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1849.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1027.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2301.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,261.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,422.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,177.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,341.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,84.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,81.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,766.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1880.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1033.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2343.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,262.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,434.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,179.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,351.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,84.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,82.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,771.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1909.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1093.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2545.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,269.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,457.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,185.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,369.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,84.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,88.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,824.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2088.0,False,False,True,False,False,0
+2013,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,12319.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,22806.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,4676.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,6491.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,2984.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,4970.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1693.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1521.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,7643.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,16315.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,12805.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,23867.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,4833.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,6862.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,3054.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,5234.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1779.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1628.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,7972.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,17005.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,13457.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,25123.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,5153.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,7312.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,3178.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,5507.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1974.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1805.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8304.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,17811.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,13800.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,25786.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,5294.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,7681.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,3277.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,5788.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,2017.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1893.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8507.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,18105.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,14096.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,26424.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,5476.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,8096.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,3416.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,6103.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,2059.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1993.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8620.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,18328.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,14658.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,27632.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,5660.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,8671.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,3522.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,6537.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,2138.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,2134.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8998.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,18960.0,False,False,False,True,False,0
+2013,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,7936.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,16115.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2301.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,3815.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1450.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3006.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,851.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,810.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5635.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,12300.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8111.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,16621.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2348.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,3932.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1502.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3121.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,846.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,812.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5763.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,12688.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8288.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,17025.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2423.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,3996.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1527.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3134.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,896.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,862.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5864.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,13029.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8465.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,17310.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2485.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,4120.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1558.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3202.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,927.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,918.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,5980.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,13190.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8567.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,17702.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2542.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,4302.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1583.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3311.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,959.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,991.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,6026.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,13400.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Male employees,Wages and salaries,Dollars,millions,8997.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Female employees,Wages and salaries,Dollars,millions,18738.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Male employees,Wages and salaries,Dollars,millions,2651.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Female employees,Wages and salaries,Dollars,millions,4592.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Wages and salaries,Dollars,millions,1649.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Wages and salaries,Dollars,millions,3523.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Male employees,Wages and salaries,Dollars,millions,1002.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Female employees,Wages and salaries,Dollars,millions,1069.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Male employees,Wages and salaries,Dollars,millions,6346.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Female employees,Wages and salaries,Dollars,millions,14145.0,False,False,False,False,True,0

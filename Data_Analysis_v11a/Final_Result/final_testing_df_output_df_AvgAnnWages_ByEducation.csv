@@ -1,0 +1,226 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Education_group
+2019,2016A000248,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,32899.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,49683.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,62907.0,True,False,False,False,False,3
+2019,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,31049.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,50529.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,52671.0,True,False,False,False,False,3
+2019,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,28352.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,44685.0,True,False,False,False,False,2
+2019,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,49651.0,True,False,False,False,False,3
+2019,2016A000248,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,37950.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,63746.0,True,False,False,False,False,2
+2019,2016A000248,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,63862.0,True,False,False,False,False,3
+2019,2016A000248,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34317.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,49206.0,True,False,False,False,False,2
+2019,2016A000248,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,66430.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34810.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,51104.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,64178.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,33817.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,53187.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,55743.0,True,False,False,False,False,3
+2020,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,31266.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,47194.0,True,False,False,False,False,2
+2020,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,52347.0,True,False,False,False,False,3
+2020,2016A000248,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,39887.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,66374.0,True,False,False,False,False,2
+2020,2016A000248,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,67671.0,True,False,False,False,False,3
+2020,2016A000248,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,35480.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,50053.0,True,False,False,False,False,2
+2020,2016A000248,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,66855.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,35040.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,51371.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,64981.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,33988.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,53538.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,56160.0,True,False,False,False,False,3
+2021,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,31915.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,48227.0,True,False,False,False,False,2
+2021,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,53196.0,True,False,False,False,False,3
+2021,2016A000248,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,38562.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,64340.0,True,False,False,False,False,2
+2021,2016A000248,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,65957.0,True,False,False,False,False,3
+2021,2016A000248,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,35764.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,50255.0,True,False,False,False,False,2
+2021,2016A000248,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,67846.0,True,False,False,False,False,3
+2019,2016A000259,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,31387.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42984.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,59158.0,False,True,False,False,False,3
+2019,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,30878.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,42350.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,49433.0,False,True,False,False,False,3
+2019,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,27493.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,34985.0,False,True,False,False,False,2
+2019,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,47422.0,False,True,False,False,False,3
+2019,2016A000259,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,37834.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,55458.0,False,True,False,False,False,2
+2019,2016A000259,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,55992.0,False,True,False,False,False,3
+2019,2016A000259,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,31904.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,43448.0,False,True,False,False,False,2
+2019,2016A000259,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,63848.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33438.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45429.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,62266.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,33646.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,45153.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,53994.0,False,True,False,False,False,3
+2020,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,31013.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,39161.0,False,True,False,False,False,2
+2020,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,51863.0,False,True,False,False,False,3
+2020,2016A000259,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,39327.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,56957.0,False,True,False,False,False,2
+2020,2016A000259,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61054.0,False,True,False,False,False,3
+2020,2016A000259,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33267.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45593.0,False,True,False,False,False,2
+2020,2016A000259,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,65718.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33826.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45512.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,62824.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,33640.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,44890.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,54414.0,False,True,False,False,False,3
+2021,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,31039.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,38648.0,False,True,False,False,False,2
+2021,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,52203.0,False,True,False,False,False,3
+2021,2016A000259,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,38998.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,57051.0,False,True,False,False,False,2
+2021,2016A000259,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61166.0,False,True,False,False,False,3
+2021,2016A000259,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33994.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45913.0,False,True,False,False,False,2
+2021,2016A000259,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,66686.0,False,True,False,False,False,3
+2019,2016A000212,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,26265.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,37785.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,57336.0,False,False,True,False,False,3
+2019,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,22562.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,33962.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,44678.0,False,False,True,False,False,3
+2019,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,20536.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,30787.0,False,False,True,False,False,2
+2019,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,42833.0,False,False,True,False,False,3
+2019,2016A000212,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,28248.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,44169.0,False,False,True,False,False,2
+2019,2016A000212,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,52514.0,False,False,True,False,False,3
+2019,2016A000212,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,28243.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,39254.0,False,False,True,False,False,2
+2019,2016A000212,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61259.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,28401.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,40448.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61153.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,23839.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,35669.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,48188.0,False,False,True,False,False,3
+2020,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,22093.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,32865.0,False,False,True,False,False,2
+2020,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,46063.0,False,False,True,False,False,3
+2020,2016A000212,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,29040.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45788.0,False,False,True,False,False,2
+2020,2016A000212,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,57018.0,False,False,True,False,False,3
+2020,2016A000212,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,30699.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42126.0,False,False,True,False,False,2
+2020,2016A000212,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,64992.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,28187.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,40753.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,62945.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,24068.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,35691.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,48299.0,False,False,True,False,False,3
+2021,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,22335.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,32862.0,False,False,True,False,False,2
+2021,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,46260.0,False,False,True,False,False,3
+2021,2016A000212,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,29265.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45747.0,False,False,True,False,False,2
+2021,2016A000212,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,56607.0,False,False,True,False,False,3
+2021,2016A000212,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,30254.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42621.0,False,False,True,False,False,2
+2021,2016A000212,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,67488.0,False,False,True,False,False,3
+2019,2016A000235,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,30880.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42203.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,64925.0,False,False,False,True,False,3
+2019,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,29100.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,41457.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,56293.0,False,False,False,True,False,3
+2019,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,26108.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,36899.0,False,False,False,True,False,2
+2019,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,52065.0,False,False,False,True,False,3
+2019,2016A000235,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,36485.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,53434.0,False,False,False,True,False,2
+2019,2016A000235,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,70120.0,False,False,False,True,False,3
+2019,2016A000235,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,32738.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42828.0,False,False,False,True,False,2
+2019,2016A000235,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,69883.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33550.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,44843.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,68127.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,32624.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,45057.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,61522.0,False,False,False,True,False,3
+2020,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,29402.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,40485.0,False,False,False,True,False,2
+2020,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,56804.0,False,False,False,True,False,3
+2020,2016A000235,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,40995.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,57508.0,False,False,False,True,False,2
+2020,2016A000235,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,76517.0,False,False,False,True,False,3
+2020,2016A000235,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34376.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,44683.0,False,False,False,True,False,2
+2020,2016A000235,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,71538.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34009.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45450.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,69294.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,33413.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,45633.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,62795.0,False,False,False,True,False,3
+2021,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,30329.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,41106.0,False,False,False,True,False,2
+2021,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,58040.0,False,False,False,True,False,3
+2021,2016A000235,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,41040.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,57430.0,False,False,False,True,False,2
+2021,2016A000235,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,76827.0,False,False,False,True,False,3
+2021,2016A000235,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34542.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,45312.0,False,False,False,True,False,2
+2021,2016A000235,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,72672.0,False,False,False,True,False,3
+2019,2016A000224,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,28664.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,37990.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61783.0,False,False,False,False,True,3
+2019,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,25888.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,32207.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,48911.0,False,False,False,False,True,3
+2019,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,23932.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,29523.0,False,False,False,False,True,2
+2019,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,46269.0,False,False,False,False,True,3
+2019,2016A000224,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,31124.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,40063.0,False,False,False,False,True,2
+2019,2016A000224,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,56771.0,False,False,False,False,True,3
+2019,2016A000224,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,30599.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,39758.0,False,False,False,False,True,2
+2019,2016A000224,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,67606.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,31225.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,40776.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,65214.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,28218.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,34663.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,52945.0,False,False,False,False,True,3
+2020,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,26346.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,32162.0,False,False,False,False,True,2
+2020,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,50094.0,False,False,False,False,True,3
+2020,2016A000224,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33477.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42561.0,False,False,False,False,True,2
+2020,2016A000224,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,61710.0,False,False,False,False,True,3
+2020,2016A000224,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33028.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,42378.0,False,False,False,False,True,2
+2020,2016A000224,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,70201.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,31272.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,41382.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,66265.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Average annual wages and salaries,Dollars,units,28157.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Average annual wages and salaries,Dollars,units,34829.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Average annual wages and salaries,Dollars,units,53380.0,False,False,False,False,True,3
+2021,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Average annual wages and salaries,Dollars,units,25993.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Average annual wages and salaries,Dollars,units,32016.0,False,False,False,False,True,2
+2021,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Average annual wages and salaries,Dollars,units,50227.0,False,False,False,False,True,3
+2021,2016A000224,Business non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,34167.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,43560.0,False,False,False,False,True,2
+2021,2016A000224,Business non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,62684.0,False,False,False,False,True,3
+2021,2016A000224,Government non-profit institutions,High school diploma and less,Average annual wages and salaries,Dollars,units,33219.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Trade certificate,Average annual wages and salaries,Dollars,units,43197.0,False,False,False,False,True,2
+2021,2016A000224,Government non-profit institutions,University degree and higher,Average annual wages and salaries,Dollars,units,71749.0,False,False,False,False,True,3

@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2019,2016A000248,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,90539.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,201668.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,22578.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,65069.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,17485.0,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,48802.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5093.0,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,16267.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,67961.0,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,136599.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,88434.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,190005.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,20721.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,56713.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,15942.0,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,41923.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,4779.0,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,14791.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,67713.0,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,133292.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,91679.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,198756.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,22051.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,59804.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,16706.0,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,43377.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,5345.0,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,16426.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,69628.0,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,138952.0,True,False,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,111771.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,223001.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,37208.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,85605.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,27088.0,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,62703.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,10120.0,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,22902.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,74563.0,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,137397.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,113957.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,220590.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,33891.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,75946.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,24933.0,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,56216.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8958.0,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,19730.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,80066.0,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,144644.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,117655.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,230430.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,37187.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,84077.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,26945.0,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,61196.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,10243.0,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,22881.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,80468.0,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,146352.0,False,True,False,False,False,1
+2019,2016A000212,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8569.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,72769.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1757.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19736.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1411.0,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15603.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,345.0,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4133.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6812.0,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,53033.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8695.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,70806.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1735.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,18446.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1398.0,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,14680.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,337.0,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,3765.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,6960.0,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,52360.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,9024.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,74046.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,1839.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,19761.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,1475.0,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,15697.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,364.0,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,4064.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7185.0,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,54285.0,False,False,True,False,False,1
+2019,2016A000235,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,266973.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,563524.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,102335.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,231412.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,76433.0,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,176206.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,25902.0,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,55206.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,164638.0,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,332112.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,261063.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,537764.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,92660.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,204018.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,69049.0,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,155780.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,23611.0,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,48237.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,168403.0,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,333747.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,274559.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,566338.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,97910.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,215808.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,71699.0,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,162449.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,26211.0,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,53359.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,176649.0,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,350531.0,False,False,False,True,False,1
+2019,2016A000224,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,118767.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,498098.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,35433.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,164048.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,26851.0,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,122812.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8581.0,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,41236.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,83335.0,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,334050.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,121713.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,490462.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,33448.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,148087.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,25644.0,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,112242.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,7804.0,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,35845.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,88265.0,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,342375.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,127288.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,519666.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Number of jobs,Jobs,units,36296.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Number of jobs,Jobs,units,161698.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Number of jobs,Jobs,units,27608.0,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Number of jobs,Jobs,units,121739.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,8688.0,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,39959.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Immigrant employees,Number of jobs,Jobs,units,90992.0,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Non-immigrant employees,Number of jobs,Jobs,units,357968.0,False,False,False,False,True,1

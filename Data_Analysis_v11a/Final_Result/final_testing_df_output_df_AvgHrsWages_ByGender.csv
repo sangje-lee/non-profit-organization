@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2019,2016A000248,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.32,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.99,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,31.6,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.7,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.72,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.13,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.64,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.65,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.82,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.26,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.26,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.52,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,35.26,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,28.11,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,33.26,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,27.15,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.46,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,31.34,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,41.31,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.3,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.65,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.36,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,33.3,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,27.29,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,31.47,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,26.56,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.06,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.58,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.99,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.05,True,False,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.58,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.8,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.41,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,25.48,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.63,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.02,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.69,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,26.94,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.56,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.41,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.87,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.07,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,32.57,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,28.29,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,30.81,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,27.87,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.25,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.62,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,41.37,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.09,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.4,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.42,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,33.33,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,28.47,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,31.59,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,27.85,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.68,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.37,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.17,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.18,False,True,False,False,False,0
+2019,2016A000212,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,29.68,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,27.58,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,23.49,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,21.18,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,22.2,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,20.71,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,26.73,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,23.39,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.56,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.6,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,31.11,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,29.38,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.89,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.04,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.76,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.63,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.93,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.84,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.22,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.88,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,32.43,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.5,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,25.7,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,23.56,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,24.66,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,23.03,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,28.45,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.94,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,35.4,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.61,False,False,True,False,False,0
+2019,2016A000235,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.14,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.53,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,32.15,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.94,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,29.84,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.94,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.8,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.56,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,41.14,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.95,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.35,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.53,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,36.29,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,30.64,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,34.03,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,29.63,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.78,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.13,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,41.38,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,36.55,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.19,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,34.03,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,35.86,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,30.03,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,33.53,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,28.91,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.27,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.77,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,41.44,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,36.17,False,False,False,True,False,0
+2019,2016A000224,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.23,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,30.49,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,28.01,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,24.47,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,26.5,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,24.16,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,30.73,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,25.55,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.7,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.09,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,37.1,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,33.04,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.32,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.59,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.76,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,26.18,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,33.36,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.08,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,40.48,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.59,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Male employees,Average hourly wage,Dollars,units,36.79,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Female employees,Average hourly wage,Dollars,units,32.85,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Male employees,Average hourly wage,Dollars,units,30.56,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Female employees,Average hourly wage,Dollars,units,26.57,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average hourly wage,Dollars,units,28.71,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average hourly wage,Dollars,units,25.88,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Male employees,Average hourly wage,Dollars,units,34.09,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Female employees,Average hourly wage,Dollars,units,28.97,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Male employees,Average hourly wage,Dollars,units,39.97,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Female employees,Average hourly wage,Dollars,units,35.38,False,False,False,False,True,0

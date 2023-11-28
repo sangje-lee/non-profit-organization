@@ -1,0 +1,301 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Immigrant_status
+2013,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2013,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2013,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2013,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2013,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2013,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,0
+2013,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2013,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2013,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2014,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2014,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2014,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2014,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2014,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,0
+2014,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2014,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2014,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2015,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2015,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2015,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2015,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2015,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,True,False,False,False,False,0
+2015,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2015,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2015,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2016,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2016,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2016,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2016,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2016,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2016,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2016,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2016,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2017,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2017,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2017,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,0
+2017,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,True,False,False,False,False,1
+2017,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2017,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2017,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,0
+2017,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2018,2016A000248,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2018,2016A000248,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2018,2016A000248,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2018,2016A000248,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2018,2016A000248,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2018,2016A000248,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,1
+2018,2016A000248,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,True,False,False,False,False,0
+2018,2016A000248,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,True,False,False,False,False,1
+2013,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2013,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2013,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2013,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2013,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2013,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,0
+2013,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2013,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2013,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2014,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2014,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2014,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2014,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2014,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,0
+2014,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2014,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2014,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2015,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2015,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2015,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2015,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2015,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,0
+2015,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2015,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2015,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2016,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2016,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2016,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2016,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2016,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,0
+2016,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2016,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2016,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2017,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,0
+2017,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2017,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,0
+2017,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,True,False,False,False,1
+2017,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2017,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2017,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2017,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2018,2016A000259,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2018,2016A000259,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2018,2016A000259,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,0
+2018,2016A000259,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,True,False,False,False,1
+2018,2016A000259,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,True,False,False,False,0
+2018,2016A000259,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,1
+2018,2016A000259,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,True,False,False,False,0
+2018,2016A000259,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,True,False,False,False,1
+2013,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2013,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2013,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2013,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2013,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2013,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,0
+2013,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2013,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2013,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2014,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2014,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2014,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2014,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2014,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2014,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2014,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,0
+2014,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2015,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2015,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2015,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2015,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2015,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,0
+2015,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2015,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,0
+2015,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2016,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2016,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2016,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2016,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2016,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2016,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2016,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,34.0,False,False,True,False,False,0
+2016,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2017,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2017,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2017,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,True,False,False,0
+2017,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2017,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,0
+2017,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2017,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2017,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2018,2016A000212,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2018,2016A000212,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,True,False,False,1
+2018,2016A000212,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,0
+2018,2016A000212,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,True,False,False,1
+2018,2016A000212,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2018,2016A000212,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2018,2016A000212,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,0
+2018,2016A000212,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,True,False,False,1
+2013,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2013,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2013,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2013,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2013,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2013,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,0
+2013,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,1
+2013,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2013,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2014,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2014,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2014,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2014,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2014,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,0
+2014,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2014,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2014,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2015,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2015,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2015,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2015,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2015,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,0
+2015,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,1
+2015,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2015,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2016,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2016,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2016,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2016,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2016,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,0
+2016,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,1
+2016,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2016,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2017,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2017,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2017,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2017,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2017,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,33.0,False,False,False,True,False,0
+2017,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,1
+2017,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2017,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2018,2016A000235,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2018,2016A000235,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2018,2016A000235,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,0
+2018,2016A000235,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,True,False,1
+2018,2016A000235,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,0
+2018,2016A000235,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,32.0,False,False,False,True,False,1
+2018,2016A000235,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,0
+2018,2016A000235,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,True,False,1
+2013,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2013,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2013,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2013,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2013,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2013,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2013,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2013,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2013,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2014,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2014,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2014,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2014,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2014,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2014,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2014,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2014,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2015,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2015,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2015,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2015,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2015,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,0
+2015,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,31.0,False,False,False,False,True,1
+2015,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2015,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2016,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2016,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2016,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2016,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2016,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2016,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2016,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2016,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2017,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2017,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2017,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2017,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2017,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2017,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2017,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2017,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1
+2018,2016A000224,Total non-profit institutions excluding governments,Immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,0
+2018,2016A000224,Total non-profit institutions excluding governments,Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2018,2016A000224,Non-profit institutions serving households (community organizations),Immigrant employees,Average weekly hours worked,Hours,units,27.0,False,False,False,False,True,0
+2018,2016A000224,Non-profit institutions serving households (community organizations),Non-immigrant employees,Average weekly hours worked,Hours,units,28.0,False,False,False,False,True,1
+2018,2016A000224,Business non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,0
+2018,2016A000224,Business non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,30.0,False,False,False,False,True,1
+2018,2016A000224,Government non-profit institutions,Immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,0
+2018,2016A000224,Government non-profit institutions,Non-immigrant employees,Average weekly hours worked,Hours,units,29.0,False,False,False,False,True,1

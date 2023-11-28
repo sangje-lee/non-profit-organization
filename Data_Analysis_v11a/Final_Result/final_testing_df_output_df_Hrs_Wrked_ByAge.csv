@@ -1,0 +1,451 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Age_group
+2019,2016A000248,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,26338.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,103814.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,113444.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,107469.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,84984.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,21428.0,True,False,False,False,False,70
+2019,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,10783.0,True,False,False,False,False,20
+2019,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,31114.0,True,False,False,False,False,30
+2019,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,33062.0,True,False,False,False,False,40
+2019,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,30322.0,True,False,False,False,False,50
+2019,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,24729.0,True,False,False,False,False,60
+2019,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,7345.0,True,False,False,False,False,70
+2019,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,7776.0,True,False,False,False,False,20
+2019,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,22682.0,True,False,False,False,False,30
+2019,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,24378.0,True,False,False,False,False,40
+2019,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,22657.0,True,False,False,False,False,50
+2019,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,18476.0,True,False,False,False,False,60
+2019,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,5630.0,True,False,False,False,False,70
+2019,2016A000248,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,3007.0,True,False,False,False,False,20
+2019,2016A000248,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,8432.0,True,False,False,False,False,30
+2019,2016A000248,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,8683.0,True,False,False,False,False,40
+2019,2016A000248,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,7666.0,True,False,False,False,False,50
+2019,2016A000248,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,6253.0,True,False,False,False,False,60
+2019,2016A000248,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,1715.0,True,False,False,False,False,70
+2019,2016A000248,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,15555.0,True,False,False,False,False,20
+2019,2016A000248,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,72700.0,True,False,False,False,False,30
+2019,2016A000248,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,80383.0,True,False,False,False,False,40
+2019,2016A000248,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,77146.0,True,False,False,False,False,50
+2019,2016A000248,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,60256.0,True,False,False,False,False,60
+2019,2016A000248,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,14083.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,22002.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,96759.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,109771.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,101499.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,79444.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,20199.0,True,False,False,False,False,70
+2020,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,8226.0,True,False,False,False,False,20
+2020,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,26700.0,True,False,False,False,False,30
+2020,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,29393.0,True,False,False,False,False,40
+2020,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,26488.0,True,False,False,False,False,50
+2020,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,21068.0,True,False,False,False,False,60
+2020,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,6403.0,True,False,False,False,False,70
+2020,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,5805.0,True,False,False,False,False,20
+2020,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,19431.0,True,False,False,False,False,30
+2020,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,21580.0,True,False,False,False,False,40
+2020,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,19773.0,True,False,False,False,False,50
+2020,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,15644.0,True,False,False,False,False,60
+2020,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,4858.0,True,False,False,False,False,70
+2020,2016A000248,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,2421.0,True,False,False,False,False,20
+2020,2016A000248,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,7268.0,True,False,False,False,False,30
+2020,2016A000248,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,7814.0,True,False,False,False,False,40
+2020,2016A000248,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,6715.0,True,False,False,False,False,50
+2020,2016A000248,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,5424.0,True,False,False,False,False,60
+2020,2016A000248,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,1545.0,True,False,False,False,False,70
+2020,2016A000248,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,13776.0,True,False,False,False,False,20
+2020,2016A000248,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,70059.0,True,False,False,False,False,30
+2020,2016A000248,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,80378.0,True,False,False,False,False,40
+2020,2016A000248,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,75011.0,True,False,False,False,False,50
+2020,2016A000248,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,58376.0,True,False,False,False,False,60
+2020,2016A000248,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,13796.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,24197.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,106219.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,120280.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,110881.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,86975.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,22007.0,True,False,False,False,False,70
+2021,2016A000248,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,9136.0,True,False,False,False,False,20
+2021,2016A000248,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,29616.0,True,False,False,False,False,30
+2021,2016A000248,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,32554.0,True,False,False,False,False,40
+2021,2016A000248,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,29329.0,True,False,False,False,False,50
+2021,2016A000248,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,23502.0,True,False,False,False,False,60
+2021,2016A000248,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,7046.0,True,False,False,False,False,70
+2021,2016A000248,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,6355.0,True,False,False,False,False,20
+2021,2016A000248,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,21246.0,True,False,False,False,False,30
+2021,2016A000248,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,23607.0,True,False,False,False,False,40
+2021,2016A000248,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,21648.0,True,False,False,False,False,50
+2021,2016A000248,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,17274.0,True,False,False,False,False,60
+2021,2016A000248,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,5255.0,True,False,False,False,False,70
+2021,2016A000248,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,2781.0,True,False,False,False,False,20
+2021,2016A000248,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,8370.0,True,False,False,False,False,30
+2021,2016A000248,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,8948.0,True,False,False,False,False,40
+2021,2016A000248,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,7681.0,True,False,False,False,False,50
+2021,2016A000248,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,6228.0,True,False,False,False,False,60
+2021,2016A000248,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,1791.0,True,False,False,False,False,70
+2021,2016A000248,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,15061.0,True,False,False,False,False,20
+2021,2016A000248,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,76603.0,True,False,False,False,False,30
+2021,2016A000248,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,87726.0,True,False,False,False,False,40
+2021,2016A000248,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,81552.0,True,False,False,False,False,50
+2021,2016A000248,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,63473.0,True,False,False,False,False,60
+2021,2016A000248,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,14960.0,True,False,False,False,False,70
+2019,2016A000259,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,26370.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,111934.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,119190.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,123431.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,105869.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,27659.0,False,True,False,False,False,70
+2019,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,11751.0,False,True,False,False,False,20
+2019,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,40528.0,False,True,False,False,False,30
+2019,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,42237.0,False,True,False,False,False,40
+2019,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,42736.0,False,True,False,False,False,50
+2019,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,38020.0,False,True,False,False,False,60
+2019,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,11541.0,False,True,False,False,False,70
+2019,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,7928.0,False,True,False,False,False,20
+2019,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,28641.0,False,True,False,False,False,30
+2019,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,30329.0,False,True,False,False,False,40
+2019,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,30955.0,False,True,False,False,False,50
+2019,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,27568.0,False,True,False,False,False,60
+2019,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,8596.0,False,True,False,False,False,70
+2019,2016A000259,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,3823.0,False,True,False,False,False,20
+2019,2016A000259,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,11887.0,False,True,False,False,False,30
+2019,2016A000259,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,11907.0,False,True,False,False,False,40
+2019,2016A000259,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,11782.0,False,True,False,False,False,50
+2019,2016A000259,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,10451.0,False,True,False,False,False,60
+2019,2016A000259,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,2944.0,False,True,False,False,False,70
+2019,2016A000259,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,14619.0,False,True,False,False,False,20
+2019,2016A000259,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,71407.0,False,True,False,False,False,30
+2019,2016A000259,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,76954.0,False,True,False,False,False,40
+2019,2016A000259,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,80694.0,False,True,False,False,False,50
+2019,2016A000259,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,67850.0,False,True,False,False,False,60
+2019,2016A000259,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,16118.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,24713.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,112964.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,120111.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,120951.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,104187.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,27532.0,False,True,False,False,False,70
+2020,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,9816.0,False,True,False,False,False,20
+2020,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,36866.0,False,True,False,False,False,30
+2020,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,38479.0,False,True,False,False,False,40
+2020,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,38196.0,False,True,False,False,False,50
+2020,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,34175.0,False,True,False,False,False,60
+2020,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,10409.0,False,True,False,False,False,70
+2020,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,6672.0,False,True,False,False,False,20
+2020,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,26377.0,False,True,False,False,False,30
+2020,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,28056.0,False,True,False,False,False,40
+2020,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,28178.0,False,True,False,False,False,50
+2020,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,25166.0,False,True,False,False,False,60
+2020,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,7830.0,False,True,False,False,False,70
+2020,2016A000259,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,3143.0,False,True,False,False,False,20
+2020,2016A000259,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,10488.0,False,True,False,False,False,30
+2020,2016A000259,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,10423.0,False,True,False,False,False,40
+2020,2016A000259,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,10018.0,False,True,False,False,False,50
+2020,2016A000259,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,9009.0,False,True,False,False,False,60
+2020,2016A000259,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,2579.0,False,True,False,False,False,70
+2020,2016A000259,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,14897.0,False,True,False,False,False,20
+2020,2016A000259,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,76098.0,False,True,False,False,False,30
+2020,2016A000259,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,81632.0,False,True,False,False,False,40
+2020,2016A000259,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,82755.0,False,True,False,False,False,50
+2020,2016A000259,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,70012.0,False,True,False,False,False,60
+2020,2016A000259,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,17123.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,27453.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,119864.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,127160.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,128148.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,110721.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,29646.0,False,True,False,False,False,70
+2021,2016A000259,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,11421.0,False,True,False,False,False,20
+2021,2016A000259,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,40393.0,False,True,False,False,False,30
+2021,2016A000259,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,41945.0,False,True,False,False,False,40
+2021,2016A000259,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,41419.0,False,True,False,False,False,50
+2021,2016A000259,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,37091.0,False,True,False,False,False,60
+2021,2016A000259,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,11571.0,False,True,False,False,False,70
+2021,2016A000259,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,7621.0,False,True,False,False,False,20
+2021,2016A000259,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,28515.0,False,True,False,False,False,30
+2021,2016A000259,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,30213.0,False,True,False,False,False,40
+2021,2016A000259,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,30187.0,False,True,False,False,False,50
+2021,2016A000259,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,26957.0,False,True,False,False,False,60
+2021,2016A000259,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,8614.0,False,True,False,False,False,70
+2021,2016A000259,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,3800.0,False,True,False,False,False,20
+2021,2016A000259,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,11878.0,False,True,False,False,False,30
+2021,2016A000259,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,11731.0,False,True,False,False,False,40
+2021,2016A000259,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,11232.0,False,True,False,False,False,50
+2021,2016A000259,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,10134.0,False,True,False,False,False,60
+2021,2016A000259,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,2957.0,False,True,False,False,False,70
+2021,2016A000259,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,16032.0,False,True,False,False,False,20
+2021,2016A000259,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,79471.0,False,True,False,False,False,30
+2021,2016A000259,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,85215.0,False,True,False,False,False,40
+2021,2016A000259,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,86729.0,False,True,False,False,False,50
+2021,2016A000259,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,73630.0,False,True,False,False,False,60
+2021,2016A000259,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,18075.0,False,True,False,False,False,70
+2019,2016A000212,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,7954.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,27899.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,28288.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,34105.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,27975.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,6039.0,False,False,True,False,False,70
+2019,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,2388.0,False,False,True,False,False,20
+2019,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,6987.0,False,False,True,False,False,30
+2019,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,7313.0,False,False,True,False,False,40
+2019,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,8685.0,False,False,True,False,False,50
+2019,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,7180.0,False,False,True,False,False,60
+2019,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,2131.0,False,False,True,False,False,70
+2019,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,1792.0,False,False,True,False,False,20
+2019,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,5471.0,False,False,True,False,False,30
+2019,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,5778.0,False,False,True,False,False,40
+2019,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,6877.0,False,False,True,False,False,50
+2019,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,5593.0,False,False,True,False,False,60
+2019,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,1727.0,False,False,True,False,False,70
+2019,2016A000212,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,596.0,False,False,True,False,False,20
+2019,2016A000212,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,1516.0,False,False,True,False,False,30
+2019,2016A000212,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,1535.0,False,False,True,False,False,40
+2019,2016A000212,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,1808.0,False,False,True,False,False,50
+2019,2016A000212,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,1587.0,False,False,True,False,False,60
+2019,2016A000212,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,405.0,False,False,True,False,False,70
+2019,2016A000212,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,5566.0,False,False,True,False,False,20
+2019,2016A000212,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,20912.0,False,False,True,False,False,30
+2019,2016A000212,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,20975.0,False,False,True,False,False,40
+2019,2016A000212,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,25420.0,False,False,True,False,False,50
+2019,2016A000212,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,20795.0,False,False,True,False,False,60
+2019,2016A000212,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,3907.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,7322.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,28375.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,28281.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,33497.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,27687.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,5878.0,False,False,True,False,False,70
+2020,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,2049.0,False,False,True,False,False,20
+2020,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,6426.0,False,False,True,False,False,30
+2020,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,6611.0,False,False,True,False,False,40
+2020,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,7821.0,False,False,True,False,False,50
+2020,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,6417.0,False,False,True,False,False,60
+2020,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,1947.0,False,False,True,False,False,70
+2020,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,1552.0,False,False,True,False,False,20
+2020,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,4992.0,False,False,True,False,False,30
+2020,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,5197.0,False,False,True,False,False,40
+2020,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,6186.0,False,False,True,False,False,50
+2020,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,5010.0,False,False,True,False,False,60
+2020,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,1586.0,False,False,True,False,False,70
+2020,2016A000212,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,497.0,False,False,True,False,False,20
+2020,2016A000212,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,1434.0,False,False,True,False,False,30
+2020,2016A000212,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,1413.0,False,False,True,False,False,40
+2020,2016A000212,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,1635.0,False,False,True,False,False,50
+2020,2016A000212,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,1407.0,False,False,True,False,False,60
+2020,2016A000212,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,361.0,False,False,True,False,False,70
+2020,2016A000212,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,5273.0,False,False,True,False,False,20
+2020,2016A000212,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,21949.0,False,False,True,False,False,30
+2020,2016A000212,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,21671.0,False,False,True,False,False,40
+2020,2016A000212,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,25676.0,False,False,True,False,False,50
+2020,2016A000212,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,21271.0,False,False,True,False,False,60
+2020,2016A000212,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,3931.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,8148.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,29111.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,28626.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,33771.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,28273.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,6208.0,False,False,True,False,False,70
+2021,2016A000212,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,2272.0,False,False,True,False,False,20
+2021,2016A000212,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,7056.0,False,False,True,False,False,30
+2021,2016A000212,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,7210.0,False,False,True,False,False,40
+2021,2016A000212,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,8503.0,False,False,True,False,False,50
+2021,2016A000212,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,6991.0,False,False,True,False,False,60
+2021,2016A000212,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,2085.0,False,False,True,False,False,70
+2021,2016A000212,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,1721.0,False,False,True,False,False,20
+2021,2016A000212,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,5503.0,False,False,True,False,False,30
+2021,2016A000212,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,5690.0,False,False,True,False,False,40
+2021,2016A000212,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,6744.0,False,False,True,False,False,50
+2021,2016A000212,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,5471.0,False,False,True,False,False,60
+2021,2016A000212,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,1689.0,False,False,True,False,False,70
+2021,2016A000212,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,551.0,False,False,True,False,False,20
+2021,2016A000212,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,1553.0,False,False,True,False,False,30
+2021,2016A000212,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,1520.0,False,False,True,False,False,40
+2021,2016A000212,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,1758.0,False,False,True,False,False,50
+2021,2016A000212,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,1519.0,False,False,True,False,False,60
+2021,2016A000212,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,396.0,False,False,True,False,False,70
+2021,2016A000212,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,5876.0,False,False,True,False,False,20
+2021,2016A000212,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,22055.0,False,False,True,False,False,30
+2021,2016A000212,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,21416.0,False,False,True,False,False,40
+2021,2016A000212,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,25268.0,False,False,True,False,False,50
+2021,2016A000212,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,21283.0,False,False,True,False,False,60
+2021,2016A000212,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,4123.0,False,False,True,False,False,70
+2019,2016A000235,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,77253.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,295246.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,297379.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,315710.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,259002.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,63033.0,False,False,False,True,False,70
+2019,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,33076.0,False,False,False,True,False,20
+2019,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,116436.0,False,False,False,True,False,30
+2019,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,116924.0,False,False,False,True,False,40
+2019,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,124613.0,False,False,False,True,False,50
+2019,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,102927.0,False,False,False,True,False,60
+2019,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,29396.0,False,False,False,True,False,70
+2019,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,23671.0,False,False,False,True,False,20
+2019,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,84711.0,False,False,False,True,False,30
+2019,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,86751.0,False,False,False,True,False,40
+2019,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,93239.0,False,False,False,True,False,50
+2019,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,77270.0,False,False,False,True,False,60
+2019,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,22972.0,False,False,False,True,False,70
+2019,2016A000235,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,9405.0,False,False,False,True,False,20
+2019,2016A000235,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,31725.0,False,False,False,True,False,30
+2019,2016A000235,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,30173.0,False,False,False,True,False,40
+2019,2016A000235,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,31374.0,False,False,False,True,False,50
+2019,2016A000235,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,25657.0,False,False,False,True,False,60
+2019,2016A000235,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,6424.0,False,False,False,True,False,70
+2019,2016A000235,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,44177.0,False,False,False,True,False,20
+2019,2016A000235,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,178810.0,False,False,False,True,False,30
+2019,2016A000235,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,180455.0,False,False,False,True,False,40
+2019,2016A000235,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,191097.0,False,False,False,True,False,50
+2019,2016A000235,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,156075.0,False,False,False,True,False,60
+2019,2016A000235,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,33637.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,68692.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,288602.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,291631.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,300948.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,251814.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,60453.0,False,False,False,True,False,70
+2020,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,25422.0,False,False,False,True,False,20
+2020,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,102382.0,False,False,False,True,False,30
+2020,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,103074.0,False,False,False,True,False,40
+2020,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,107804.0,False,False,False,True,False,50
+2020,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,90169.0,False,False,False,True,False,60
+2020,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,25566.0,False,False,False,True,False,70
+2020,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,18224.0,False,False,False,True,False,20
+2020,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,73608.0,False,False,False,True,False,30
+2020,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,75658.0,False,False,False,True,False,40
+2020,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,80190.0,False,False,False,True,False,50
+2020,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,67234.0,False,False,False,True,False,60
+2020,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,19890.0,False,False,False,True,False,70
+2020,2016A000235,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,7198.0,False,False,False,True,False,20
+2020,2016A000235,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,28774.0,False,False,False,True,False,30
+2020,2016A000235,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,27416.0,False,False,False,True,False,40
+2020,2016A000235,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,27614.0,False,False,False,True,False,50
+2020,2016A000235,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,22936.0,False,False,False,True,False,60
+2020,2016A000235,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,5676.0,False,False,False,True,False,70
+2020,2016A000235,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,43270.0,False,False,False,True,False,20
+2020,2016A000235,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,186219.0,False,False,False,True,False,30
+2020,2016A000235,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,188557.0,False,False,False,True,False,40
+2020,2016A000235,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,193144.0,False,False,False,True,False,50
+2020,2016A000235,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,161645.0,False,False,False,True,False,60
+2020,2016A000235,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,34887.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,76536.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,313785.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,314318.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,323859.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,270787.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,65892.0,False,False,False,True,False,70
+2021,2016A000235,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,28277.0,False,False,False,True,False,20
+2021,2016A000235,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,112768.0,False,False,False,True,False,30
+2021,2016A000235,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,113080.0,False,False,False,True,False,40
+2021,2016A000235,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,118193.0,False,False,False,True,False,50
+2021,2016A000235,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,98801.0,False,False,False,True,False,60
+2021,2016A000235,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,28358.0,False,False,False,True,False,70
+2021,2016A000235,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,20027.0,False,False,False,True,False,20
+2021,2016A000235,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,80301.0,False,False,False,True,False,30
+2021,2016A000235,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,82334.0,False,False,False,True,False,40
+2021,2016A000235,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,87243.0,False,False,False,True,False,50
+2021,2016A000235,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,73007.0,False,False,False,True,False,60
+2021,2016A000235,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,21883.0,False,False,False,True,False,70
+2021,2016A000235,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,8250.0,False,False,False,True,False,20
+2021,2016A000235,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,32467.0,False,False,False,True,False,30
+2021,2016A000235,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,30745.0,False,False,False,True,False,40
+2021,2016A000235,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,30950.0,False,False,False,True,False,50
+2021,2016A000235,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,25794.0,False,False,False,True,False,60
+2021,2016A000235,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,6474.0,False,False,False,True,False,70
+2021,2016A000235,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,48259.0,False,False,False,True,False,20
+2021,2016A000235,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,201017.0,False,False,False,True,False,30
+2021,2016A000235,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,201238.0,False,False,False,True,False,40
+2021,2016A000235,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,205666.0,False,False,False,True,False,50
+2021,2016A000235,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,171986.0,False,False,False,True,False,60
+2021,2016A000235,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,37535.0,False,False,False,True,False,70
+2019,2016A000224,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,56176.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,196305.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,236759.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,228906.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,181397.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,33529.0,False,False,False,False,True,70
+2019,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,19565.0,False,False,False,False,True,20
+2019,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,62759.0,False,False,False,False,True,30
+2019,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,72567.0,False,False,False,False,True,40
+2019,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,68558.0,False,False,False,False,True,50
+2019,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,59797.0,False,False,False,False,True,60
+2019,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,13892.0,False,False,False,False,True,70
+2019,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,13851.0,False,False,False,False,True,20
+2019,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,44905.0,False,False,False,False,True,30
+2019,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,53112.0,False,False,False,False,True,40
+2019,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,50663.0,False,False,False,False,True,50
+2019,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,43808.0,False,False,False,False,True,60
+2019,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,10606.0,False,False,False,False,True,70
+2019,2016A000224,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,5714.0,False,False,False,False,True,20
+2019,2016A000224,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,17854.0,False,False,False,False,True,30
+2019,2016A000224,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,19456.0,False,False,False,False,True,40
+2019,2016A000224,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,17894.0,False,False,False,False,True,50
+2019,2016A000224,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,15989.0,False,False,False,False,True,60
+2019,2016A000224,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,3287.0,False,False,False,False,True,70
+2019,2016A000224,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,36611.0,False,False,False,False,True,20
+2019,2016A000224,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,133545.0,False,False,False,False,True,30
+2019,2016A000224,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,164191.0,False,False,False,False,True,40
+2019,2016A000224,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,160349.0,False,False,False,False,True,50
+2019,2016A000224,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,121600.0,False,False,False,False,True,60
+2019,2016A000224,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,19636.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,52614.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,193975.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,236216.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,222469.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,176088.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,31939.0,False,False,False,False,True,70
+2020,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,16598.0,False,False,False,False,True,20
+2020,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,57929.0,False,False,False,False,True,30
+2020,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,67741.0,False,False,False,False,True,40
+2020,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,63210.0,False,False,False,False,True,50
+2020,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,54647.0,False,False,False,False,True,60
+2020,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,12261.0,False,False,False,False,True,70
+2020,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,11991.0,False,False,False,False,True,20
+2020,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,42125.0,False,False,False,False,True,30
+2020,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,50379.0,False,False,False,False,True,40
+2020,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,47565.0,False,False,False,False,True,50
+2020,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,40606.0,False,False,False,False,True,60
+2020,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,9379.0,False,False,False,False,True,70
+2020,2016A000224,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,4606.0,False,False,False,False,True,20
+2020,2016A000224,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,15804.0,False,False,False,False,True,30
+2020,2016A000224,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,17362.0,False,False,False,False,True,40
+2020,2016A000224,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,15645.0,False,False,False,False,True,50
+2020,2016A000224,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,14040.0,False,False,False,False,True,60
+2020,2016A000224,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,2883.0,False,False,False,False,True,70
+2020,2016A000224,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,36016.0,False,False,False,False,True,20
+2020,2016A000224,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,136046.0,False,False,False,False,True,30
+2020,2016A000224,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,168475.0,False,False,False,False,True,40
+2020,2016A000224,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,159259.0,False,False,False,False,True,50
+2020,2016A000224,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,121441.0,False,False,False,False,True,60
+2020,2016A000224,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,19678.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,58478.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,209219.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,254000.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,238356.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,188864.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions,65 years old and over,Hours worked,Hours,thousands,34813.0,False,False,False,False,True,70
+2021,2016A000224,Total non-profit institutions excluding governments,15 to 24 years,Hours worked,Hours,thousands,19045.0,False,False,False,False,True,20
+2021,2016A000224,Total non-profit institutions excluding governments,25 to 34 years,Hours worked,Hours,thousands,63379.0,False,False,False,False,True,30
+2021,2016A000224,Total non-profit institutions excluding governments,35 to 44 years,Hours worked,Hours,thousands,73620.0,False,False,False,False,True,40
+2021,2016A000224,Total non-profit institutions excluding governments,45 to 54 years,Hours worked,Hours,thousands,68514.0,False,False,False,False,True,50
+2021,2016A000224,Total non-profit institutions excluding governments,55 to 64 years,Hours worked,Hours,thousands,59249.0,False,False,False,False,True,60
+2021,2016A000224,Total non-profit institutions excluding governments,65 years old and over,Hours worked,Hours,thousands,13490.0,False,False,False,False,True,70
+2021,2016A000224,Non-profit institutions serving households (community organizations),15 to 24 years,Hours worked,Hours,thousands,13769.0,False,False,False,False,True,20
+2021,2016A000224,Non-profit institutions serving households (community organizations),25 to 34 years,Hours worked,Hours,thousands,45919.0,False,False,False,False,True,30
+2021,2016A000224,Non-profit institutions serving households (community organizations),35 to 44 years,Hours worked,Hours,thousands,54557.0,False,False,False,False,True,40
+2021,2016A000224,Non-profit institutions serving households (community organizations),45 to 54 years,Hours worked,Hours,thousands,51317.0,False,False,False,False,True,50
+2021,2016A000224,Non-profit institutions serving households (community organizations),55 to 64 years,Hours worked,Hours,thousands,43751.0,False,False,False,False,True,60
+2021,2016A000224,Non-profit institutions serving households (community organizations),65 years old and over,Hours worked,Hours,thousands,10249.0,False,False,False,False,True,70
+2021,2016A000224,Business non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,5276.0,False,False,False,False,True,20
+2021,2016A000224,Business non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,17461.0,False,False,False,False,True,30
+2021,2016A000224,Business non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,19062.0,False,False,False,False,True,40
+2021,2016A000224,Business non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,17198.0,False,False,False,False,True,50
+2021,2016A000224,Business non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,15497.0,False,False,False,False,True,60
+2021,2016A000224,Business non-profit institutions,65 years old and over,Hours worked,Hours,thousands,3241.0,False,False,False,False,True,70
+2021,2016A000224,Government non-profit institutions,15 to 24 years,Hours worked,Hours,thousands,39434.0,False,False,False,False,True,20
+2021,2016A000224,Government non-profit institutions,25 to 34 years,Hours worked,Hours,thousands,145840.0,False,False,False,False,True,30
+2021,2016A000224,Government non-profit institutions,35 to 44 years,Hours worked,Hours,thousands,180380.0,False,False,False,False,True,40
+2021,2016A000224,Government non-profit institutions,45 to 54 years,Hours worked,Hours,thousands,169841.0,False,False,False,False,True,50
+2021,2016A000224,Government non-profit institutions,55 to 64 years,Hours worked,Hours,thousands,129615.0,False,False,False,False,True,60
+2021,2016A000224,Government non-profit institutions,65 years old and over,Hours worked,Hours,thousands,21323.0,False,False,False,False,True,70

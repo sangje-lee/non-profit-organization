@@ -1,0 +1,226 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Education_group
+2019,2016A000248,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,83554.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19468.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,239418.0,True,False,False,False,False,3
+2019,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,35698.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,7186.0,True,False,False,False,False,2
+2019,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,63746.0,True,False,False,False,False,3
+2019,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,24535.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4747.0,True,False,False,False,False,2
+2019,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,49559.0,True,False,False,False,False,3
+2019,2016A000248,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,11162.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2439.0,True,False,False,False,False,2
+2019,2016A000248,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,14187.0,True,False,False,False,False,3
+2019,2016A000248,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,47857.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12281.0,True,False,False,False,False,2
+2019,2016A000248,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,175672.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,74226.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,17083.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,231131.0,True,False,False,False,False,3
+2020,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,29274.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,5757.0,True,False,False,False,False,2
+2020,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,56802.0,True,False,False,False,False,3
+2020,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,19955.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,3807.0,True,False,False,False,False,2
+2020,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,43830.0,True,False,False,False,False,3
+2020,2016A000248,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,9318.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,1950.0,True,False,False,False,False,2
+2020,2016A000248,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,12972.0,True,False,False,False,False,3
+2020,2016A000248,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,44952.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,11326.0,True,False,False,False,False,2
+2020,2016A000248,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,174329.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,81487.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,18721.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,252204.0,True,False,False,False,False,3
+2021,2016A000248,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,32441.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,6350.0,True,False,False,False,False,2
+2021,2016A000248,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,63221.0,True,False,False,False,False,3
+2021,2016A000248,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,21750.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4118.0,True,False,False,False,False,2
+2021,2016A000248,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,48334.0,True,False,False,False,False,3
+2021,2016A000248,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,10691.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2231.0,True,False,False,False,False,2
+2021,2016A000248,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,14888.0,True,False,False,False,False,3
+2021,2016A000248,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,49046.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12371.0,True,False,False,False,False,2
+2021,2016A000248,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,188982.0,True,False,False,False,False,3
+2019,2016A000259,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,87089.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19859.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,288262.0,False,True,False,False,False,3
+2019,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,44156.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,8525.0,False,True,False,False,False,2
+2019,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,95034.0,False,True,False,False,False,3
+2019,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,28343.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,5068.0,False,True,False,False,False,2
+2019,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,71941.0,False,True,False,False,False,3
+2019,2016A000259,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,15814.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3457.0,False,True,False,False,False,2
+2019,2016A000259,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,23092.0,False,True,False,False,False,3
+2019,2016A000259,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,42933.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,11334.0,False,True,False,False,False,2
+2019,2016A000259,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,193228.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,82159.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,18223.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,293582.0,False,True,False,False,False,3
+2020,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,37663.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,6939.0,False,True,False,False,False,2
+2020,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,89116.0,False,True,False,False,False,3
+2020,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,24941.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4357.0,False,True,False,False,False,2
+2020,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,67724.0,False,True,False,False,False,3
+2020,2016A000259,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,12721.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2582.0,False,True,False,False,False,2
+2020,2016A000259,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,21392.0,False,True,False,False,False,3
+2020,2016A000259,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,44496.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,11284.0,False,True,False,False,False,2
+2020,2016A000259,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,204467.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,89960.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19808.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,307281.0,False,True,False,False,False,3
+2021,2016A000259,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,42096.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,7728.0,False,True,False,False,False,2
+2021,2016A000259,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,96064.0,False,True,False,False,False,3
+2021,2016A000259,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,27628.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,4834.0,False,True,False,False,False,2
+2021,2016A000259,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,71762.0,False,True,False,False,False,3
+2021,2016A000259,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14468.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,2894.0,False,True,False,False,False,2
+2021,2016A000259,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,24303.0,False,True,False,False,False,3
+2021,2016A000259,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,47864.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,12081.0,False,True,False,False,False,2
+2021,2016A000259,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,211217.0,False,True,False,False,False,3
+2019,2016A000212,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,21542.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6703.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,65950.0,False,False,True,False,False,3
+2019,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,7248.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1806.0,False,False,True,False,False,2
+2019,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,16151.0,False,False,True,False,False,3
+2019,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,5176.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1348.0,False,False,True,False,False,2
+2019,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,12982.0,False,False,True,False,False,3
+2019,2016A000212,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,2071.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,459.0,False,False,True,False,False,2
+2019,2016A000212,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3169.0,False,False,True,False,False,3
+2019,2016A000212,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14294.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4897.0,False,False,True,False,False,2
+2019,2016A000212,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,49798.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,20394.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6163.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,67087.0,False,False,True,False,False,3
+2020,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6254.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1494.0,False,False,True,False,False,2
+2020,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,14985.0,False,False,True,False,False,3
+2020,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,4538.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1145.0,False,False,True,False,False,2
+2020,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,11879.0,False,False,True,False,False,3
+2020,2016A000212,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1717.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,349.0,False,False,True,False,False,2
+2020,2016A000212,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3106.0,False,False,True,False,False,3
+2020,2016A000212,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14139.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4669.0,False,False,True,False,False,2
+2020,2016A000212,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,52102.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,21701.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,6421.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,67375.0,False,False,True,False,False,3
+2021,2016A000212,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,6974.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,1671.0,False,False,True,False,False,2
+2021,2016A000212,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,16122.0,False,False,True,False,False,3
+2021,2016A000212,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,5068.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,1284.0,False,False,True,False,False,2
+2021,2016A000212,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,12803.0,False,False,True,False,False,3
+2021,2016A000212,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,1906.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,387.0,False,False,True,False,False,2
+2021,2016A000212,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,3319.0,False,False,True,False,False,3
+2021,2016A000212,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14727.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4749.0,False,False,True,False,False,2
+2021,2016A000212,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,51253.0,False,False,True,False,False,3
+2019,2016A000235,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,199483.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,35706.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,706103.0,False,False,False,True,False,3
+2019,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,102374.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,16475.0,False,False,False,True,False,2
+2019,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,263225.0,False,False,False,True,False,3
+2019,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,69684.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,11467.0,False,False,False,True,False,2
+2019,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,198494.0,False,False,False,True,False,3
+2019,2016A000235,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,32690.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,5008.0,False,False,False,True,False,2
+2019,2016A000235,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,64731.0,False,False,False,True,False,3
+2019,2016A000235,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,97109.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19230.0,False,False,False,True,False,2
+2019,2016A000235,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,442878.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,180946.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,31865.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,700573.0,False,False,False,True,False,3
+2020,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,84351.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,13294.0,False,False,False,True,False,2
+2020,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,235984.0,False,False,False,True,False,3
+2020,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,57826.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,9306.0,False,False,False,True,False,2
+2020,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,175180.0,False,False,False,True,False,3
+2020,2016A000235,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,26525.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,3988.0,False,False,False,True,False,2
+2020,2016A000235,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,60804.0,False,False,False,True,False,3
+2020,2016A000235,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,96595.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,18571.0,False,False,False,True,False,2
+2020,2016A000235,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,464588.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,197490.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,34499.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,755243.0,False,False,False,True,False,3
+2021,2016A000235,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,93030.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,14697.0,False,False,False,True,False,2
+2021,2016A000235,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,258735.0,False,False,False,True,False,3
+2021,2016A000235,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,63321.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,10214.0,False,False,False,True,False,2
+2021,2016A000235,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,189865.0,False,False,False,True,False,3
+2021,2016A000235,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,29709.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,4483.0,False,False,False,True,False,2
+2021,2016A000235,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,68870.0,False,False,False,True,False,3
+2021,2016A000235,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,104460.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,19802.0,False,False,False,True,False,2
+2021,2016A000235,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,496508.0,False,False,False,True,False,3
+2019,2016A000224,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,146687.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,147725.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,419623.0,False,False,False,False,True,3
+2019,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,58775.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,33328.0,False,False,False,False,True,2
+2019,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,133193.0,False,False,False,False,True,3
+2019,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,41120.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,23666.0,False,False,False,False,True,2
+2019,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,97222.0,False,False,False,False,True,3
+2019,2016A000224,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,17655.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,9662.0,False,False,False,False,True,2
+2019,2016A000224,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,35971.0,False,False,False,False,True,3
+2019,2016A000224,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,87912.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,114397.0,False,False,False,False,True,2
+2019,2016A000224,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,286430.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,138940.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,144515.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,415855.0,False,False,False,False,True,3
+2020,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,51384.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,29418.0,False,False,False,False,True,2
+2020,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,124898.0,False,False,False,False,True,3
+2020,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,36725.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,21427.0,False,False,False,False,True,2
+2020,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,91916.0,False,False,False,False,True,3
+2020,2016A000224,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,14659.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,7991.0,False,False,False,False,True,2
+2020,2016A000224,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,32982.0,False,False,False,False,True,3
+2020,2016A000224,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,87556.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,115097.0,False,False,False,False,True,2
+2020,2016A000224,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,290957.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,150112.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Trade certificate,Hours worked,Hours,thousands,153953.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions,University degree and higher,Hours worked,Hours,thousands,448708.0,False,False,False,False,True,3
+2021,2016A000224,Total non-profit institutions excluding governments,High school diploma and less,Hours worked,Hours,thousands,56615.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Trade certificate,Hours worked,Hours,thousands,32191.0,False,False,False,False,True,2
+2021,2016A000224,Total non-profit institutions excluding governments,University degree and higher,Hours worked,Hours,thousands,136246.0,False,False,False,False,True,3
+2021,2016A000224,Non-profit institutions serving households (community organizations),High school diploma and less,Hours worked,Hours,thousands,40270.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Trade certificate,Hours worked,Hours,thousands,23339.0,False,False,False,False,True,2
+2021,2016A000224,Non-profit institutions serving households (community organizations),University degree and higher,Hours worked,Hours,thousands,99901.0,False,False,False,False,True,3
+2021,2016A000224,Business non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,16344.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Trade certificate,Hours worked,Hours,thousands,8852.0,False,False,False,False,True,2
+2021,2016A000224,Business non-profit institutions,University degree and higher,Hours worked,Hours,thousands,36345.0,False,False,False,False,True,3
+2021,2016A000224,Government non-profit institutions,High school diploma and less,Hours worked,Hours,thousands,93497.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Trade certificate,Hours worked,Hours,thousands,121762.0,False,False,False,False,True,2
+2021,2016A000224,Government non-profit institutions,University degree and higher,Hours worked,Hours,thousands,312462.0,False,False,False,False,True,3

@@ -1,0 +1,151 @@
+REF_DATE,DGUID,Sector,Characteristics,Indicators,UOM,SCALAR_FACTOR,VALUE,GEO_Alberta,GEO_British Columbia,GEO_Nova Scotia,GEO_Ontario,GEO_Quebec,Gender_group
+2019,2016A000248,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62477.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48712.0,True,False,False,False,False,0
+2019,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53727.0,True,False,False,False,False,1
+2019,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,38418.0,True,False,False,False,False,0
+2019,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,49633.0,True,False,False,False,False,1
+2019,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,36875.0,True,False,False,False,False,0
+2019,2016A000248,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63073.0,True,False,False,False,False,1
+2019,2016A000248,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44203.0,True,False,False,False,False,0
+2019,2016A000248,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67696.0,True,False,False,False,False,1
+2019,2016A000248,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52537.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64381.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,50465.0,True,False,False,False,False,0
+2020,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57567.0,True,False,False,False,False,1
+2020,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41404.0,True,False,False,False,False,0
+2020,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53644.0,True,False,False,False,False,1
+2020,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,39529.0,True,False,False,False,False,0
+2020,2016A000248,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66122.0,True,False,False,False,False,1
+2020,2016A000248,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48029.0,True,False,False,False,False,0
+2020,2016A000248,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67912.0,True,False,False,False,False,1
+2020,2016A000248,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53545.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64789.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51171.0,True,False,False,False,False,0
+2021,2016A000248,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57375.0,True,False,False,False,False,1
+2021,2016A000248,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41983.0,True,False,False,False,False,0
+2021,2016A000248,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53953.0,True,False,False,False,False,1
+2021,2016A000248,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40578.0,True,False,False,False,False,0
+2021,2016A000248,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64509.0,True,False,False,False,False,1
+2021,2016A000248,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46553.0,True,False,False,False,False,0
+2021,2016A000248,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,68774.0,True,False,False,False,False,1
+2021,2016A000248,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54325.0,True,False,False,False,False,0
+2019,2016A000259,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57019.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,46426.0,False,True,False,False,False,0
+2019,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,49597.0,False,True,False,False,False,1
+2019,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,37179.0,False,True,False,False,False,0
+2019,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,45695.0,False,True,False,False,False,1
+2019,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,36088.0,False,True,False,False,False,0
+2019,2016A000259,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57220.0,False,True,False,False,False,1
+2019,2016A000259,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,40840.0,False,True,False,False,False,0
+2019,2016A000259,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62567.0,False,True,False,False,False,1
+2019,2016A000259,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51180.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60304.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49495.0,False,True,False,False,False,0
+2020,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53375.0,False,True,False,False,False,1
+2020,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41521.0,False,True,False,False,False,0
+2020,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,50048.0,False,True,False,False,False,1
+2020,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40376.0,False,True,False,False,False,0
+2020,2016A000259,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60548.0,False,True,False,False,False,1
+2020,2016A000259,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45348.0,False,True,False,False,False,0
+2020,2016A000259,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64658.0,False,True,False,False,False,1
+2020,2016A000259,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52963.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60740.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49674.0,False,True,False,False,False,0
+2021,2016A000259,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,53791.0,False,True,False,False,False,1
+2021,2016A000259,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41640.0,False,True,False,False,False,0
+2021,2016A000259,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,50330.0,False,True,False,False,False,1
+2021,2016A000259,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,40486.0,False,True,False,False,False,0
+2021,2016A000259,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60712.0,False,True,False,False,False,1
+2021,2016A000259,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45290.0,False,True,False,False,False,0
+2021,2016A000259,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,65515.0,False,True,False,False,False,1
+2021,2016A000259,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53507.0,False,True,False,False,False,0
+2019,2016A000212,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48964.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44587.0,False,False,True,False,False,0
+2019,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,39325.0,False,False,True,False,False,1
+2019,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,33537.0,False,False,True,False,False,0
+2019,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,36768.0,False,False,True,False,False,1
+2019,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,32646.0,False,False,True,False,False,0
+2019,2016A000212,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,46025.0,False,False,True,False,False,1
+2019,2016A000212,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,37779.0,False,False,True,False,False,0
+2019,2016A000212,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,53361.0,False,False,True,False,False,1
+2019,2016A000212,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,48169.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52454.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,47996.0,False,False,True,False,False,0
+2020,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42081.0,False,False,True,False,False,1
+2020,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36363.0,False,False,True,False,False,0
+2020,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39711.0,False,False,True,False,False,1
+2020,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35224.0,False,False,True,False,False,0
+2020,2016A000212,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48794.0,False,False,True,False,False,1
+2020,2016A000212,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41717.0,False,False,True,False,False,0
+2020,2016A000212,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56852.0,False,False,True,False,False,1
+2020,2016A000212,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51604.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52839.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49072.0,False,False,True,False,False,0
+2021,2016A000212,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,42012.0,False,False,True,False,False,1
+2021,2016A000212,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,36572.0,False,False,True,False,False,0
+2021,2016A000212,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39601.0,False,False,True,False,False,1
+2021,2016A000212,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,35517.0,False,False,True,False,False,0
+2021,2016A000212,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,48748.0,False,False,True,False,False,1
+2021,2016A000212,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,41518.0,False,False,True,False,False,0
+2021,2016A000212,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57597.0,False,False,True,False,False,1
+2021,2016A000212,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,53069.0,False,False,True,False,False,0
+2019,2016A000235,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,58995.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,51007.0,False,False,False,True,False,0
+2019,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,51996.0,False,False,False,True,False,1
+2019,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,41553.0,False,False,False,True,False,0
+2019,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,47011.0,False,False,False,True,False,1
+2019,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,39459.0,False,False,False,True,False,0
+2019,2016A000235,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62858.0,False,False,False,True,False,1
+2019,2016A000235,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49638.0,False,False,False,True,False,0
+2019,2016A000235,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,64419.0,False,False,False,True,False,1
+2019,2016A000235,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,56946.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,62798.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54309.0,False,False,False,True,False,0
+2020,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,57431.0,False,False,False,True,False,1
+2020,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,46131.0,False,False,False,True,False,0
+2020,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,51946.0,False,False,False,True,False,1
+2020,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,43630.0,False,False,False,True,False,0
+2020,2016A000235,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,69656.0,False,False,False,True,False,1
+2020,2016A000235,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55688.0,False,False,False,True,False,0
+2020,2016A000235,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,66426.0,False,False,False,True,False,1
+2020,2016A000235,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,58848.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,63921.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55133.0,False,False,False,True,False,0
+2021,2016A000235,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,58668.0,False,False,False,True,False,1
+2021,2016A000235,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,47139.0,False,False,False,True,False,0
+2021,2016A000235,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,53178.0,False,False,False,True,False,1
+2021,2016A000235,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,44694.0,False,False,False,True,False,0
+2021,2016A000235,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,70067.0,False,False,False,True,False,1
+2021,2016A000235,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,55947.0,False,False,False,True,False,0
+2021,2016A000235,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,67473.0,False,False,False,True,False,1
+2021,2016A000235,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,59616.0,False,False,False,True,False,0
+2019,2016A000224,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,52323.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,45910.0,False,False,False,False,True,0
+2019,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,43212.0,False,False,False,False,True,1
+2019,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,35822.0,False,False,False,False,True,0
+2019,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,39251.0,False,False,False,False,True,1
+2019,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,34703.0,False,False,False,False,True,0
+2019,2016A000224,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,51320.0,False,False,False,False,True,1
+2019,2016A000224,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,39985.0,False,False,False,False,True,0
+2019,2016A000224,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,57328.0,False,False,False,False,True,1
+2019,2016A000224,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,50447.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56131.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49001.0,False,False,False,False,True,0
+2020,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47003.0,False,False,False,False,True,1
+2020,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,39275.0,False,False,False,False,True,0
+2020,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,43077.0,False,False,False,False,True,1
+2020,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,38009.0,False,False,False,False,True,0
+2020,2016A000224,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,55493.0,False,False,False,False,True,1
+2020,2016A000224,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44191.0,False,False,False,False,True,0
+2020,2016A000224,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,60521.0,False,False,False,False,True,1
+2020,2016A000224,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,52876.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56668.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,49686.0,False,False,False,False,True,0
+2021,2016A000224,Total non-profit institutions excluding governments,Male employees,Average annual wages and salaries,Dollars,units,47370.0,False,False,False,False,True,1
+2021,2016A000224,Total non-profit institutions excluding governments,Female employees,Average annual wages and salaries,Dollars,units,39283.0,False,False,False,False,True,0
+2021,2016A000224,Non-profit institutions serving households (community organizations),Male employees,Average annual wages and salaries,Dollars,units,42970.0,False,False,False,False,True,1
+2021,2016A000224,Non-profit institutions serving households (community organizations),Female employees,Average annual wages and salaries,Dollars,units,37777.0,False,False,False,False,True,0
+2021,2016A000224,Business non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,56691.0,False,False,False,False,True,1
+2021,2016A000224,Business non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,44939.0,False,False,False,False,True,0
+2021,2016A000224,Government non-profit institutions,Male employees,Average annual wages and salaries,Dollars,units,61372.0,False,False,False,False,True,1
+2021,2016A000224,Government non-profit institutions,Female employees,Average annual wages and salaries,Dollars,units,54012.0,False,False,False,False,True,0
