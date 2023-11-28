@@ -30,12 +30,17 @@ Division of into new dataset based on Indicator
   <li>df_WagesAndSalaries - Wages and Salaries</li>
 </ul>
 
-Division of into new datasset based on the GEO/year
+Division of into new dataset based on the GEO/year
 <ul>
   <li>df_AvgAnnHrsWrk_2010       - Average annual hours worked in 2010</li>
   <li>df_AvgAnnHrsWrk_2013       - Average annual hours worked in 2013</li>
   <li>df_AvgAnnHrsWrk_2016       - Average annual hours worked in 2016</li>
   <li>df_AvgAnnHrsWrk_2019       - Average annual hours worked in 2019</li>
+</ul>
+Then merge into
+<ul>
+  <li>training_df_AvgAnnHrsWrk       - Average annual hours worked for training set (2013-2018) </li>
+  <li>testing_df_AvgAnnHrsWrk        - Average annual hours worked for testing set (2019-2021) </li>
 </ul>
 Not being used anymore
 <ul>
@@ -46,20 +51,20 @@ Not being used anymore
 # Variable names involve during the analysis
 Division of into new dataset based on the group of Characteristics
 <ul>
-  <li>df_WagesAndSalaries_201x_ByAge          - Wages and Salaries in 201x By Age</li>
-  <li>df_WagesAndSalaries_201x_ByGender       - Wages and Salaries in 201x By Gender Group</li>
-  <li>df_WagesAndSalaries_201x_ByEducation    - Wages and Salaries in 201x By Education level</li>
-  <li>df_WagesAndSalaries_201x_ByImmigrant    - Wages and Salaries in 201x By Immigrant level</li>
-  <li>df_WagesAndSalaries_201x_ByIndigenous   - Wages and Salaries in 201x By Indigenous status</li>
+  <li>testing_df_WagesAndSalaries_ByAge          - Wages and Salaries By Age For Testing set</li>
+  <li>testing_df_WagesAndSalaries_ByGender       - Wages and Salaries By Gender Group For Testing set</li>
+  <li>testing_df_WagesAndSalaries_ByEducation    - Wages and Salaries By Education level For Testing set</li>
+  <li>testing_df_WagesAndSalaries_ByImmigrant    - Wages and Salaries By Immigrant level For Testing set</li>
+  <li>testing_df_WagesAndSalaries_ByIndigenous   - Wages and Salaries By Indigenous status For Testing set</li>
 </ul>
 
 Division of into new dataset based on the provinces
 <ul>
-  <li>df_AvgAnnHrsWrk_201x_ByAge_Provinces        - Average annual hours worked in 201x by age group grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByGender_Provinces     - Average annual hours worked in 201x by gender grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByEducation_Provinces  - Average annual hours worked in 201x by education level grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByImmigrant_Provinces  - Average annual hours worked in 201x by immigrant status  grouped by provinces</li>
-  <li>df_AvgAnnHrsWrk_201x_ByIndigenous_Provinces - Average annual hours worked in 201x by indigenous status grouped by provinces</li>
+  <li>testing_df_AvgAnnHrsWrk_ByAge_Provinces        - Average annual hours worked for testing set by age group grouped by provinces</li>
+  <li>testing_df_AvgAnnHrsWrk_ByGender_Provinces     - Average annual hours worked for testing set by gender grouped by provinces</li>
+  <li>testing_df_AvgAnnHrsWrk_ByEducation_Provinces  - Average annual hours worked for testing set by education level grouped by provinces</li>
+  <li>testing_df_AvgAnnHrsWrk_ByImmigrant_Provinces  - Average annual hours worked for testing set by immigrant status  grouped by provinces</li>
+  <li>testing_df_AvgAnnHrsWrk_ByIndigenous_Provinces - Average annual hours worked for testing set by indigenous status grouped by provinces</li>
 </ul>
 
 ProvinceAnalysis(df_AvgAnnHrsWrk_201x_ByAge, pd, np, pp) - Create new object using ProvinceAnalysis using datasets and other necessary part.
